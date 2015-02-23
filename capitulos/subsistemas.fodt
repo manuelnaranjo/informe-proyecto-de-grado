@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-22T20:45:33.563289723</dc:date><meta:editing-duration>P3DT16H53M11S</meta:editing-duration><meta:editing-cycles>240</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="6" meta:image-count="7" meta:object-count="0" meta:page-count="12" meta:paragraph-count="79" meta:word-count="4609" meta:character-count="27719" meta:non-whitespace-character-count="23201"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-23T10:14:00.175679800</dc:date><meta:editing-duration>P3DT16H55M</meta:editing-duration><meta:editing-cycles>241</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="6" meta:image-count="7" meta:object-count="0" meta:page-count="12" meta:paragraph-count="80" meta:word-count="4615" meta:character-count="27762" meta:non-whitespace-character-count="23238"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">212</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">17357</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">19660</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21989</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">20189</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15268</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19486</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">27707</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">17357</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">20188</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">32623</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="PrintFaxName" config:type="string"/>
@@ -66,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">2020416</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2034331</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -104,7 +120,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -1287,6 +1305,7 @@
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001f0a9b"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
@@ -1297,10 +1316,7 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Header_20_left">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="8.5cm" style:type="center"/>
@@ -1308,6 +1324,16 @@
      <style:tab-stop style:position="17cm" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+     <style:tab-stop style:position="17.013cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="001f0a9b"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
@@ -1336,25 +1362,74 @@
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-size="2pt" style:font-size-asian="2pt" style:font-size-complex="2pt"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num10">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="1.247cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num10">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops>
      <style:tab-stop style:position="1.247cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="First_20_Page">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="2pt" style:font-size-asian="2pt" style:font-size-complex="2pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+     <style:tab-stop style:position="17.013cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+     <style:tab-stop style:position="17.013cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="001f0a9b"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="13.018cm" style:type="right"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001f0a9b"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num10">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num10">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name-asian="Liberation Serif1" style:font-name-complex="Liberation Serif1"/>
@@ -1367,7 +1442,7 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.508cm" style:dynamic-spacing="false"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-bottom="0.499cm"/>
    </style:header-style>
    <style:footer-style>
     <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm"/>
@@ -1378,18 +1453,11 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.499cm"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-bottom="0.499cm"/>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm"/>
    </style:footer-style>
-  </style:page-layout>
-  <style:page-layout style:name="pm3">
-   <style:page-layout-properties fo:page-width="21.006cm" fo:page-height="29.693cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
-    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
-   </style:page-layout-properties>
-   <style:header-style/>
-   <style:footer-style/>
   </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
@@ -1401,15 +1469,22 @@
     <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">12</text:page-number></text:p>
    </style:footer>
   </style:master-page>
-  <style:master-page style:name="Index" style:page-layout-name="pm2">
+  <style:master-page style:name="Index" style:page-layout-name="pm1">
    <style:header>
-    <text:p text:style-name="P3">Reingenería de torno CNC</text:p>
+    <text:p text:style-name="Header"/>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P4"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/><text:tab/>Página <text:page-number style:num-format="i" text:select-page="current"/></text:p>
+    <text:p text:style-name="P3"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/><text:tab/>Página <text:page-number style:num-format="i" text:select-page="current"/></text:p>
    </style:footer>
   </style:master-page>
-  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm3" style:next-style-name="Standard"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard">
+   <style:header>
+    <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
+   </style:header>
+   <style:footer>
+    <text:p text:style-name="P4"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">1</text:page-number></text:p>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -1420,36 +1495,36 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
    </text:sequence-decls>
-   <text:h text:style-name="P13" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188332_359546015"/><text:reference-mark-start text:name="subsistemas"/>Subsistemas<text:bookmark-end text:name="__RefHeading__188332_359546015"/><text:reference-mark-end text:name="subsistemas"/></text:h>
+   <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188332_359546015"/><text:reference-mark-start text:name="subsistemas"/>Subsistemas<text:bookmark-end text:name="__RefHeading__188332_359546015"/><text:reference-mark-end text:name="subsistemas"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188334_359546015"/>Intercambiador de herramientas<text:bookmark-end text:name="__RefHeading__188334_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">El cambiador de herramientas se compone de varias partes:</text:p>
-   <text:list xml:id="list6836753144976135293" text:style-name="WW8Num10">
+   <text:list xml:id="list5539057127231120170" text:style-name="WW8Num10">
     <text:list-item>
-     <text:p text:style-name="P12">Plato porta-herramientas.</text:p>
+     <text:p text:style-name="P20">Plato porta-herramientas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Bancada porta-herramientas</text:p>
+     <text:p text:style-name="P20">Bancada porta-herramientas</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Sistema de traba mecánica o clamp.</text:p>
+     <text:p text:style-name="P20">Sistema de traba mecánica o clamp.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Caja reductora.</text:p>
+     <text:p text:style-name="P20">Caja reductora.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Servo motor.</text:p>
+     <text:p text:style-name="P20">Servo motor.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Actuador neumático de dos vías controlado vía válvula neumática de dos vías.</text:p>
+     <text:p text:style-name="P20">Actuador neumático de dos vías controlado vía válvula neumática de dos vías.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Sensor de fin de carrera de traba mecánica (clamp).</text:p>
+     <text:p text:style-name="P20">Sensor de fin de carrera de traba mecánica (clamp).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12">Sensor de fin de carrera de liberación mecánica (unclamp).</text:p>
+     <text:p text:style-name="P20">Sensor de fin de carrera de liberación mecánica (unclamp).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Sensor de referencia de inicio de giro del plato porta-herramientas (IREF0T)</text:p>
+     <text:p text:style-name="P19">Sensor de referencia de inicio de giro del plato porta-herramientas (IREF0T)</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">El sistema mecánico de traba se compone de varias clavijas metálicas calibradas las cuales se encuentran distribuidas geométricamente tanto en el plato como en la bancada, dichas clavijas se distribuyen en contraposición. Donde se ubica un agujero en el plato se coloca una clavija de la bancada, de tal forma que cuando el sistema se somete al trabajo realizado por la presión neumática tanto las clavijas de la bancada como las del plato formen una corona metálica casi perfecta, sin espacios vacíos. Dicha disposición permite que al momento de trabajar la herramienta sobre la pieza de corte los torques resultantes por el desbaste sean absorbidos mecánicamente por la traba mecánica y no por el servo motor.</text:p>
@@ -1470,29 +1545,29 @@
       </office:binary-data>
      </draw:image>
     </draw:frame> , donde T es la herramienta a seleccionar. La controladora permite no sólo trabajar con coordenadas circulares lo cual evita tener que llevar la cuenta de pasos en el código del PLC sino que sencillamente permite pasarle la cantidad de grados deseados y la controladora calcula el camino más corto realizando el movimiento controlado, sino que también permite configurar la relación de transformación de vueltas del eje del motor a vueltas del plato vía la relación de transformación. La puesta a punto de este motor y la configuración de dichas constantes es explicada en la sección sec:puesta-eje-t</text:p>
-   <text:p text:style-name="Text_20_body">El sistema cuenta básicamente de 2 estados: estado inmovilizado (clamped) y estado de cambio de herramienta o destrabado (unclamped), habiendo estados de transición en los cuales hay que tener ciertas precauciones respecto de los movimientos posibles. Para pasar de un estado al otro la máquina cuenta con un actuador neumático de doble vía, el cuál es controlado por la salida OUNCLAMP, para garantizar la sincronización de los movimientos también se cuenta con 2 detectores de fin de carrera ICLAMP y IUNCLAMP los cuales respectivamente permiten saber cuándo el sistema se encuentra completamente bloqueado con la herramienta posicionada, y cuando se encuentra liberado para que el movimiento pueda ser realizado, el estado de dichos sensores es muy importante a fin de evitar daños mecánicos en la máquina y evitar movimientos oscilatorios en el motor por movimientos propios de la transición de estados.</text:p>
-   <text:p text:style-name="Text_20_body">En la fig:petri-cambiador se presenta un diagrama simplificado de operación del cambiador de herramientas, en el mismo se observa que partiendo del estado de traba mecánica (clamped) se <text:soft-page-break/>espera a alguna de las señales de liberación del plato como: cambio manual de herramienta, cambio programado de herramienta, calibración de cambiador de herramientas, una vez detectada dicha señal se libera el actuador neumático (OUNCLAMP=1), se espera a que se alcance el estado de liberación (flanco alto de IUNCLAMP), se activa el motor de control del cambiador (OSERONT=1), se pide a la controladora que avance el eje de la herramienta a TG dónde TG es calculado con <text:a xlink:type="simple" xlink:href="#formula-cambio-herramienta" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.1</text:span></text:a> (CNC Y=TG), se espera a que se alcance la posición y finalmente se alcanza el estado unclamped. Por el contrario la transición del estado unclamped al clamped es más sencilla: se desactiva el motor de control del cambiador (OSERONT=0) y se traba el actuador neumático (OUNCLAMP=0) por último se espera a la señal de fijación (flanco positivo en ICLAMP).</text:p>
+   <text:p text:style-name="Text_20_body">El sistema cuenta básicamente de 2 estados: estado inmovilizado (clamped) y estado de cambio de herramienta o destrabado (unclamped), habiendo estados de transición en los cuales hay que tener ciertas precauciones respecto de los movimientos posibles. Para pasar de un estado al otro la máquina cuenta con un actuador neumático de doble vía, el cuál es controlado por la salida OUNCLAMP, para garantizar la sincronización de los movimientos también se cuenta con 2 detectores de fin de carrera ICLAMP y IUNCLAMP los cuales respectivamente permiten saber cuándo el sistema se encuentra completamente bloqueado con la herramienta posicionada, y cuando se encuentra liberado para que el movimiento pueda ser realizado, el estado de dichos sensores es muy importante a fin de evitar daños mecánicos en la máquina y evitar movimientos oscilatorios en <text:soft-page-break/>el motor por movimientos propios de la transición de estados.</text:p>
+   <text:p text:style-name="Text_20_body">En la fig:petri-cambiador se presenta un diagrama simplificado de operación del cambiador de herramientas, en el mismo se observa que partiendo del estado de traba mecánica (clamped) se espera a alguna de las señales de liberación del plato como: cambio manual de herramienta, cambio programado de herramienta, calibración de cambiador de herramientas, una vez detectada dicha señal se libera el actuador neumático (OUNCLAMP=1), se espera a que se alcance el estado de liberación (flanco alto de IUNCLAMP), se activa el motor de control del cambiador (OSERONT=1), se pide a la controladora que avance el eje de la herramienta a TG dónde TG es calculado con <text:a xlink:type="simple" xlink:href="#formula-cambio-herramienta" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.1</text:span></text:a> (CNC Y=TG), se espera a que se alcance la posición y finalmente se alcanza el estado unclamped. Por el contrario la transición del estado unclamped al clamped es más sencilla: se desactiva el motor de control del cambiador (OSERONT=0) y se traba el actuador neumático (OUNCLAMP=0) por último se espera a la señal de fijación (flanco positivo en ICLAMP).</text:p>
    <text:p text:style-name="Text_20_body">En realidad el estado unclamped es mayormente de transición el cual fue utilizado sólo en desarrollo y no forma parte del sistema final, ya que se pasa por él sin esperar señal alguna. En el caso de cambio manual de herramienta el usuario presiona el botón de avance y el sistema avanza la herramienta en 1 posición. Si se detecta que el botón se soltó se clampea, caso contrario se vuelve a avanzar hasta que el usuario libere el botón. En el caso de cambio programado una vez alcanzada la posición deseada se procede automáticamente a clampear a fin de reducir tiempos muertos, y finalmente en el caso de calibración del cambiador una vez encontrada la referencia (sistema resuelto automáticamente por la controladora) se vuelve la posición del cambiador a la correspondiente a la herramienta seleccionada en la controladora y se clampea.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188336_359546015"/>Contra punta<text:bookmark-end text:name="__RefHeading__188336_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00420000000000000000"/><text:bookmark text:name="sub%3Asubsistemas-Contra-punta"/>La contra punta o tailstock en inglés, es un sistema mecánico que provee de un apoyo extra a la pieza a ser trabajada, cuando dicha pieza es de dimensiones considerables y se produce un movimiento respecto del eje vertical, al cual se le suele denominar doblez o bending en inglés, lo cual produce piezas cónicas si el mismo no es corregido. Para ello se utiliza una contrapunta que se compone de un cono metálico calibrado que se desplaza sobre un eje paralelo al eje de rotación de la pieza, y se ubica de forma tal de apoyar sobre el punto de rotación de la pieza. Para garantizar dicho punto se realiza un agujero en la pieza una vez que la misma se encuentra centrada, y luego se apoya la contrapunta.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sub%3Asubsistemas-Contra-punta"/><text:bookmark text:name="SECTION00420000000000000000"/>La contra punta o tailstock en inglés, es un sistema mecánico que provee de un apoyo extra a la pieza a ser trabajada, cuando dicha pieza es de dimensiones considerables y se produce un movimiento respecto del eje vertical, al cual se le suele denominar doblez o bending en inglés, lo cual produce piezas cónicas si el mismo no es corregido. Para ello se utiliza una contrapunta que se compone de un cono metálico calibrado que se desplaza sobre un eje paralelo al eje de rotación de la pieza, y se ubica de forma tal de apoyar sobre el punto de rotación de la pieza. Para garantizar dicho punto se realiza un agujero en la pieza una vez que la misma se encuentra centrada, y luego se apoya la contrapunta.</text:p>
    <text:p text:style-name="Text_20_body">Existen diversos tipos de contrapuntas, algunas con movimiento manual, otras con movimiento automático. En el caso particular de las máquinas CNC se utilizan sólo aquellas que son automáticas, las cuales cuentan con diversos sistemas para el control del movimiento, siendo en su mayoría propulsadas con actuadores hidráulicos, a los cuales el operario puede controlar la presión hidráulica dependiendo de la pieza y operación a fin de no dañar la pieza o el cono de la contrapunta.</text:p>
    <text:p text:style-name="Text_20_body">En el caso particular de la máquina reparada se dispone de un cilindro hidráulico, una válvula hidráulica de doble dirección, otra válvula hidráulica la que permite momentáneamente aumentar el caudal hidráulico aumentando la velocidad de desplazamiento, y tres sensores de fin de carrera dispuestos sobre la guía donde se mueva la contra punta. La máquina originalmente tenía una regla dentada que permitía medir la ubicación actual de la contrapunta, pero dado que su utilización era muy compleja, ninguno de los programadores la utilizaba, y se decidió reemplazarlo por los detectores de fin de carrera.</text:p>
-   <text:p text:style-name="Text_20_body">Los detectores se disponen uno en la punta de la guía alejada de la pieza, otro a una distancia de unos 50cm del cabezal donde se trabaja la pieza y otra en un punto intermedio, lo cual permite al operario en función de la pieza a mecanizar elegir a qué punto retornar una vez terminada la operación. A la vez el hecho de contar con la posibilidad de aumentar el flujo hidráulico se utiliza como sensor de posición para pasar de velocidad rápida a velocidad lenta al acercarse a la pieza (el retorno es siempre a velocidad máxima). El operario cuenta con instrucciones de código que le <text:soft-page-break/>permiten ir en velocidad rápida hasta cada uno de los sensores y luego continuar con velocidad lenta.</text:p>
+   <text:p text:style-name="Text_20_body">Los detectores se disponen uno en la punta de la guía alejada de la pieza, otro a una distancia de unos 50cm del cabezal donde se trabaja la pieza y otra en un punto intermedio, lo cual permite al <text:soft-page-break/>operario en función de la pieza a mecanizar elegir a qué punto retornar una vez terminada la operación. A la vez el hecho de contar con la posibilidad de aumentar el flujo hidráulico se utiliza como sensor de posición para pasar de velocidad rápida a velocidad lenta al acercarse a la pieza (el retorno es siempre a velocidad máxima). El operario cuenta con instrucciones de código que le permiten ir en velocidad rápida hasta cada uno de los sensores y luego continuar con velocidad lenta.</text:p>
    <text:p text:style-name="Text_20_body">Es importante destacar que no se programó en el control un área de trabajo seguro de la contrapunta con lo cual es el operario el responsable de verificar que cuando se ejecute el código no se produzcan colisiones entre la pieza, la contra punta y el carro porta herramientas.</text:p>
    <text:p text:style-name="Text_20_body">Existen a la vez tres formas de accionar la contra punta: por código, por teclado en el panel de usuario y por pedal de usuario, aunque el control por pedal de usuario fue anulado por requerimiento de los propios usuarios a fin de evitar accidentes, al confundir el pedal de la contra punta con el pedal del cabezal de la pieza.</text:p>
    <text:p text:style-name="Text_20_body">Se intentó lograr un control preciso de la contra punta basada en tiempos (avanzar tal cantidad de milli segundos a velocidad rápida, luego seguir a velocidad lenta) pero el mismo demostró ser muy complicado y de poca utilidad, dada las características particulares de la empresa y el uso que se le daba a está máquina la contra punta no era un sistema importante por lo cual no tenía mucho sentido invertir demasiados recursos en ello. Un empleado de más de 5 años en la empresa dijo haber usado la contrapunta sólo en un tipo de pieza de todas las producidas, con lo cual optimizar los tiempos muertos por utilización de contra punta no iba a reducir considerablemente los tiempos de producción generales.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188338_359546015"/>Ejes X y Z<text:bookmark-end text:name="__RefHeading__188338_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00430000000000000000"/><text:bookmark text:name="sub%3Asubsitemas-Ejes-X-y-z"/>Los subsistemas del eje X y el Z son bastante similares. Ambos se conforman de un motor trifásico con un encoder de alta resolución solidario al eje, un sistema de transmisión mecánica que permite desacoplar la carga del motor a la vez que absorbe determinadas vibraciones. Siendo la transmisión a la carga realizada con un tornillo de bolas recirculantes que tiene acoplada en su tuerca mecánicamente el carro a mover, convirtiendo el movimiento circular del motor en movimiento lineal del carro como se muestra en la figura <text:a xlink:type="simple" xlink:href="#fig:Tornillo-1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.1</text:span></text:a>. El sistema también cuenta con rodamientos lineales de precisión en ambas extremidades a fin de reducir la fricción.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sub%3Asubsitemas-Ejes-X-y-z"/><text:bookmark text:name="SECTION00430000000000000000"/>Los subsistemas del eje X y el Z son bastante similares. Ambos se conforman de un motor trifásico con un encoder de alta resolución solidario al eje, un sistema de transmisión mecánica que permite desacoplar la carga del motor a la vez que absorbe determinadas vibraciones. Siendo la transmisión a la carga realizada con un tornillo de bolas recirculantes que tiene acoplada en su tuerca mecánicamente el carro a mover, convirtiendo el movimiento circular del motor en movimiento lineal del carro como se muestra en la figura <text:a xlink:type="simple" xlink:href="#fig:Tornillo-1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.1</text:span></text:a>. El sistema también cuenta con rodamientos lineales de precisión en ambas extremidades a fin de reducir la fricción.</text:p>
    <text:p text:style-name="Text_20_body">En la figura <text:a xlink:type="simple" xlink:href="#fig:Tornillo-2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.2</text:span></text:a> se muestra un esquema del tornillo de bolas con su respectiva tuerca, la función de las bolas en el sistema es la de aumentar la superficie de apoyo entre el tornillo y la rosca aumentando la tracción mecánica. Tiene también agregada la ventaja de generar un enlace cuasi rígido que al momento de un cambio de sentido de rotación en el motor previene el efecto de sobre pico denominado backslash en la jerga de control CNC. En el caso del eje X, dado que el mismo se encuentra en un plano inclinado, el fabricante original de la máquina dispuso la ubicación de un resorte resistente que reduce la fuerza necesaria en el tornillo para mantener la posición.</text:p>
-   <text:p text:style-name="Text_20_body">El sistema de control del movimiento se complementa con un sensor de fin de carrera por cada eje, los cuales sirven de referencia para reducir por software la excursión máxima del movimiento de translación de los carros, dado que se conoce la distancia absoluta entre dicho sensor y ambos extremos del recorrido del eje. La controladora CNC cuenta con sistemas integrados de calibración los cuales vienen preparados para uno o varios finales de carrera. Dado que los encoders brindan incremento relativo angular, es fundamental para conocer una posición respecto del origen de coordenadas conocer el paso del tornillo lo cual se traduce en X cantidad de milímetros por vuelta de tornillo, saber la cantidad de cuentas por vuelta del eje del motor, y tener un punto de referencia fijo. El paso de los tornillos utilizados fue de 5 y 6mm dependiendo del eje, con una tolerancia menor a 1 micrometro. El sistema de calibración de la controladora es bastante preciso: primero intenta acercarse al fin de carrera a una velocidad alta hasta realizar el primer contacto, y luego retorna en una velocidad menor hasta perder el contacto. Dichas velocidades son programables, y se suelen elegir bajas dado que la calibración es realizada una vez por día o puesta a punto de la <text:soft-page-break/>máquina. Es fundamental destacar que el operario debe verificar las piezas mecanizadas de forma periódica para comenzar las derivas que se pudiesen ocasionar por imperfecciones en el control.</text:p>
+   <text:p text:style-name="Text_20_body">El sistema de control del movimiento se complementa con un sensor de fin de carrera por cada eje, los cuales sirven de referencia para reducir por software la excursión máxima del movimiento de translación de los carros, dado que se conoce la distancia absoluta entre dicho sensor y ambos extremos del recorrido del eje. La controladora CNC cuenta con sistemas integrados de calibración los cuales vienen preparados para uno o varios finales de carrera. Dado que los encoders brindan incremento relativo angular, es fundamental para conocer una posición respecto del origen de coordenadas conocer el paso del tornillo lo cual se traduce en X cantidad de milímetros por vuelta de tornillo, saber la cantidad de cuentas por vuelta del eje del motor, y tener un punto de referencia fijo. El paso de los tornillos utilizados fue de 5 y 6mm dependiendo del eje, con una tolerancia <text:soft-page-break/>menor a 1 micrometro. El sistema de calibración de la controladora es bastante preciso: primero intenta acercarse al fin de carrera a una velocidad alta hasta realizar el primer contacto, y luego retorna en una velocidad menor hasta perder el contacto. Dichas velocidades son programables, y se suelen elegir bajas dado que la calibración es realizada una vez por día o puesta a punto de la máquina. Es fundamental destacar que el operario debe verificar las piezas mecanizadas de forma periódica para comenzar las derivas que se pudiesen ocasionar por imperfecciones en el control.</text:p>
    <text:p text:style-name="Text_20_body">La controladora CNC permite programar errores máximos de seguimiento tanto en distancia como en tiempo, lo cual permite desde el control detectar casos de atoración de partes. Los inversores de control de los motores de los ejes también realizan un monitoreo constante de la corriente entregada a los motores, emitiendo alarmas las cuales los desenergizan en caso de que se detecten sobre cargas. Esto tuvo una utilidad muy grande durante el desarrollo del proyecto ya que permitió reducir las posibilidades de daño mecánico al sistema cuando el mismo se movía a pequeñas velocidades. No fue así el caso cuando el eje X se movió a velocidad máxima hacaa uno de los extremos por un error humano, previo a que se configuren los sensores de fin de carrera, y la posición relativa a los extremos de la guía.</text:p>
    <text:p text:style-name="Text_20_body">También es importante destacar que la controladora está preparada para implementar distintos tipos de control: P, PI, PID, PD, FeedForward, Feed-Back-Forward, Wind-up. Se probó con varios sistemas de control aplicando la teoría aprendida en la materia Control II de la carrera, y si bien el rendimiento del control aumentó, el sistema producía ruidos extraños los cuales denotaban un desgaste mecánico importante, lo cual hacía presuponer que la vida útil de las partes mecánicas iba a ser considerablemente reducida, siendo la mejora de performance muy pequeña como para justificar el cambio. Por ello es que se decidió realizar un control PI sencillo. Con la ayuda de un osciloscopio y escuchando la respuesta mecánica del sistema se ajustaron los parámetros de forma tal que el sistema respondiese con buenos tiempos sin producir ruidos demasiado extraños.</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla185" table:style-name="Tabla185">
     <table:table-column table:style-name="Tabla185.A"/>
     <table:table-row table:style-name="Tabla185.1">
      <table:table-cell table:style-name="Tabla185.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image23" text:anchor-type="as-char" svg:width="10.714cm" svg:height="6.877cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image23" text:anchor-type="as-char" svg:width="10.714cm" svg:height="6.877cm" draw:z-index="1"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAgEASABIAAD/4R0QRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEa
           AAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAbAAAAcgEyAAIAAAAU
           AAAAjYdpAAQAAAABAAAApAAAANAAAABIAAAAAQAAAEgAAAABQWRvYmUgUGhvdG9zaG9wIENT
@@ -3327,13 +3402,13 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P9"><text:span text:style-name="Strong_20_Emphasis">Figure 3.1:</text:span> Esquema de tornillo y carro</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla186" table:style-name="Tabla186">
     <table:table-column table:style-name="Tabla186.A"/>
     <text:soft-page-break/>
     <table:table-row table:style-name="Tabla186.1">
      <table:table-cell table:style-name="Tabla186.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Imagen77" text:anchor-type="as-char" svg:width="13.097cm" svg:height="5.9cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Imagen77" text:anchor-type="as-char" svg:width="13.097cm" svg:height="5.9cm" draw:z-index="2"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAe8AAADfAQAAAAD3/2Z5AAAAAnRSTlMAAQGU/a4AAAACYktH
           RAAAqo0jMgAAAARnSUZnAgAAADaFzMYAAAAMY21QUEpDbXAwNzEyAAAAB09tt6UAAAjzSURB
           VGje7dpfjBPHGQBwX472UjXJJU9BNMRN85CHVpCAqgsVwWlVlT6kSt8DCREJqYQ4SunFnM72
@@ -3387,18 +3462,18 @@
    </table:table>
    <text:p text:style-name="P9"><text:span text:style-name="Strong_20_Emphasis">Figure 3.2:</text:span> Esquema de tornillo de bolas y tuerca</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188340_359546015"/>Husillo y cabezal<text:bookmark-end text:name="__RefHeading__188340_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00440000000000000000"/><text:bookmark text:name="sub%3Asubstitemas-Usillo"/>Como se mencionó anteriormente la pieza se coloca en un cabezal de 3 mordazas que es accionado hidráulicamente bajo pedido del operario (o por programación). En la figura <text:a xlink:type="simple" xlink:href="#fig:Cabezal" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.3</text:span></text:a>se observa una pieza montada sobre dicho cabezal. Las mordazas son torneables y de hecho es fundamental adaptarlas al diámetro exterior de la pieza a mecanizar, dado que de esta forma se aumenta la superficie de apoyo reduciéndose, distribuyéndose la presión hidráulica sobre la pieza de forma más homogénea, reduciendo daños a la superficie de la pieza. La posición respecto del centro de las mordazas también es regulable lo cual permite trabajar con distintos diámetros. Dependiendo de la operación a realizar se ajustan las mordazas para que el agarre sea interior o exterior, en el caso mostrado se trata de un agarre exterior.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sub%3Asubstitemas-Usillo"/><text:bookmark text:name="SECTION00440000000000000000"/>Como se mencionó anteriormente la pieza se coloca en un cabezal de 3 mordazas que es accionado hidráulicamente bajo pedido del operario (o por programación). En la figura <text:a xlink:type="simple" xlink:href="#fig:Cabezal" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.3</text:span></text:a>se observa una pieza montada sobre dicho cabezal. Las mordazas son torneables y de hecho es fundamental adaptarlas al diámetro exterior de la pieza a mecanizar, dado que de esta forma se aumenta la superficie de apoyo reduciéndose, distribuyéndose la presión hidráulica sobre la pieza de forma más homogénea, reduciendo daños a la superficie de la pieza. La posición respecto del centro de las mordazas también es regulable lo cual permite trabajar con distintos diámetros. Dependiendo de la operación a realizar se ajustan las mordazas para que el agarre sea interior o exterior, en el caso mostrado se trata de un agarre exterior.</text:p>
    <text:p text:style-name="Text_20_body">El código del PLC tiene que estar preparado para estas dos formas de tomar la pieza antes mencionadas, y tiene que proveer al operario de cierta seguridad a la hora de cambiar de estados. En el caso particular de este trabajo se decidió que la pieza sólo pueda ser liberada cuando la cantidad de vueltas del husillo sea menor a 30rpm lo cual sólo es posible si la pieza está siendo actuada manualmente por el operario. Esto se decidió porque al momento de cambiar de pieza es prácticamente imposible lograr que la misma no se mueva. El operario al momento de cambiar la pieza a mecanizar suele colocarla, realizar un pequeño giro con la mano y de ser necesario liberar y volver a ajustar la pieza, en dichos casos esperar a que la pieza se detenga completamente puede conllevar un tiempo muerto considerable, lo cual es no deseable.</text:p>
    <text:p text:style-name="Text_20_body">Para la apertura y cierre del cabezal se cuenta con un actuador hidráulico el cual dependiendo de si su respectiva selenoide está activada deja circular el aceite desde la bomba hacia el cabezal, o desde el cabezal al tanque de recolección. Por seguridad el sistema hidráulico también dispone de un sensor de presión hidráulica normal cerrado, el cual si la presión desciende, se abre. Dicha señal es manejada por el PLC a fin de detectar casos de error. Es común que en casos de extremo trabajo, si la presión seleccionada en la bomba hidráulica no es lo suficientemente alta la presión del sistema disminuya por períodos de tiempo muy pequeños activando la señal, por lo cual no sólo hay que tener en cuenta la presencia de dicha señal, sino que también hay que comprobar que la misma no cambie de estado por una cantidad determinada de tiempo. Dado que la seguridad del operario está en juego, si dicha presión desaparece por una cantidad prolongada de tiempo se supone lo peor, y es que la pieza podría soltarse; por eso se desenergizan todos los sistemas de potencias de forma tal que el husillo deje de girar por carga mecánica y no por aplicación de un cambio sentido de giro en el motor.</text:p>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/>En un principio se presupuso que el inversor del husillo iba a ser capaz de regular frecuencia de salida a fin de obtener una velocidad de rotación del motor menor a los 50rpm (como sí lo realizan otras máquinas de la empresa). Pero al momento de hacer la puesta a punto se comprobó que esto no era así, sino que por debajo de los 50 RPM la velocidad el motor oscilaba, con lo cual se presupuso que había presencia de ruido. Pero luego de probar de distintas formas se desistió, se probaron distintas configuraciones de señales en tensión, corriente, amplificadores diferenciales de precisión, pero ninguna demostró una mejora sustancial.</text:p>
    <text:p text:style-name="Text_20_body">En una página web se encontró que varios usuarios del inversor tenían el mismo problema, y con el uso de la hoja de datos ello tuvo sentido. El fabricante garantiza un control entre los 0.2 y 400 Hz, pero en efecto la frecuencia mínima de salida es cercana a los 2 Hz lo cual explica la oscilación encontrada.</text:p>
    <text:p text:style-name="Text_20_body">La controladora CNC entrega una señal de control que puede tomar tanto valores positivos como negativos entre -10 y 10V, pero el inversor esperaba señales entre 0 y 5V, con lo cual hubo que prever este caso y configurar la controladora a fin de evitar daños.</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla187" table:style-name="Tabla187">
     <table:table-column table:style-name="Tabla187.A"/>
     <table:table-row table:style-name="Tabla187.1">
      <table:table-cell table:style-name="Tabla187.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image25" text:anchor-type="as-char" svg:width="16.93cm" svg:height="12.698cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image25" text:anchor-type="as-char" svg:width="16.93cm" svg:height="12.698cm" draw:z-index="3"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4V6aRXhpZgAATU0AKgAAAAgACIglAAQAAAABAAABpQEQ
           AAIAAAAMAAAAbodpAAQAAAABAAAAmQITAAMAAAABAAEAAAEbAAUAAAABAAAAegEoAAMAAAAB
           AAIAAAEaAAUAAAABAAAAggEPAAIAAAAPAAAAigAAAgZMRy1QNzAwAAAAAAAAAABIAAAAAQAA
@@ -5664,30 +5739,30 @@
    </table:table>
    <text:p text:style-name="P9"><text:span text:style-name="Strong_20_Emphasis">Figure:</text:span> Fotografía de cabezal morse</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188342_359546015"/>Agarra pieza - Part-Catcher<text:bookmark-end text:name="__RefHeading__188342_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00450000000000000000"/><text:bookmark text:name="sub%3Asubsistemas-part-catcher"/>El agarra piezas o part-catcher, nombre en inglés, permite implementar tareas de fabricación continua al evitar al operador tener que intercambiar piezas en cada operación del proceso. El <text:soft-page-break/>sistema se compone de una bandeja metálica acoplada a un actuador neumático, y una puerta movediza en la puerta de la máquina.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sub%3Asubsistemas-part-catcher"/><text:bookmark text:name="SECTION00450000000000000000"/>El agarra piezas o part-catcher, nombre en inglés, permite implementar tareas de fabricación continua al evitar al operador tener que intercambiar piezas en cada operación del proceso. El <text:soft-page-break/>sistema se compone de una bandeja metálica acoplada a un actuador neumático, y una puerta movediza en la puerta de la máquina.</text:p>
    <text:p text:style-name="Text_20_body">El programador dispone de un comando el cuál permite controlar el actuador. Uno de los posibles flujos de trabajo que utiliza el módulo de part-catcher se muestra en la gráfica , dicha gráfica permite comparar un flujo en el cuál el operario interviene en cada pieza fabrica, de aquel posible gracias al uso del part-catcher.</text:p>
    <text:p text:style-name="Text_20_body">El proceso consiste en preparar el código de mecanizado de tal forma de que luego de terminadas las operaciones de fabricación, se mueve el porta-herramientas a una zona segura, se detiene el giro del husillo, se activa el part-catcher, se espera pasivamente tiempo suficiente para que la pieza llegue a la bandeja receptora (dicho tiempo depende de la pieza y del tiempo del actuador), se repliegue el part-catcher y se proceda a la producción de la siguiente pieza, repitiéndose el ciclo hasta que cierta condición se cumpliese.</text:p>
    <text:p text:style-name="Text_20_body">En aquellos casos dónde se puede automatizar el cambio de material a trabajar esto permite realizar una producción continua con un tiempo de parada para cambio de pieza a trabajar, por ejemplo en aquellas piezas que son mecanizadas de una barra continua. Dicho caso de uso existe en el taller en cuestión, con dicho método se reducen los tiempos de fabricación considerablemente, al día de la fecha la máquina acondicionada no ha sido puesta a prueba con dicha funcionalidad, sólo se pudo verificar la funcionalidad del subsistema sin interrelacionarlo con el resto de los sistemas.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188344_359546015"/>Lubricación de ejes X y Z<text:bookmark-end text:name="__RefHeading__188344_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00460000000000000000"/><text:bookmark text:name="sec%3ALubricaci_0000F3n-de-ejes-X-y-Z"/>Las máquinas herramienta de cierta envergadura requieren de lubricación a fin de reducir la fricción entre sus partes mecánicas. Dicha lubricación es indispensable en la máquina reacondicionada, ya que sin ella la fricción entre las distintas partes móviles produciría un incremento en la temperatura siendo alta la probabilidad de daños graves. Para ello la máquina cuenta con lubricación distribuida en las distintas partes de la máquina, componiéndose tanto de lubricación pasiva (a cargo del personal de mantenimiento), como lubricación activa la cuál es comandada por el PLC dependiendo de varios factores.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sec%3ALubricaci_0000F3n-de-ejes-X-y-Z"/><text:bookmark text:name="SECTION00460000000000000000"/>Las máquinas herramienta de cierta envergadura requieren de lubricación a fin de reducir la fricción entre sus partes mecánicas. Dicha lubricación es indispensable en la máquina reacondicionada, ya que sin ella la fricción entre las distintas partes móviles produciría un incremento en la temperatura siendo alta la probabilidad de daños graves. Para ello la máquina cuenta con lubricación distribuida en las distintas partes de la máquina, componiéndose tanto de lubricación pasiva (a cargo del personal de mantenimiento), como lubricación activa la cuál es comandada por el PLC dependiendo de varios factores.</text:p>
    <text:p text:style-name="Text_20_body">En el caso particular de los ejes X y Z el fabricante de la máquina original dispuso de boquillas sobre dichos ejes, por las cuales se puede liberar aceite a pulverizado por aire a presión proveniente del compresor externo. Dicho sistema se activa automáticamente bajo 3 condiciones programadas en el PLC: arranque de máquina, tiempo transcurrido o distancia recorrida desdé el último ciclo de lubricación, en todos los casos dicha lubricación se activa por un tiempo predeterminado, el operador también dispone de un atajo en el teclado el cuál le permite activar y luego detener el proceso.</text:p>
    <text:p text:style-name="Text_20_body">El sistema se compone de las mencionadas boquillas, el ingreso de aire a presión, una bomba hidráulica controlada electrónicamente, válvulas de paso activadas por relays, un circuito hidro-neumático capaz de llevar el aceite pulverizado a las boquillas, así como sensores para medición de nivel de aceite y presión de aire a fin de garantizar el correcto funcionamiento.</text:p>
    <text:p text:style-name="Text_20_body">Básicamente el PLC monitorea el estado de ISENAIR, presión de aire en nivel aceptable, ILLUB190 y ILLUB960, sensores de nivel de aceite y comanda OLUBAIR el cuál controla la pulverización con aire a presión. Llevando cuenta del estado del proceso, aprovechando los contadores de recorrido provistos por la controladora CNC, como así también los relojes de tiempo transcurrido.</text:p>
    <text:p text:style-name="Text_20_body">El fabricante original estipulaba ciclos de lubricación de minutos cada metros recorridos, minutos cada horas de trabajo y al arranque de la máquina. De la coordinación con el personal de mantenimiento se arribo a lubricación automática en encendido durante 2 minutos, lubricación por <text:soft-page-break/>pedido manual de 5 minutos, lubricación de 5 minutos por cada hora de movimiento del eje X o Z lo que suceda primero, lubricación de 5 minutos cuándo el movimiento acumulado entre los ejes X y Z supere los 240 metros.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188346_359546015"/>Refrigerante de herramienta de corte<text:bookmark-end text:name="__RefHeading__188346_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00470000000000000000"/><text:bookmark text:name="sec%3ASistema-de-refrigerante"/>El proceso de desprendimiento de viruta, es un proceso el cuál inherentemente tiene asociada una fricción dada por el contacto entre la herramienta de corte y la pieza a mecanizar la cuál se encuentra girando a altas RPM, para poder aumentar la productividad de la máquina y aumentar la vida útil de los insertos de corte, se emplea una mezcla de agua con aceite refrigerante, lo cuál no sólo disipa el calor producido por el proceso, sino que también mantiene al inserto lubricado disminuyendo el roce entre la pieza y dicho inserto. Está ventaja también es factible de aprovechar dado el hecho de que al ser el proceso automatizado no es necesario que el operador tenga contacto visual constante con el punto de corte.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sec%3ASistema-de-refrigerante"/><text:bookmark text:name="SECTION00470000000000000000"/>El proceso de desprendimiento de viruta, es un proceso el cuál inherentemente tiene asociada una fricción dada por el contacto entre la herramienta de corte y la pieza a mecanizar la cuál se encuentra girando a altas RPM, para poder aumentar la productividad de la máquina y aumentar la vida útil de los insertos de corte, se emplea una mezcla de agua con aceite refrigerante, lo cuál no sólo disipa el calor producido por el proceso, sino que también mantiene al inserto lubricado disminuyendo el roce entre la pieza y dicho inserto. Está ventaja también es factible de aprovechar dado el hecho de que al ser el proceso automatizado no es necesario que el operador tenga contacto visual constante con el punto de corte.</text:p>
    <text:p text:style-name="Text_20_body">Dicha mezcla, llamada refrigerante, se inyecta presión en el punto de trabajo de la herramienta, para ello la máquina dispone de un sistema hidráulico el cuál permite conectar distintos tipo de salidas según la herramienta en uso. Aquellas herramientas de perforación, conocidas como TMAC, la herramienta cuenta con pequeños orificios los cuáles permiten al líquido llegar hasta el punto de corte, en otros tipos de herramientas se utilizan mangueras rígidas a las cuáles se les controla el ángulo de salida, en casos más sencillos se puede disponer sólo del chorro a presión entregado en en el plato de herramientas.</text:p>
    <text:p text:style-name="Text_20_body">El proceso de control del refrigerante está mayormente a control del programador del código CNC, o del operario el cuál puede detener la inyección de líquido a fin de comprobar el estado actual. El procedimiento usual para el control del refrigerante implica acercar a gran velocidad la herramienta de corte hasta una distancia segura previa al corte, encender el refrigerante, realizar el desbaste, retirar la herramienta a velocidad segura, detener la inyección de líquido y continuar con el proceso, el encendido y apagado de la inyección se puede controlar con 2 comandos macro puestos a disposición del programador CNC por el programa PLC realizado. En algunas ocasiones el operador puede desear anular el comando del programa CNC y tomar control del sistema de refrigeración, para ello dispone de 2 botones en el panel de usuario los cuales permiten encender y apagar la inyección de refrigerante, en esté caso el control por parte del programa CNC no se retoma hasta cuánto se vuelva a ejecutar alguno de los comandos macro previamente mencionados.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188348_359546015"/>Saca virutas<text:bookmark-end text:name="__RefHeading__188348_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body"><text:bookmark text:name="SECTION00480000000000000000"/><text:bookmark text:name="sec%3ASaca-virutas"/>Como se menciono a lo largo del presente informe, los tornos son máquinas de mecanizado por extracción de viruta, ello quiere decir partiendo de un trozo de material con dimensiones mayores a las dimensiones deseadas, se desbasta el material hasta lograr el objetivo. Dicho trozo de material puede ser material en bruto en forma de barra, o una pieza la cuál ha pasado por un proceso previo de amoldamiento como ser el forjado.</text:p>
+   <text:p text:style-name="Text_20_body"><text:bookmark text:name="sec%3ASaca-virutas"/><text:bookmark text:name="SECTION00480000000000000000"/>Como se menciono a lo largo del presente informe, los tornos son máquinas de mecanizado por extracción de viruta, ello quiere decir partiendo de un trozo de material con dimensiones mayores a las dimensiones deseadas, se desbasta el material hasta lograr el objetivo. Dicho trozo de material puede ser material en bruto en forma de barra, o una pieza la cuál ha pasado por un proceso previo de amoldamiento como ser el forjado.</text:p>
    <text:p text:style-name="Text_20_body">En ambos casos el proceso de mecanizado produce grandes cantidades de desperdicio generalmente del orden del 5% y en algunos casos superando el 50% del peso bruto, siendo el caso de piezas tratadas previamente generalmente la que produce menor desperdicio (sin embargo se trata de cantidades no despreciables).</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla188" table:style-name="Tabla188">
     <table:table-column table:style-name="Tabla188.A"/>
     <text:soft-page-break/>
     <table:table-row table:style-name="Tabla188.1">
      <table:table-cell table:style-name="Tabla188.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image26" text:anchor-type="as-char" svg:width="23.813cm" svg:height="24.13cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image26" text:anchor-type="as-char" svg:width="23.813cm" svg:height="24.13cm" draw:z-index="4"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAHgAA/+4ADkFkb2JlAGTAAAAA
           Af/bAIQAEAsLCwwLEAwMEBcPDQ8XGxQQEBQbHxcXFxcXHx4XGhoaGhceHiMlJyUjHi8vMzMv
           L0BAQEBAQEBAQEBAQEBAQAERDw8RExEVEhIVFBEUERQaFBYWFBomGhocGhomMCMeHh4eIzAr
@@ -6340,12 +6415,12 @@
    <text:p text:style-name="Text_20_body">Dado que el material de desperdicio obstruye el proceso de manufactura, y el hecho de que en el caso de mecanizar metales el mismo puede ser reprocesado para futuros usos, es que las máquinas por desprendimiento de viruta de producción industrial cuentan con sistemas dedicados para la recolección del desperdicio, a dicho sistema se lo suele denominar saca virutas (chip conveyor en inglés).</text:p>
    <text:p text:style-name="Text_20_body">Los saca viruta suelen ser de distintos tipos, generalmente se componen de un motor eléctrico dedicado y algún sistema de transporte siendo los más utilizados los de cinta continua y los de tornillo sin fin, el saca viruta es el encargado de recoger parte del desperdicio generado en la zona de trabajo y llevarlo a algún contenedor el cuál luego es periódicamente vaciado.</text:p>
    <text:p text:style-name="Text_20_body">En el caso particular de la máquina reacondicionada el sistema de transporte es del tipo tornillo sin fin, se compone de un motor eléctrico de corriente alterna trifásico, una caja reductora, un tornillo sin fin del largo de la bancada, una cuba de recolección y un cono en el cuál se comprime la viruta y da tiempo al escurrimiento del fluido refrigerante previo a ser volcado al contenedor receptor. El motor cuenta con protecciones térmicas internas, y además se dispuso de una protección por cortocircuito trifásica la cuál permite detectar rotor bloqueado al sensar incrementos rápidos de la corriente. En las fotografías <text:a xlink:type="simple" xlink:href="#pic:Saca-viruta-hass-1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.5</text:span></text:a><text:a xlink:type="simple" xlink:href="#pic:Saca-viruta-hass-2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">3.6</text:span></text:a>se puede observar tanto el tornillo, como el cono de recolección con un deposito final.</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla189" table:style-name="Tabla189">
     <table:table-column table:style-name="Tabla189.A"/>
     <table:table-row table:style-name="Tabla189.1">
      <table:table-cell table:style-name="Tabla189.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image27" text:anchor-type="as-char" svg:width="16.93cm" svg:height="11.296cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image27" text:anchor-type="as-char" svg:width="16.93cm" svg:height="11.296cm" draw:z-index="5"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4WwjRXhpZgAATU0AKgAAAAgACIglAAQAAAABAAABpQEQ
           AAIAAAAMAAAAbodpAAQAAAABAAAAmQITAAMAAAABAAEAAAEbAAUAAAABAAAAegEoAAMAAAAB
           AAIAAAEaAAUAAAABAAAAggEPAAIAAAAPAAAAigAAAoJMRy1QNzAwAAAAAAAAAABIAAAAAQAA
@@ -8544,13 +8619,13 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P9"><text:span text:style-name="Strong_20_Emphasis">Figure:</text:span> Fotografía del tornillo sin fin en acción.</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <table:table table:name="Tabla190" table:style-name="Tabla190">
     <table:table-column table:style-name="Tabla190.A"/>
     <text:soft-page-break/>
     <table:table-row table:style-name="Tabla190.1">
      <table:table-cell table:style-name="Tabla190.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image28" text:anchor-type="as-char" svg:width="16.93cm" svg:height="22.565cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image28" text:anchor-type="as-char" svg:width="16.93cm" svg:height="22.565cm" draw:z-index="6"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoAAAANVCAIAAABnK9hcAAAACXBIWXMAAAsTAAALEwEAmpwY
           AAq/jklEQVR4nJz965LkOJImCgIg7eKXiIzsrO4+e2ZnHmFEVnbf/zF2/8yR/dEjZ+ZId1Zn
           ZYS7mxlJYKHfp6pU0syjetY6O8qcRoKAQqH3y/j//v/8XymlUkrOuaSa8VmWJeF7ySl86jAM
