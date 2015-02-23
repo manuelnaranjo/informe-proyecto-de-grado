@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-22T13:53:37</dc:date><meta:editing-duration>P3DT16H53M</meta:editing-duration><meta:editing-cycles>243</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><meta:document-statistic meta:table-count="31" meta:image-count="5" meta:object-count="2" meta:page-count="41" meta:paragraph-count="500" meta:word-count="8430" meta:character-count="48472" meta:non-whitespace-character-count="40419"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-23T01:10:43.301274860</dc:date><meta:editing-duration>P3DT17H6M58S</meta:editing-duration><meta:editing-cycles>244</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="31" meta:image-count="5" meta:object-count="2" meta:page-count="43" meta:paragraph-count="500" meta:word-count="8430" meta:character-count="48472" meta:non-whitespace-character-count="40419"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">20322</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21248</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">19660</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14554</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3263</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2933</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">19659</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14552</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="PrintFaxName" config:type="string"/>
@@ -66,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">309798</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">505766</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -104,7 +120,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -1215,13 +1233,13 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="Tabla3" style:family="table">
-   <style:table-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="17.006cm" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla3.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32767*"/>
+   <style:table-column-properties style:column-width="8.502cm" style:rel-column-width="32767*"/>
   </style:style>
   <style:style style:name="Tabla3.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32768*"/>
+   <style:table-column-properties style:column-width="8.504cm" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Tabla3.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0.097cm" fo:border="none"/>
@@ -1230,13 +1248,13 @@
    <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
   </style:style>
   <style:style style:name="Tabla11" style:family="table">
-   <style:table-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="17.006cm" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla11.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32767*"/>
+   <style:table-column-properties style:column-width="8.502cm" style:rel-column-width="32767*"/>
   </style:style>
   <style:style style:name="Tabla11.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32768*"/>
+   <style:table-column-properties style:column-width="8.504cm" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Tabla11.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1247,13 +1265,13 @@
    <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
   </style:style>
   <style:style style:name="Tabla76" style:family="table">
-   <style:table-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="17.006cm" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="margins" fo:keep-with-next="always" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla76.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32767*"/>
+   <style:table-column-properties style:column-width="8.502cm" style:rel-column-width="32767*"/>
   </style:style>
   <style:style style:name="Tabla76.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="32768*"/>
+   <style:table-column-properties style:column-width="8.504cm" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Tabla76.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1286,10 +1304,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla193" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.49cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla193.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8309*"/>
+   <style:table-column-properties style:column-width="14.49cm" style:rel-column-width="8309*"/>
   </style:style>
   <style:style style:name="Tabla193.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1297,10 +1315,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla194" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.661cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla194.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8309*"/>
+   <style:table-column-properties style:column-width="14.661cm" style:rel-column-width="8309*"/>
   </style:style>
   <style:style style:name="Tabla194.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1308,10 +1326,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla195" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.661cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla195.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8309*"/>
+   <style:table-column-properties style:column-width="14.661cm" style:rel-column-width="8309*"/>
   </style:style>
   <style:style style:name="Tabla195.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1319,10 +1337,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla196" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.661cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla196.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8309*"/>
+   <style:table-column-properties style:column-width="14.661cm" style:rel-column-width="8309*"/>
   </style:style>
   <style:style style:name="Tabla196.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1330,10 +1348,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla197" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.49cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla197.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8213*"/>
+   <style:table-column-properties style:column-width="14.49cm" style:rel-column-width="8213*"/>
   </style:style>
   <style:style style:name="Tabla197.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1341,10 +1359,10 @@
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="Tabla198" style:family="table">
-   <style:table-properties style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
+   <style:table-properties style:width="14.49cm" style:rel-width="100%" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" table:align="center" style:may-break-between-rows="false"/>
   </style:style>
   <style:style style:name="Tabla198.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="8213*"/>
+   <style:table-column-properties style:column-width="14.49cm" style:rel-column-width="8213*"/>
   </style:style>
   <style:style style:name="Tabla198.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:background-color="transparent" fo:padding="0.097cm" fo:border="none">
@@ -1824,40 +1842,63 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="2pt" style:font-size-asian="1.75pt" style:font-size-complex="2pt"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8"/>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9"/>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10"/>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11"/>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12"/>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13"/>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14"/>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L15">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L16"/>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L17"/>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L18"/>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L19"/>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L20"/>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L21"/>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L22"/>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11" style:master-page-name="">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:text-indent="-0.635cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" fo:keep-with-next="always">
     <style:tab-stops/>
     <style:drop-cap/>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="First_20_Page">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8"/>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9"/>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10"/>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11"/>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12"/>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13"/>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14"/>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L15">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L16"/>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L17"/>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L18"/>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L19"/>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L20"/>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L21"/>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L22"/>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none">
+    <style:tab-stops/>
+    <style:drop-cap/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Liberation Mono1" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none">
+    <style:tab-stops/>
+    <style:drop-cap/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="always" fo:text-indent="-0.635cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" fo:keep-with-next="always">
+    <style:tab-stops/>
+    <style:drop-cap/>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
@@ -3093,7 +3134,7 @@
     <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">41</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">43</text:page-number></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Index" style:page-layout-name="pm2">
@@ -3115,36 +3156,36 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
    </text:sequence-decls>
-   <text:h text:style-name="P70" text:outline-level="1"><text:reference-mark-start text:name="apendice-a-texto"/><text:reference-mark-start text:name="apendice-a"/>Apéndice A<text:reference-mark-end text:name="apendice-a"/><text:reference-mark-end text:name="apendice-a-texto"/> - Programación de Torno con Fagor 8035</text:h>
+   <text:h text:style-name="P49" text:outline-level="1"><text:reference-mark-start text:name="apendice-a"/><text:reference-mark-start text:name="apendice-a-texto"/>Apéndice A<text:reference-mark-end text:name="apendice-a-texto"/><text:reference-mark-end text:name="apendice-a"/> - Programación de Torno con Fagor 8035</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2" text:restart-numbering="true" text:start-value="-1"><text:bookmark-start text:name="__RefHeading__16868_552402399"/>Bloques de instrucciones<text:bookmark-end text:name="__RefHeading__16868_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Como se menciono el código de mecanizado se estructura en bloques de instrucciones, cada bloque describe todo el movimiento a realizar en una unidad atómica, si dicho bloque describe una trayectoria entonces describirá el tipo de trayectoria y el punto de finalización, asumiendo como punto final siempre al punto actual previo a la ejecución del bloque.</text:p>
    <text:p text:style-name="Text_20_body">Las controladoras CNC ejecutan el código máquina bloque a bloque hasta completar con toda la ejecución del programa.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16870_552402399"/>Estructura de bloque<text:bookmark-end text:name="__RefHeading__16870_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Un bloque programado en lenguaje ISO puede estar compuesto por:</text:p>
-   <text:list xml:id="list5891394498059069702" text:style-name="L1">
+   <text:list xml:id="list4507847845315674" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P47">Funciones preparatorias (G)</text:p>
+     <text:p text:style-name="P50">Funciones preparatorias (G)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Cotas de los ejes (X..C)</text:p>
+     <text:p text:style-name="P50">Cotas de los ejes (X..C)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Velocidad de avance (F)</text:p>
+     <text:p text:style-name="P50">Velocidad de avance (F)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Velocidad del cabezal (S)</text:p>
+     <text:p text:style-name="P50">Velocidad del cabezal (S)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Número de herramienta (T)</text:p>
+     <text:p text:style-name="P50">Número de herramienta (T)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Número de corrector (D)</text:p>
+     <text:p text:style-name="P50">Número de corrector (D)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Funciones auxiliares (M)</text:p>
+     <text:p text:style-name="P50">Funciones auxiliares (M)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">Comentarios (totalmente opcionales)</text:p>
+     <text:p text:style-name="P50">Comentarios (totalmente opcionales)</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Dentro de cada bloque hay que mantener este orden, aunque no es necesario que cada bloque contenga todas las informaciones. Los CNC generalmente permiten programar cifras desde 0.0001 hasta 99999.9999 con y sin signo, trabajando en milímetros (G71), con y sin signo, si se programa en pulgadas (G70).</text:p>
@@ -3160,28 +3201,28 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__16874_552402399"/><text:soft-page-break/>Ejes y sistemas de coordenadas<text:bookmark-end text:name="__RefHeading__16874_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Dado que el objetivo del Control Numérico es controlar el movimiento y posicionamiento de los ejes, será necesario determinar la posición del punto a alcanzar por medio de sus coordenadas. El CNC permite hacer uso de coordenadas absolutas y de coordenadas relativas o incrementales, a lo largo de un mismo programa.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16876_552402399"/>Nomenclatura de los ejes<text:bookmark-end text:name="__RefHeading__16876_552402399"/></text:h>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr2" draw:name="Marco105" text:anchor-type="paragraph" svg:width="5.549cm" svg:height="6.495cm" style:rel-height="scale-min" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr2" draw:name="Marco105" text:anchor-type="paragraph" svg:width="5.549cm" svg:height="6.495cm" style:rel-height="scale-min" draw:z-index="1">
      <draw:text-box>
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing0" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: DIN 66217 - Nomenclatura de ejes</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Los ejes se denominan según la norma DIN 66217.</text:p>
    <text:p text:style-name="Text_20_body">Características del sistema de ejes:</text:p>
-   <text:list xml:id="list133908554090839966" text:style-name="L2">
+   <text:list xml:id="list7414940040006715516" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P48">X e Y: movimientos principales de avance en el plano de trabajo principal de la máquina.</text:p>
+     <text:p text:style-name="P51">X e Y: movimientos principales de avance en el plano de trabajo principal de la máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Z: paralelo al eje principal de la máquina, perpendicular al plano principal XY.</text:p>
+     <text:p text:style-name="P51">Z: paralelo al eje principal de la máquina, perpendicular al plano principal XY.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">U, V, W: ejes auxiliares paralelos a X, Y, Z, respectivamente.</text:p>
+     <text:p text:style-name="P51">U, V, W: ejes auxiliares paralelos a X, Y, Z, respectivamente.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">A, B, C: ejes rotativos sobre cada uno de los ejes X, Y, Z.</text:p>
+     <text:p text:style-name="P51">A, B, C: ejes rotativos sobre cada uno de los ejes X, Y, Z.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P10"><draw:frame draw:style-name="fr3" draw:name="Marco103" text:anchor-type="as-char" svg:width="7.936cm" svg:height="6.191cm" style:rel-height="scale-min" draw:z-index="0">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr3" draw:name="Marco103" text:anchor-type="as-char" svg:width="7.936cm" svg:height="6.191cm" style:rel-height="scale-min" draw:z-index="2">
      <draw:text-box>
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing1" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Distribución de los ejes en un torno paralelo.</text:p>
      </draw:text-box>
@@ -3189,12 +3230,12 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16878_552402399"/>Acotación de la pieza. Milímetros (G71) o pulgadas (G70)<text:bookmark-end text:name="__RefHeading__16878_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La controladora CNC admite que las unidades de medida puedan introducirse en el momento de la programación, tanto en milímetros como en pulgadas.</text:p>
    <text:p text:style-name="Text_20_body">La controladora Fagor cuenta con la posibilidad de definir modo G71 o G70 por defecto. Sin <text:soft-page-break/>embargo, estas unidades de medida pueden ser alteradas a lo largo del programa, disponiendo para ello de las funciones:</text:p>
-   <text:list xml:id="list3370828126662807730" text:style-name="L3">
+   <text:list xml:id="list1098490242351149147" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P49">G70: Programación en pulgadas.</text:p>
+     <text:p text:style-name="P52">G70: Programación en pulgadas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P49">G71: Programación en milímetros.</text:p>
+     <text:p text:style-name="P52">G71: Programación en milímetros.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Según se haya programado G70 o G71, el CNC asume dicho sistema de unidades para todos los bloques programados a continuación. Las funciones G70/G71 son modales e incompatibles entre sí.</text:p>
@@ -3229,43 +3270,43 @@
    <text:p text:style-name="P15"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16882_552402399"/>Programación de cotas<text:bookmark-end text:name="__RefHeading__16882_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El CNC permite seleccionar hasta 7 ejes de entre los 9 posibles ejes X, Y, Z, U, V, W, A, B, C. Cada uno de ellos podrá ser lineal, lineal de posicionamiento, rotativo normal, rotativo de posicionamiento o rotativo con dentado hirth (posicionamiento en grados enteros), según como se configure el eje. Con objeto de seleccionar en cada momento el sistema de programación de cotas más adecuado, el CNC dispone de los siguientes tipos:</text:p>
-   <text:list xml:id="list8905349358354747854" text:style-name="L4">
+   <text:list xml:id="list3896922156684441712" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P50">Coordenadas cartesianas</text:p>
+     <text:p text:style-name="P53">Coordenadas cartesianas</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Coordenadas polares</text:p>
+     <text:p text:style-name="P53">Coordenadas polares</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50"><text:soft-page-break/>Coordenadas cilíndricas (sin sentido en tornos)</text:p>
+     <text:p text:style-name="P53"><text:soft-page-break/>Coordenadas cilíndricas (sin sentido en tornos)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Angulo y una coordenada cartesiana</text:p>
+     <text:p text:style-name="P53">Angulo y una coordenada cartesiana</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16884_552402399"/>Coordenadas cartesianas<text:bookmark-end text:name="__RefHeading__16884_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El Sistema de Coordenadas Cartesianas está definido por dos ejes en el plano, y por tres o más ejes en el espacio. El origen de todos ellos, que en el caso de los ejes X Y Z coincide con el punto de intersección, se denomina Origen Cartesiano o Punto Cero del Sistema de Coordenadas.</text:p>
    <text:p text:style-name="Text_20_body">La posición de los diferentes puntos de la máquina se expresa mediante las cotas de los ejes, con dos, tres, cuatro o cinco coordenadas. Las cotas de los ejes se programan mediante la letra del eje (X, Y, Z, U, V, W, A, B, C, siempre en este orden) seguida del valor de la cota. Los valores de las cotas serán absolutas o incrementales, según se esté trabajando en G90 o G91.</text:p>
-   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="Marco106" text:anchor-type="as-char" svg:width="4.761cm" draw:z-index="0">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="Marco106" text:anchor-type="as-char" svg:width="4.761cm" draw:z-index="3">
      <draw:text-box fo:min-height="4.787cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Coordenadas cartesianas en el plano</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16886_552402399"/>Coordenadas polares<text:bookmark-end text:name="__RefHeading__16886_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">En el caso de existir elementos circulares o dimensiones angulares, las coordenadas de los diferentes puntos en el plano (2 ejes a la vez) puede resultar más conveniente expresarlos en Coordenadas polares. El punto de referencia se denomina Origen Polar y será el origen del Sistema de Coordenadas Polares.</text:p>
-   <text:p text:style-name="P35"><draw:frame draw:style-name="fr1" draw:name="Marco107" text:anchor-type="as-char" svg:width="4.904cm" draw:z-index="0">
+   <text:p text:style-name="P35"><draw:frame draw:style-name="fr1" draw:name="Marco107" text:anchor-type="as-char" svg:width="4.904cm" draw:z-index="4">
      <draw:text-box fo:min-height="4.576cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Coordenadas polares en el plano</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P35"/>
    <text:p text:style-name="Text_20_body">Un punto en dicho sistema vendrá definido por:</text:p>
-   <text:list xml:id="list3606088467001518969" text:style-name="L5">
+   <text:list xml:id="list5236690386377443210" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P51">RADIO (R): que será la distancia entre el origen polar y el punto.</text:p>
+     <text:p text:style-name="P54">RADIO (R): que será la distancia entre el origen polar y el punto.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51">ANGULO (Q): que será el formado por el eje de abscisas y la línea que une el origen polar con el punto. (En grados).</text:p>
+     <text:p text:style-name="P54">ANGULO (Q): que será el formado por el eje de abscisas y la línea que une el origen polar con el punto. (En grados).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Cuando se trabaja en G90 los valores de R y Q serán cotas absolutas. El valor asignado al radio debe ser siempre positivo. Cuando se trabaja en G91 los valores de R y Q serán cotas incrementales, <text:s text:c="2"/>aunque se permite programar valores negativos de R cuando se programa en cotas incrementales, el valor resultante que se le asigne al radio debe ser siempre positivo. Si se programa un valor de Q <text:soft-page-break/>superior a 360<text:span text:style-name="T9">º</text:span>, se tomará el módulo tras dividirlo entre 360. Así Q420 es lo mismo que Q60, y Q-420 es lo mismo que Q-60.</text:p>
@@ -3279,7 +3320,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="Tabla11.B1" office:value-type="string">
       <text:p text:style-name="P25">Cotas absolutas:</text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T4">G90 <text:s text:c="4"/>R430 Q0 <text:s text:c="3"/>; Punto P0</text:span></text:p>
+      <text:p text:style-name="P27">G90 <text:s text:c="4"/>R430 Q0 <text:s text:c="3"/>; Punto P0</text:p>
       <text:p text:style-name="P27">G03 <text:s text:c="9"/>Q33.7 ; Punto P1 en arco</text:p>
       <text:p text:style-name="P27">G01 <text:s text:c="4"/>R340 Q45 <text:s text:c="2"/>; Punto P2 en linea</text:p>
       <text:p text:style-name="P27">G01 <text:s text:c="4"/>R290 Q33.7 ; Punto P3 en linea</text:p>
@@ -3287,8 +3328,8 @@
       <text:p text:style-name="P27">G01 <text:s text:c="4"/>R360 Q63.4 ; Punto P5 en linea</text:p>
       <text:p text:style-name="P27">G03 <text:s text:c="9"/>Q90 <text:s text:c="2"/>; Punto P6 en arco</text:p>
       <text:p text:style-name="P31"/>
-      <text:p text:style-name="P31"><text:span text:style-name="T10">Cotas incrementales:</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T4">G90 <text:s text:c="4"/>R430 Q0 <text:s text:c="4"/>; Punto P0</text:span></text:p>
+      <text:p text:style-name="P73">Cotas incrementales:</text:p>
+      <text:p text:style-name="P27">G90 <text:s text:c="4"/>R430 Q0 <text:s text:c="4"/>; Punto P0</text:p>
       <text:p text:style-name="P27">G91 G03 <text:s text:c="5"/>Q33.7 <text:s/>; Punto P1 en arco</text:p>
       <text:p text:style-name="P27">G01 <text:s text:c="4"/>R-90 Q11.3 <text:s/>; Punto P2 en linea</text:p>
       <text:p text:style-name="P27">G01 <text:s text:c="4"/>R-50 Q-11.3 ; Punto P3 en linea</text:p>
@@ -3325,18 +3366,18 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__16890_552402399"/>Sistemas de referencia<text:bookmark-end text:name="__RefHeading__16890_552402399"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16892_552402399"/>Puntos de referencia<text:bookmark-end text:name="__RefHeading__16892_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Una máquina dirigida por control numérico, necesita tener definidos los siguientes puntos de origen y de referencia:</text:p>
-   <text:list xml:id="list8182501185900630608" text:style-name="L6">
+   <text:list xml:id="list1066331344003461743" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P52">Cero máquina o punto de origen de la máquina. Es fijado por el constructor como el origen del sistema de coordenadas de la máquina.</text:p>
+     <text:p text:style-name="P55">Cero máquina o punto de origen de la máquina. Es fijado por el constructor como el origen del sistema de coordenadas de la máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52">Cero pieza o punto de origen de la pieza. Es el punto de origen que se fija para la programación de las medidas de la pieza, puede ser elegido libremente por el programador y su referencia con el cero máquina se fija mediante el decalaje de origen.</text:p>
+     <text:p text:style-name="P55">Cero pieza o punto de origen de la pieza. Es el punto de origen que se fija para la programación de las medidas de la pieza, puede ser elegido libremente por el programador y su referencia con el cero máquina se fija mediante el decalaje de origen.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52">Punto de referencia. Es un punto de la máquina fijado por el fabricante sobre el que se realiza la sincronización del sistema. El control se posiciona sobre este punto, en lugar de desplazarse hasta el origen de la máquina.</text:p>
+     <text:p text:style-name="P55">Punto de referencia. Es un punto de la máquina fijado por el fabricante sobre el que se realiza la sincronización del sistema. El control se posiciona sobre este punto, en lugar de desplazarse hasta el origen de la máquina.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P32"><draw:frame draw:style-name="fr1" draw:name="Marco104" text:anchor-type="as-char" svg:width="15.49cm" draw:z-index="0">
+   <text:p text:style-name="P32"><draw:frame draw:style-name="fr1" draw:name="Marco104" text:anchor-type="as-char" svg:width="15.49cm" draw:z-index="5">
      <draw:text-box fo:min-height="13.912cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Puntos de referencia</text:p>
      </draw:text-box>
@@ -3348,7 +3389,7 @@
    <text:p text:style-name="Text_20_body">La función G53 puede ser añadida a cualquier bloque que contenga funciones de control de trayectoria. Se usará únicamente cuando se deseen programar las cotas de dicho bloque referidas al cero máquina, debiendo expresarse dichas cotas en milímetros o pulgadas.</text:p>
    <text:p text:style-name="Text_20_body">Programando la función G53 sin información de movimiento se anula el traslado de origen activo, tanto si proviene de la ejecución de G54-G59 como de una preselección (G92). <text:s/>La función G53 no es modal, por lo tanto deberá programarse siempre que se desee indicar las cotas referidas al cero máquina.</text:p>
    <text:p text:style-name="Text_20_body">Esta función anula temporalmente la compensación de radio y longitud de herramienta.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco108" text:anchor-type="as-char" svg:width="14.254cm" draw:z-index="0">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco108" text:anchor-type="as-char" svg:width="14.254cm" draw:z-index="6">
      <draw:text-box fo:min-height="11.06cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing8" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">9</text:sequence>: Programación respecto al cero máquina</text:p>
      </draw:text-box>
@@ -3356,54 +3397,54 @@
    <text:p text:style-name="P12"/>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16898_552402399"/>Pre-selección de cotas y traslados de origen<text:bookmark-end text:name="__RefHeading__16898_552402399"/></text:h>
    <text:p text:style-name="P12">El CNC permite realizar decalajes de origen con objeto de utilizar coordenadas relativas al plano de la pieza, sin necesidad de modificar las coordenadas de los diferentes puntos de la pieza a la hora de programar. Se define como decalaje de origen la distancia entre el cero pieza (punto de origen de la pieza) y el cero máquina (punto de origen de la máquina).</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco109" text:anchor-type="as-char" svg:width="10.873cm" draw:z-index="0">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco109" text:anchor-type="as-char" svg:width="10.873cm" draw:z-index="7">
      <draw:text-box fo:min-height="8.516cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Decalaje de origen</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P12">Este decalaje de origen se puede realizar de dos maneras:</text:p>
-   <text:list xml:id="list7853079228910886753" text:style-name="L7">
+   <text:list xml:id="list6911430462310502631" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P53">Mediante la función G92 (preselección de cotas), aceptando el CNC las cotas de los ejes programados a continuación de G92, como nuevos valores de los ejes.</text:p>
+     <text:p text:style-name="P56">Mediante la función G92 (preselección de cotas), aceptando el CNC las cotas de los ejes programados a continuación de G92, como nuevos valores de los ejes.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P53">Mediante la utilización de traslados de origen (G54 ... G59, G159N1 ... G159N20), aceptando el CNC como nuevo cero pieza el punto que se encuentra situado respecto del cero máquina a la distancia indicada por la tabla o tablas seleccionadas.</text:p>
+     <text:p text:style-name="P56">Mediante la utilización de traslados de origen (G54 ... G59, G159N1 ... G159N20), aceptando el CNC como nuevo cero pieza el punto que se encuentra situado respecto del cero máquina a la distancia indicada por la tabla o tablas seleccionadas.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P37">Ambas funciones son modales e incompatibles entre sí, por lo que al seleccionar una de ellas la otra queda deshabilitada.</text:p>
    <text:p text:style-name="P37">Existe además otro traslado de origen que lo gobierna el autómata, este traslado se añade siempre al decalaje de origen seleccionado y se utiliza entre otros para corregir desviaciones producidas por dilataciones, etc.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco110" text:anchor-type="as-char" svg:width="13.547cm" draw:z-index="0">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco110" text:anchor-type="as-char" svg:width="13.547cm" draw:z-index="8">
      <draw:text-box fo:min-height="11.483cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Traslado de origen</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16900_552402399"/>G92 - Pre-selección de cotas y limitación del valor de S<text:bookmark-end text:name="__RefHeading__16900_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Por medio de la función G92 se puede preseleccionar cualquier valor en los ejes del CNC, así como limitar la máxima velocidad del cabezal.</text:p>
-   <text:list xml:id="list7922315427177203103" text:style-name="L8">
+   <text:list xml:id="list1728277543977813489" text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P54">Preselección de cotas: Al realizar un decalaje de origen mediante la función G92, el CNC asume las cotas de los ejes programados a continuación de G92, como nuevos valores de los ejes. En el bloque en que se define G92, no se puede programar ninguna otra función.</text:p>
+     <text:p text:style-name="P57">Preselección de cotas: Al realizar un decalaje de origen mediante la función G92, el CNC asume las cotas de los ejes programados a continuación de G92, como nuevos valores de los ejes. En el bloque en que se define G92, no se puede programar ninguna otra función.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco111" text:anchor-type="as-char" svg:width="13.496cm" draw:z-index="0">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco111" text:anchor-type="as-char" svg:width="13.496cm" draw:z-index="9">
      <draw:text-box fo:min-height="14.212cm">
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Traslado de origen con G92</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list7955015756952821198" text:style-name="L9">
+   <text:list xml:id="list3567277545914439793" text:style-name="L9">
     <text:list-item>
-     <text:p text:style-name="P55">Limitación de la velocidad del cabezal: Al ejecutarse un bloque del tipo G92 S5.4 el CNC limita en adelante la velocidad del cabezal al valor fijado mediante S5.4. si posteriormente se quiere ejecutar un bloque con una S superior, el CNC ejecutará dicho bloque con la S máxima fijada con la función G92 S. Tampoco se podrá superar ese máximo mediante las teclas del panel frontal.</text:p>
+     <text:p text:style-name="P58">Limitación de la velocidad del cabezal: Al ejecutarse un bloque del tipo G92 S5.4 el CNC limita en adelante la velocidad del cabezal al valor fijado mediante S5.4. si posteriormente se quiere ejecutar un bloque con una S superior, el CNC ejecutará dicho bloque con la S máxima fijada con la función G92 S. Tampoco se podrá superar ese máximo mediante las teclas del panel frontal.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16902_552402399"/>G54..G59 y G159 – Traslados de origen<text:bookmark-end text:name="__RefHeading__16902_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El CNC dispone de una tabla de traslados de origen, en la que se pueden seleccionar varios decalajes de origen, con objeto de generar determinados ceros pieza, independientemente del cero pieza que en ese momento se encuentre activo.</text:p>
    <text:p text:style-name="Text_20_body">El acceso a la tabla se puede realizar desde el panel frontal del CNC, tal y como se explica en el manual de Operación, o bien por programa, utilizando comandos en lenguaje de alto nivel.</text:p>
    <text:p text:style-name="Text_20_body">Existen dos tipos de traslados de origen:</text:p>
-   <text:list xml:id="list89709047510269758" text:style-name="L10">
+   <text:list xml:id="list6471028583763554487" text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P56">Traslados de origen absolutos (G54 ... G57, G159N1 ... G159N20), que deben estar referidos al cero máquina.</text:p>
+     <text:p text:style-name="P59">Traslados de origen absolutos (G54 ... G57, G159N1 ... G159N20), que deben estar referidos al cero máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">Traslados de origen incrementales (G58, G59).</text:p>
+     <text:p text:style-name="P59">Traslados de origen incrementales (G58, G59).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/>Las funciones G54, G55, G56, G57, G58 y G59, se programan solas en el bloque, y funcionan del siguiente modo. Al ejecutarse una de las funciones G54, G55, G56 o G57, el CNC aplica el traslado de origen programado sobre el cero máquina, anulando los posibles traslados que se encontraban activos. Si se ejecuta uno de los traslados incrementales G58 o G59, el CNC añadirá sus valores al traslado de origen absoluto que se encuentre vigente en ese momento. Anulando previamente el posible traslado incremental que se encuentre activo.</text:p>
@@ -3420,7 +3461,7 @@
    <text:p text:style-name="Text_20_body">G56:<text:tab/>X0<text:tab/>Z150</text:p>
    <text:p text:style-name="Text_20_body">G58:<text:tab/>X0<text:tab/>Z-900</text:p>
    <text:p text:style-name="Text_20_body">G59:<text:tab/>X0<text:tab/>Z-180</text:p>
-   <text:p text:style-name="P35"><draw:frame draw:style-name="fr4" draw:name="Frame44" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.279cm" style:rel-width="83%" svg:height="6.089cm" draw:z-index="0">
+   <text:p text:style-name="P35"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame44" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.279cm" style:rel-width="83%" svg:height="6.089cm" draw:z-index="10">
      <draw:text-box fo:min-height="24%">
       <table:table table:name="Table45" table:style-name="Table45">
        <table:table-column table:style-name="Table45.A"/>
@@ -3433,27 +3474,27 @@
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing12" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">13</text:sequence>: Traslado de origen con G54...G58</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16904_552402399"/><text:soft-page-break/>G159 – Traslado de origen por tabla<text:bookmark-end text:name="__RefHeading__16904_552402399"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16904_552402399"/>G159 – Traslado de origen por tabla<text:bookmark-end text:name="__RefHeading__16904_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Esta función permite aplicar cualquier traslado de origen definido en la tabla. Los seis primeros traslados de origen son equivalentes a programar G54 hasta G59, con la diferencia de que los valores correspondientes a G58 y G59 se aplican de forma absoluta. Esto se debe a que la función G159 anula las funciones G54-G57, por lo que no hay ningún traslado activo al que sumarle el correspondiente a G58 o G59. La función G159 es modal, se programa sola en el bloque y es incompatible con las funciones G53, G54, G55, G56, G57, G58, G59 y G92.</text:p>
    <text:p text:style-name="Text_20_body">La forma en que se programa la función G159 es la siguiente:</text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T8">G159 Nn </text:span>Siendo n un número de 1 a 20 que indica el traslado de origen aplicado.</text:p>
    <text:p text:style-name="P38">Ejemplos:</text:p>
-   <text:list xml:id="list6030507814933974109" text:style-name="L11">
+   <text:list xml:id="list1259938937287062365" text:style-name="L11">
     <text:list-item>
-     <text:p text:style-name="P57"><text:span text:style-name="T5">G159 N1: </text:span>Se aplica el primer traslado de origen. Equivale a programar G54.</text:p>
+     <text:p text:style-name="P60"><text:span text:style-name="T5">G159 N1: </text:span>Se aplica el primer traslado de origen. Equivale a programar G54.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69"><text:span text:style-name="T5">G159 N6: </text:span>Se aplica el sexto traslado de origen. Equivale a programar G59, pero se aplica de forma absoluta.</text:p>
+     <text:p text:style-name="P74"><text:span text:style-name="T5">G159 N6: </text:span>Se aplica el sexto traslado de origen. Equivale a programar G59, pero se aplica de forma absoluta.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P57"><text:span text:style-name="T5">G159 N20: </text:span>Se aplica el vigésimo traslado de origen.</text:p>
+     <text:p text:style-name="P60"><text:span text:style-name="T5">G159 N20: </text:span>Se aplica el vigésimo traslado de origen.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16906_552402399"/>G93 – Preselección de origen polar<text:bookmark-end text:name="__RefHeading__16906_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La función G93 permite preseleccionar cualquier punto, del plano de trabajo, como nuevo origen de coordenadas polares. Esta función se programa sola en el bloque, siendo su formato de programación:</text:p>
    <text:p text:style-name="P39">G93 I±5.5 J±5.5</text:p>
-   <text:p text:style-name="Text_20_body">Los parámetros I y J definen la abscisa (I) y la ordenada (J) respecto al cero pieza, en que se desea situar el nuevo origen de coordenadas polares. Si en un bloque se programa únicamente G93, el origen polar pasará a ser el punto en el que en ese momento se encuentre la máquina.</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame45" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.469cm" style:rel-width="90%" svg:height="9.008cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body">Los parámetros I y J definen la abscisa (I) y la ordenada (J) respecto al cero pieza, en que se desea situar el nuevo origen de coordenadas polares. Si en un bloque se programa únicamente G93, <text:soft-page-break/>el origen polar pasará a ser el punto en el que en ese momento se encuentre la máquina.</text:p>
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame45" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.469cm" style:rel-width="90%" svg:height="9.008cm" draw:z-index="11">
      <draw:text-box fo:min-height="35%">
       <table:table table:name="Table46" table:style-name="Table46">
        <table:table-column table:style-name="Table46.A"/>
@@ -3471,11 +3512,11 @@
    <text:p text:style-name="Text_20_body">La velocidad de avance de mecanizado puede ser seleccionada por programa, manteniéndose activa mientras no se programe otra. Se representa con la letra F y según se esté trabajando en G94 o G95 se programará en mm/minuto o en mm/revolución.</text:p>
    <text:p text:style-name="Text_20_body">Según el tipo de material a trabajar y las características constructivas de la máquina se define un avance máximo el cuál no debe ser superado por el valor de F, en el caso particular de la controladora utilizada en el proyecto avances por arriba del 120% de dicho valor genera una alarma</text:p>
    <text:p text:style-name="Text_20_body">El avance F programado es efectivo cuando se trabaja en interpolación lineal (G01) o circular (G02, G03). Si no se programa la función F, el CNC asumirá el avance F0. Si se trabaja en posicionamiento (G00), la máquina se moverá con el avance rápido independiente del avance configurado.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16912_552402399"/>G94 – Avance en mm/min.<text:bookmark-end text:name="__RefHeading__16912_552402399"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16912_552402399"/><text:soft-page-break/>G94 – Avance en mm/min.<text:bookmark-end text:name="__RefHeading__16912_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">A partir del momento en que se programa el código G94, el control entiende que los avances programados mediante F5.5, lo son en mm/minuto o pulgadas/minuto. Si el desplazamiento corresponde a un eje rotativo, el CNC interpretará que el avance se encuentra programado en grados/minuto.</text:p>
-   <text:p text:style-name="Text_20_body">Si se realiza una interpolación entre un eje rotativo y un eje lineal, el avance programado se <text:soft-page-break/>tomará en mm/minuto o pulgadas/minuto y el desplazamiento del eje rotativo, que se programó en grados, se considerará que se encuentra programado en milímetros o pulgadas. La función G94 es modal, es decir, una vez programada se mantiene activa hasta que se programe G95.</text:p>
+   <text:p text:style-name="Text_20_body">Si se realiza una interpolación entre un eje rotativo y un eje lineal, el avance programado se tomará en mm/minuto o pulgadas/minuto y el desplazamiento del eje rotativo, que se programó en grados, se considerará que se encuentra programado en milímetros o pulgadas. La función G94 es modal, es decir, una vez programada se mantiene activa hasta que se programe G95.</text:p>
    <text:p text:style-name="Text_20_body">La relación entre la componente de avance del eje y el avance F programado será la misma que existe entre el desplazamiento del eje y el desplazamiento resultante programado.</text:p>
-   <text:p text:style-name="P35"><draw:frame draw:style-name="fr8" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="12.019cm" svg:height="0.998cm" draw:z-index="0"><draw:object>
+   <text:p text:style-name="P35"><draw:frame draw:style-name="fr8" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="12.019cm" svg:height="0.998cm" draw:z-index="12"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -3569,7 +3610,7 @@
    <text:p text:style-name="P42">Ejemplo:</text:p>
    <text:p text:style-name="P37">En una máquina que tiene los ejes XZ lineales y el eje C rotativo, situados todos ellos en el punto X0 Z0 C0, se programa el siguiente desplazamiento: <text:span text:style-name="T5">G1 G90 X100 Z20 C270 F10000</text:span></text:p>
    <text:p text:style-name="P42">Se tiene:</text:p>
-   <text:p text:style-name="P35"><draw:frame draw:style-name="fr8" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-1.894cm" svg:width="11.827cm" svg:height="3.637cm" draw:z-index="0"><draw:object>
+   <text:p text:style-name="P35"><draw:frame draw:style-name="fr8" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-1.894cm" svg:width="11.827cm" svg:height="3.637cm" draw:z-index="13"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mtable>
@@ -3775,267 +3816,267 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAATIuAAA2
-       DgAAeQIAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADEuAAA1DgAAlQAB
+      <office:binary-data>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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AAAAAAByAAIAIAAAAPwRAADcAQAABABkaXN0YwIAAAAABAAEAGQAaQBzAHQAjAABAAAAAACL
-       AAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAA
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AAIAGgAAANcWAADcAQAAAQAAAJQDAwEAAAAAAQABAJQDjAABAAAAAACLAAEAAgAAAB8AigAB
-       AEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/
+       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
-       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
+       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
-       AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAA
-       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAKIZAADcAQAA
-       AQAAACsA9wAAAAAAAQABACsAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9w
-       ZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
-       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAqhoAANwBAAABAAAAlAMD
+       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
-       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
+       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
-       AIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAALscAAAJAQAAAQAyfwAAAAAAAQAB
-       ADIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACn
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AAD4IAAA3AEAAAEAAAA9AFABAAAAAAEAAQA9AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAA
-       AwA2AAAACgBPcGVuU3ltYm9sAACnAQAAWQIAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/
+       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
-       AQAFAAAAAAAAAACKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAApwEAAFkCAAD//wAAAAAF
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       AJ0GAADTAwAAAQB4uwAAAAAAAQABAHgAjAABAAAAAACLAAEAAgAAAB8AhQABAAUAAAAAAAAA
+       AYQAAQAFAAAAAAAAAACKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAA
        AAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgAB
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAA
+       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
-       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
+       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
-       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
+       hgABAAQAAAAAAAAAZwABABAAAAAzCQAAPQQAAIkQAABRBAAAjAABAAAAAACLAAEAAgAAAB8A
+       igABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAA
        AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAa
-       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
+       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
-       AABwCgAA5AUAAAQAZGlzdGMCAAAAAAQABABkAGkAcwB0AIwAAQAAAAAAiwABAAIAAAAfAIoA
-       AQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAA
+       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
-       AKQQAADBBAAAAQAAAD0AUAEAAAAAAQABAD0AjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAAD
-       ADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAAD/AwAAAAAA
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       AwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/
        AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAHIEAADA
        BwAAAQAAAMUi9AAAAAAAAQABAMUijAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAK
-       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
+       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
-       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
+       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
-       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
+       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
-       AAAAhAMAAEUIAAB8BwAAWQgAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBP
-       cGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAAB
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       hgABAAQAAAAAAAAAcgACABoAAACEAwAA2Q0AAAEAAACUAwIBAAAAAAEAAQCUA4wAAQAAAAAA
+       iwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAA
        AwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCG
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AIYAAQAEAAAAAAAAAHIAAgAaAAAAiRAAALYMAAABAAAAPQBQAQAAAAABAAEAPQCMAAEAAAAA
-       AIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKcBAAAA
+       AIYAAQAEAAAAAAAAAHIAAgAaAAAAiRAAALYMAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAA
+       AIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAA
        AAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
-       hgABAAQAAAAAAAAAcgACAC8AAAD8EQAAtgwAAAkAOTM1NCw5NDU1BwcAAAAACQAJADkAMwA1
+       hgABAAQAAAAAAAAAcgACAC8AAADhEQAAtgwAAAkAOTM1NCw5NDU1AgcAAAAACQAJADkAMwA1
        ADQALAA5ADQANQA1AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
@@ -4048,9 +4089,9 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16918_552402399"/>S – Programación de la velocidad de giro del cabezal<text:bookmark-end text:name="__RefHeading__16918_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Mediante el código S5.4 se programa directamente la velocidad de giro del cabezal en revoluciones por minuto.</text:p>
    <text:p text:style-name="Text_20_body">El valor máximo viene limitado por parámetros de la máquina. También es posible limitar este valor máximo por programa, utilizando la función G92 S5.4. La velocidad de giro S programada puede variarse desde el PLC, o por vía DNC, o bien mediante las teclas de SPINDLE &quot;+&quot; y &quot;-&quot; del Panel de Mando del CNC.</text:p>
-   <text:p text:style-name="Text_20_body">Cuando se ejecutan las funciones G33 (roscado electrónico), G34 (roscado de paso variable) o G84 (ciclo fijo de roscado con macho), no se permite modificar la velocidad programada, trabajando al 100% de la S programada.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se ejecutan las funciones G33 (roscado electrónico), G34 (roscado de paso variable) o <text:soft-page-break/>G84 (ciclo fijo de roscado con macho), no se permite modificar la velocidad programada, trabajando al 100% de la S programada.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16920_552402399"/>G96 – Velocidad de corte constante<text:bookmark-end text:name="__RefHeading__16920_552402399"/></text:h>
-   <text:p text:style-name="Text_20_body">Cuando se programa G96 el CNC entiende que la velocidad de cabezal programada mediante S5.4 lo es en metros/minuto y el torno comienza a trabajar en la modalidad de velocidad de corte <text:soft-page-break/>constante. Se recomienda programar la velocidad del cabezal S5.4 en el mismo bloque en que se programa la función G96. Si en el bloque en que se programa la función G96 no se programa la velocidad de cabezal S5.4, el CNC asume como velocidad de cabezal la última con la que se trabajó en la modalidad de velocidad de corte constante. Si no se programa la velocidad del cabezal y no existe ninguna previa el CNC mostrará el error correspondiente.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se programa G96 el CNC entiende que la velocidad de cabezal programada mediante S5.4 lo es en metros/minuto y el torno comienza a trabajar en la modalidad de velocidad de corte constante. Se recomienda programar la velocidad del cabezal S5.4 en el mismo bloque en que se programa la función G96. Si en el bloque en que se programa la función G96 no se programa la velocidad de cabezal S5.4, el CNC asume como velocidad de cabezal la última con la que se trabajó en la modalidad de velocidad de corte constante. Si no se programa la velocidad del cabezal y no existe ninguna previa el CNC mostrará el error correspondiente.</text:p>
    <text:p text:style-name="Text_20_body">La función G96 es modal, es decir, una vez programada se mantiene activa hasta que se programe G97.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16922_552402399"/>G97 – Velocidad de giro del cabezal en RPM<text:bookmark-end text:name="__RefHeading__16922_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Cuando se programa G97 el CNC entiende que la velocidad de cabezal programada mediante S5.4 lo es en revoluciones/minuto. Si en el bloque en que se programa G97 no se programa la velocidad de cabezal S5.4, el CNC asume como velocidad programada, la velocidad a la que en ese momento está girando el cabezal.</text:p>
@@ -4058,41 +4099,41 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__16924_552402399"/>Control de herramienta seleccionada, número de herramienta T y corrector D<text:bookmark-end text:name="__RefHeading__16924_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La función <text:span text:style-name="T5">T</text:span> permite seleccionar la herramienta y la función D permite seleccionar el corrector asociado a la misma. Cuando se definen ambos parámetros, el orden de programación es T D. Por ejemplo <text:span text:style-name="T5">T6 D17</text:span>.</text:p>
    <text:p text:style-name="Text_20_body">Las funciones T y D pueden programarse solas o juntas, tal y como muestra el siguiente ejemplo:</text:p>
-   <text:list xml:id="list5691836745612057543" text:style-name="L12">
+   <text:list xml:id="list4484590401624522277" text:style-name="L12">
     <text:list-item>
-     <text:p text:style-name="P58"><text:span text:style-name="T5">T5 D18<text:tab/></text:span>Selecciona la herramienta 5 y asume las dimensiones del corrector 18.</text:p>
+     <text:p text:style-name="P61"><text:span text:style-name="T5">T5 D18<text:tab/></text:span>Selecciona la herramienta 5 y asume las dimensiones del corrector 18.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P58"><text:span text:style-name="T5">D22</text:span><text:tab/><text:tab/>Sigue utilizando la herramienta 5 y asume el corrector 22</text:p>
+     <text:p text:style-name="P61"><text:span text:style-name="T5">D22</text:span><text:tab/><text:tab/>Sigue utilizando la herramienta 5 y asume el corrector 22</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P58"><text:span text:style-name="T5">T3</text:span><text:tab/><text:tab/>Selecciona la herramienta 3 y asume el corrector asociado con la misma</text:p>
+     <text:p text:style-name="P61"><text:span text:style-name="T5">T3</text:span><text:tab/><text:tab/>Selecciona la herramienta 3 y asume el corrector asociado con la misma</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__16926_552402399"/>Funciones auxiliares M<text:bookmark-end text:name="__RefHeading__16926_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Las funciones auxiliares se programan mediante el código MXXXX, permitiéndose programar hasta 7 funciones auxiliares en un mismo bloque. Cuando en un bloque se ha programado más de una función auxiliar, el CNC las ejecuta correlativamente al orden en que han sido programadas.</text:p>
    <text:p text:style-name="Text_20_body">La controladora Fagor dispone de una tabla de funciones M con &quot;NMISCFUN&quot; (parámetro máquina general) componentes, especificándose por cada elemento:</text:p>
-   <text:list xml:id="list8581504088601756478" text:style-name="L13">
+   <text:list xml:id="list1737195880336767157" text:style-name="L13">
     <text:list-item>
-     <text:p text:style-name="P59">El número (0-9999) de la función auxiliar M definida.</text:p>
+     <text:p text:style-name="P62">El número (0-9999) de la función auxiliar M definida.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">El número de la subrutina que se desea asociar a dicha función auxiliar.</text:p>
+     <text:p text:style-name="P62">El número de la subrutina que se desea asociar a dicha función auxiliar.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">Un indicador que determina si la función M se efectúa antes o después del movimiento del bloque en que está programada.</text:p>
+     <text:p text:style-name="P62">Un indicador que determina si la función M se efectúa antes o después del movimiento del bloque en que está programada.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">Un indicador que determina si la ejecución de la función M detiene o no la preparación de los bloques.</text:p>
+     <text:p text:style-name="P62">Un indicador que determina si la ejecución de la función M detiene o no la preparación de <text:soft-page-break/>los bloques.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">Un indicador que determina si la función M se efectúa o no, después de la ejecución de la subrutina asociada.</text:p>
+     <text:p text:style-name="P62">Un indicador que determina si la función M se efectúa o no, después de la ejecución de la subrutina asociada.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">Un indicador que determina si el CNC debe o no esperar a la señal AUXEND (señal de M ejecutada, proveniente del PLC), para continuar la ejecución del programa.</text:p>
+     <text:p text:style-name="P62">Un indicador que determina si el CNC debe o no esperar a la señal AUXEND (señal de M ejecutada, proveniente del PLC), para continuar la ejecución del programa.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Si al ejecutar una función auxiliar M, esta no se encuentra definida en la tabla de funciones M, la función programada se ejecutará al principio del bloque y el CNC esperará la señal AUX END para continuar la ejecución del programa. Algunas de las funciones auxiliares tienen asignadas un significado interno en el CNC. Si al ejecutarse la subrutina asociada de una función auxiliar &quot;M&quot;, existe un bloque que contenga la misma &quot;M&quot;, se ejecutará ésta pero no la subrutina asociada.</text:p>
+   <text:p text:style-name="Text_20_body">Si al ejecutar una función auxiliar M, esta no se encuentra definida en la tabla de funciones M, la función programada se ejecutará al principio del bloque y el CNC esperará la señal AUX END para continuar la ejecución del programa. Algunas de las funciones auxiliares tienen asignadas un significado interno en el CNC. Si al ejecutarse la subrutina asociada de una función auxiliar &quot;M&quot;, existe un bloque que contenga la misma &quot;M&quot;, se ejecutará ésta pero no la subrutina asociada.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16928_552402399"/>Funciones M estandarizadas<text:bookmark-end text:name="__RefHeading__16928_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Las siguientes funciones M están estandarizadas y disponibles en la mayoría de los equipos CNC.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16930_552402399"/>M00 – Parada de programa<text:bookmark-end text:name="__RefHeading__16930_552402399"/></text:h>
@@ -4111,10 +4152,10 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16940_552402399"/>M04– Arranque del cabezal en sentido anti-horario.<text:bookmark-end text:name="__RefHeading__16940_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Este código significa arranque del cabezal en sentido anti-horario.</text:p>
    <text:p text:style-name="Text_20_body">Fagor recomienda que en caso de personalizar esta función en la tabla de funciones M, se haga de forma que se ejecute al comienzo del bloque en que está programada.</text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16942_552402399"/>M05 – Parada de cabezal.<text:bookmark-end text:name="__RefHeading__16942_552402399"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16942_552402399"/><text:soft-page-break/>M05 – Parada de cabezal.<text:bookmark-end text:name="__RefHeading__16942_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Este código detiene el giro del cabezal, no descartando los valores de S y M03/M04.</text:p>
    <text:p text:style-name="Text_20_body">Fagor recomienda que en caso de personalizar esta función en la tabla de funciones M, se haga de forma que se ejecute al final del bloque en que está programada.</text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16944_552402399"/><text:soft-page-break/>Códigos no utilizados en el presente proyecto<text:bookmark-end text:name="__RefHeading__16944_552402399"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16944_552402399"/>Códigos no utilizados en el presente proyecto<text:bookmark-end text:name="__RefHeading__16944_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Los códigos M06 <text:span text:style-name="T1">cambio de herramienta</text:span><text:span text:style-name="T2">, M19 </text:span><text:span text:style-name="T1">parada orientada de cabezal</text:span><text:span text:style-name="T2"> y M41 M42 M43 M44 </text:span><text:span text:style-name="T1">cambio de gama del cabezal</text:span><text:span text:style-name="T2"> no realizan ninguna acción en la máquina del proyecto ya que los mismos no formaban parte del diseño original, y no hubo manera de incorporarlos.</text:span></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__16946_552402399"/>Instrucciones G<text:bookmark-end text:name="__RefHeading__16946_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Los comandos G son las órdenes mas utilizadas. Son las órdenes de movimientos de las herramientas. Son las funciones básicas del lenguaje de programación G y las que determinarán las coordenadas y la forma final de la pieza mecanizada</text:p>
@@ -4124,7 +4165,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">A continuación se citan algunas de las funciones disponibles para control de trayectoria que son útiles en tornos CNC.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16952_552402399"/>G00 - Posicionamiento rápido<text:bookmark-end text:name="__RefHeading__16952_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Los desplazamientos programados a continuación de G00 se ejecutan con el avance rápido configurado en la máquina por el fabricante. Independientemente del número de ejes que se muevan, la trayectoria resultante es siempre una línea recta entre el punto inicial y el punto final. Al programar la función G00, no se anula la última F programada, es decir, cuando se programa de nuevo G01, G02 ó G03 se recuperará dicha F. La función G00 es modal e incompatible con G01, G02, G03, G33, G34 y G75.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame22" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="8.931cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame22" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="8.931cm" draw:z-index="14">
      <draw:text-box fo:min-height="36%">
       <table:table table:name="Tabla193" table:style-name="Tabla193">
        <table:table-column table:style-name="Tabla193.A"/>
@@ -4139,13 +4180,13 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16954_552402399"/>G01 – Interpolación lineal<text:bookmark-end text:name="__RefHeading__16954_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Los desplazamientos programados después de G01 se ejecutan según una línea recta y al avance F programado. Cuando se mueven dos o tres ejes simultáneamente la trayectoria resultante es una línea recta entre el punto inicial y el punto final. La máquina se desplaza según dicha trayectoria al avance F programado. El CNC calcula los avances de cada eje para que la trayectoria resultante sea la F programada. La función G01 es modal e incompatible con G00, G02, G03, G33 y G34.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame23" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame23" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="15">
      <draw:text-box fo:min-height="20%">
       <table:table table:name="Tabla194" table:style-name="Tabla194">
        <table:table-column table:style-name="Tabla194.A"/>
        <table:table-row>
         <table:table-cell table:style-name="Tabla194.A1" office:value-type="string">
-         <text:p text:style-name="P26"><draw:frame draw:style-name="fr5" draw:name="Imagen82" text:anchor-type="as-char" svg:width="14.462cm" svg:height="9.835cm" draw:z-index="0"><draw:image>
+         <text:p text:style-name="P26"><draw:frame draw:style-name="fr5" draw:name="Imagen82" text:anchor-type="as-char" svg:width="14.462cm" svg:height="9.835cm" draw:z-index="16"><draw:image>
             <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtIAAAHrCAIAAABtle0FAAAACXBIWXMAAA7EAAAOxAGVKw4b
              AABEjUlEQVR4nO3dedxU4+P/8SkRQkm00UKW9EFUiD5lSSpJtqRVKdGiEEm2pIVWyZYWKfEp
              qUh7QpGUoqQkRVKSJFJI+r1/c30dx5mZc8/cM3Pds7yef9yPuWfOnHOd7bre19mmwIEDBwIA
@@ -4484,22 +4525,22 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16956_552402399"/>G02, G03 – Interpolación circular<text:bookmark-end text:name="__RefHeading__16956_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Existen dos formas de realizar la interpolación circular:</text:p>
-   <text:list xml:id="list5641296830044838265" text:style-name="L14">
+   <text:list xml:id="list2812753949408194544" text:style-name="L14">
     <text:list-item>
-     <text:p text:style-name="P60">G02: Interpolación circular a derechas (sentido horario).</text:p>
+     <text:p text:style-name="P63">G02: Interpolación circular a derechas (sentido horario).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60">G03: Interpolación circular a izquierdas (sentido antihorario).</text:p>
+     <text:p text:style-name="P63">G03: Interpolación circular a izquierdas (sentido antihorario).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Los movimientos programados a continuación de G02 y G03 se ejecutan en forma de trayectoria circular y al avance F programado. Las definiciones de sentido horario (G02) y sentido antihorario (G03) se han fijado de acuerdo con el sistema de coordenadas que a continuación se representa.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame24" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame24" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="17">
      <draw:text-box fo:min-height="20%">
       <table:table table:name="Tabla195" table:style-name="Tabla195">
        <table:table-column table:style-name="Tabla195.A"/>
        <table:table-row>
         <table:table-cell table:style-name="Tabla195.A1" office:value-type="string">
-         <text:p text:style-name="P22"><draw:frame draw:style-name="fr6" draw:name="Imagen83" text:anchor-type="as-char" svg:width="9.603cm" svg:height="5.66cm" draw:z-index="0"><draw:image>
+         <text:p text:style-name="P22"><draw:frame draw:style-name="fr6" draw:name="Imagen83" text:anchor-type="as-char" svg:width="9.603cm" svg:height="5.66cm" draw:z-index="18"><draw:image>
             <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWsAAADWCAIAAACYBzQwAAAACXBIWXMAAA7EAAAOxAGVKw4b
              AAAIR0lEQVR4nO3d65KiyBaA0eqIef9X7tNnjHBsQCA3l9w7WevXjFVatGF+ZgLiP79///4B
              CPmn9wYAhSkIEKcgQJyCAHEKAsQpCBCnIECcggBxbQX59evX5/9+no228iNgVG0FeXXhFYtJ
@@ -4555,7 +4596,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16958_552402399"/>Coordenadas cartesianas<text:bookmark-end text:name="__RefHeading__16958_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Se definirán las coordenadas del punto final del arco y la posición del centro respecto al punto de partida, según los ejes del plano de trabajo.</text:p>
    <text:p text:style-name="Text_20_body">Las cotas del centro se definirán en radios y mediante las letras I, J o K, estando cada una de ellas asociada a los ejes del siguiente modo. Si no se definen las cotas del centro, el CNC interpreta que su valor es cero.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame25" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame25" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="5.258cm" draw:z-index="19">
      <draw:text-box fo:min-height="20%">
       <table:table table:name="Tabla196" table:style-name="Tabla196">
        <table:table-column table:style-name="Tabla196.A"/>
@@ -4571,7 +4612,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16960_552402399"/>Coordenadas polares<text:bookmark-end text:name="__RefHeading__16960_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Será necesario definir el ángulo del punto final respecto al centro del arco a programar y la distancia desde el punto de partida al centro (opcional), según los ejes del plano de trabajo.</text:p>
    <text:p text:style-name="Text_20_body">Las cotas del centro, se definirán por medio de las letras I, J o K, estando cada una de ellas asociada a los ejes del siguiente modo:</text:p>
-   <text:p text:style-name="P35"><draw:frame draw:style-name="fr6" draw:name="Image32" text:anchor-type="as-char" svg:width="7.692cm" svg:height="2.942cm" draw:z-index="0"><draw:image>
+   <text:p text:style-name="P35"><draw:frame draw:style-name="fr6" draw:name="Image32" text:anchor-type="as-char" svg:width="7.692cm" svg:height="2.942cm" draw:z-index="20"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAXsAAACRCAIAAACt9I8MAAAACXBIWXMAAA7EAAAOxQGMMD9a
        AAAipklEQVR4nO2deVxNW//HD6FkJpKbUErJcM3jI8qcoYg8eZI5KkPXULmS8ZIpLiHTNeS6
        mW5FZpcyFCLJlBsJUamuCpmq3+e31+s5r/M0nPY57bMrvu8/9mudvVdrr732Wp/1+a69z6lS
@@ -4745,7 +4786,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16962_552402399"/>Coordenadas cartesianas con programación de radio<text:bookmark-end text:name="__RefHeading__16962_552402399"/></text:h>
    <text:p text:style-name="P42">Se definirán las coordenadas del punto final del arco y el radio R. Si se programa una circunferencia completa, con la programación de radio, la controladora generalmente CNC visualizará un error correspondiente, debido a que existen infinitas soluciones.</text:p>
    <text:p text:style-name="P42">Si el arco de la circunferencia es menor que 180 grados, el radio se programará con signo positivo y si es mayor que 180 el signo del radio será negativo.</text:p>
-   <text:p text:style-name="P42"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame26" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="5.713cm" draw:z-index="0">
+   <text:p text:style-name="P42"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame26" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="5.713cm" draw:z-index="21">
      <draw:text-box fo:min-height="22%">
       <table:table table:name="Tabla197" table:style-name="Tabla197">
        <table:table-column table:style-name="Tabla197.A"/>
@@ -4759,23 +4800,23 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P42">Siendo el P0 el punto inicial y P1 el punto final, con un mismo valor de radio existen 4 arcos que pasan por ambos puntos. Dependiendo de la interpolación circular G02 o G03, y del signo del radio, se definirá el arco que interese. De esta forma el formato de programación de los arcos de la figura será el siguiente:</text:p>
-   <text:list xml:id="list5253428379743607546" text:style-name="L15">
+   <text:list xml:id="list6682056882994343849" text:style-name="L15">
     <text:list-item>
-     <text:p text:style-name="P61">Arco 1:<text:tab/>G02 X.. Z.. R- ..</text:p>
+     <text:p text:style-name="P64">Arco 1:<text:tab/>G02 X.. Z.. R- ..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P61">Arco 2:<text:tab/>G02 X.. Z.. R+..</text:p>
+     <text:p text:style-name="P64">Arco 2:<text:tab/>G02 X.. Z.. R+..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P61">Arco 3:<text:tab/>G03 X.. Z.. R+..</text:p>
+     <text:p text:style-name="P64">Arco 3:<text:tab/>G03 X.. Z.. R+..</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P61">Arco 4:<text:tab/>G03 X.. Z.. R- ..</text:p>
+     <text:p text:style-name="P64">Arco 4:<text:tab/>G03 X.. Z.. R- ..</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16964_552402399"/>Ejemplos<text:bookmark-end text:name="__RefHeading__16964_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">A continuación se analizan diversos modos de programación, siendo el punto inicial X40 Z60.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame27" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="5.713cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame27" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="14.96cm" style:rel-width="87%" svg:height="5.713cm" draw:z-index="22">
      <draw:text-box fo:min-height="22%">
       <table:table table:name="Tabla198" table:style-name="Tabla198">
        <table:table-column table:style-name="Tabla198.A"/>
@@ -4788,32 +4829,32 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing19" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Ejemplos de programación G02, G03</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list3388444658151924248" text:style-name="L16">
+   <text:list xml:id="list7163152772005063301" text:style-name="L16">
     <text:list-item>
-     <text:p text:style-name="P62">Coordenadas cartesianas:</text:p>
+     <text:p text:style-name="P65">Coordenadas cartesianas:</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P39"><text:tab/>G90 G03 X90 Z110 I50 K0</text:p>
    <text:p text:style-name="P39"><text:tab/>X40 Z160 I10 K50</text:p>
-   <text:list xml:id="list5403223296655088210" text:style-name="L17">
+   <text:list xml:id="list6458502411021294916" text:style-name="L17">
     <text:list-item>
-     <text:p text:style-name="P63">Coordenadas polares:</text:p>
+     <text:p text:style-name="P66">Coordenadas polares:</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T5">G90 G03 Q0 I50 K0</text:span></text:p>
    <text:p text:style-name="P39"><text:tab/>Q-90 I0 K50</text:p>
-   <text:list xml:id="list5501171739494144466" text:style-name="L18">
+   <text:list xml:id="list4728439863193461939" text:style-name="L18">
     <text:list-item>
-     <text:p text:style-name="P64">O bien:</text:p>
+     <text:p text:style-name="P67">O bien:</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"><text:tab/><text:span text:style-name="T5">G93 I90 J60 ; Define centro polar</text:span></text:p>
    <text:p text:style-name="P39"><text:tab/>G03 Q0</text:p>
    <text:p text:style-name="P39"><text:tab/>G93 I90 J160 ; Define nuevo centro polar</text:p>
    <text:p text:style-name="P39"><text:tab/>Q-90</text:p>
-   <text:list xml:id="list4322127191742265821" text:style-name="L19">
+   <text:list xml:id="list2201721098532330931" text:style-name="L19">
     <text:list-item>
-     <text:p text:style-name="P65">Coordenadas cartesianas con programación de radio:</text:p>
+     <text:p text:style-name="P68">Coordenadas cartesianas con programación de radio:</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P39"><text:tab/>G90 G03 X90 Z110 R50</text:p>
@@ -4821,7 +4862,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16966_552402399"/>G06 – Interpolación circular con centro del arco en coordenadas absolutas<text:bookmark-end text:name="__RefHeading__16966_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Añadiendo la función G06 en un bloque de interpolación circular, se pueden programar las cotas del centro del arco (I, J o K), en coordenadas absolutas, es decir, con respecto al cero de origen y no al comienzo del arco. La función G06 no es modal, por lo tanto deberá programarse siempre que se desee indicar las cotas del centro del arco, en coordenadas absolutas.</text:p>
    <text:p text:style-name="Text_20_body">Asumiendo en el siguiente ejemplo como punto inicial al X40 Z60</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame29" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="4.939cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame29" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="4.939cm" draw:z-index="23">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Tabla199" table:style-name="Tabla199">
        <table:table-column table:style-name="Tabla199.A"/>
@@ -4843,13 +4884,13 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16968_552402399"/>G08 – Trayectoria circular tangente a la trayectoria anterior<text:bookmark-end text:name="__RefHeading__16968_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Por medio de la función G08 se puede programar una trayectoria circular tangente a la trayectoria anterior sin necesidad de programar las cotas (I, J o K) del centro. Se definirán únicamente las coordenadas del punto final del arco, bien en coordenadas polares, o bien en coordenadas cartesianas según los ejes del plano de trabajo.</text:p>
    <text:p text:style-name="Text_20_body">La función G08 no es modal, por lo que deberá programarse siempre que se desee ejecutar un arco tangente a la trayectoria anterior. La función G08 puede ser programada como G8. La función G08 permite que la trayectoria anterior sea una recta o un arco, y no altera la historia del mismo, continuando activa la misma función G01, G02 o G03, tras finalizar el bloque.</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame30" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P9"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame30" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="24">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table31" table:style-name="Table31">
        <table:table-column table:style-name="Table31.A"/>
        <table:table-row>
         <table:table-cell table:style-name="Table31.A1" office:value-type="string">
-         <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Image34" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="13.067cm" draw:z-index="0"><draw:image>
+         <text:p text:style-name="P23"><draw:frame draw:style-name="fr7" draw:name="Image34" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="13.067cm" draw:z-index="25"><draw:image>
             <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA2wAAALjCAIAAADhnxG/AAAACXBIWXMAAA7EAAAOxAGVKw4b
              AADKH0lEQVR4nOzdd5zUVNg+/EG6iNKUjiAgdelVOiwiHaSLsPQOIkiTKkivIkhZehdYFpAm
              UqVJh6VKb9JZem/v9cv9PnnyJDPZZHbYndm9vn/wGbKZzElycs51Mkkm1tu3bx1ERERERHbE
@@ -5822,7 +5863,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16970_552402399"/>G09 – Trayectoria circular definida mediante tres puntos<text:bookmark-end text:name="__RefHeading__16970_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Por medio de la función G09 se puede definir una trayectoria circular (arco), programando el punto final y un punto intermedio (el punto inicial del arco es el punto de partida del movimiento). Es decir, en lugar de programar las coordenadas del centro, se programa cualquier punto intermedio.</text:p>
    <text:p text:style-name="Text_20_body">Se definirá el punto final del arco en coordenadas cartesianas o en coordenadas polares, y el punto intermedio se definirá siempre en coordenadas cartesianas mediante las letras I, J o K, estando cada una de ellas asociada a los ejes del siguiente modo:</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr6" draw:name="Image38" text:anchor-type="as-char" svg:width="7.692cm" svg:height="2.942cm" draw:z-index="0"><draw:image>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr6" draw:name="Image38" text:anchor-type="as-char" svg:width="7.692cm" svg:height="2.942cm" draw:z-index="26"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAXsAAACRCAIAAACt9I8MAAAACXBIWXMAAA7EAAAOxQGMMD9a
        AAAipklEQVR4nO2deVxNW//HD6FkJpKbUErJcM3jI8qcoYg8eZI5KkPXULmS8ZIpLiHTNeS6
        mW5FZpcyFCLJlBsJUamuCpmq3+e31+s5r/M0nPY57bMrvu8/9mudvVdrr732Wp/1+a69z6lS
@@ -5993,7 +6034,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">La función G09 no es modal, por lo que deberá programarse siempre que se desee ejecutar una trayectoria circular definida por tres puntos. Al programar G09 no es necesario programar el sentido de desplazamiento (G02 o G03). La función G09 no altera la historia del programa, continuando activa la misma función G01, G02 o G03, tras finalizar el bloque.</text:p>
-   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame31" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame31" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="27">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table32" table:style-name="Table32">
        <table:table-column table:style-name="Table32.A"/>
@@ -6008,7 +6049,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16972_552402399"/>G37 – Entrada tangencial al comienzo de mecanizado<text:bookmark-end text:name="__RefHeading__16972_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Mediante la función G37 se pueden enlazar tangencialmente dos trayectorias sin necesidad de calcular los puntos de intersección. La función G37 no es modal, por lo que deberá programarse siempre que se desee comenzar un mecanizado con entrada tangencial.</text:p>
-   <text:p text:style-name="P17"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame28" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P17"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame28" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="28">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Tabla200" table:style-name="Tabla200">
        <table:table-column table:style-name="Tabla200.A"/>
@@ -6027,7 +6068,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">Pero si en este mismo ejemplo se desea que la entrada de la herramienta a la pieza a mecanizar sea tangente a la trayectoria y describiendo un radio de 5mm, se deberá programar:</text:p>
    <text:p text:style-name="P43">G90 G01 G37 R5 R5 X20 Z30</text:p>
    <text:p text:style-name="P43">G03 X40 Z10 R20</text:p>
-   <text:p text:style-name="P19"><draw:frame draw:style-name="fr4" draw:name="Frame62" text:anchor-type="as-char" svg:y="0.305cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P19"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame62" text:anchor-type="as-char" svg:y="0.305cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="29">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table63" table:style-name="Table63">
        <table:table-column table:style-name="Table63.A"/>
@@ -6040,14 +6081,14 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing24" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">25</text:sequence>: Ejemplos de entrada tangencial describiendo un radio de 5mm</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Text_20_body">Como puede apreciarse en la figura, el CNC modifica la trayectoria, de forma que la herramienta comienza a mecanizar con entrada tangencial a la pieza. La función G37 junto con el valor R hay <text:soft-page-break/>que programarlos en el bloque que incorpora la trayectoria que se desea modificar.</text:p>
+   <text:p text:style-name="Text_20_body">Como puede apreciarse en la figura, el CNC modifica la trayectoria, de forma que la herramienta comienza a mecanizar con entrada tangencial a la pieza. La función G37 junto con el valor R hay que programarlos en el bloque que incorpora la trayectoria que se desea modificar.</text:p>
    <text:p text:style-name="Text_20_body">El valor de R5.5 debe ir en todos los casos a continuación de G37 e indica el radio del arco de circunferencia que el CNC introduce para conseguir una entrada tangencial a la pieza. Este valor de R debe ser siempre positivo.</text:p>
    <text:p text:style-name="Text_20_body">La función G37 sólo puede programarse en un bloque que incorpora movimiento rectilíneo (G00 o G01). Caso de programarse en un bloque que incorpore movimiento circular (G02 o G03), el CNC mostrará el error correspondiente.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16974_552402399"/>G38 – Salida tangencial al final de mecanizado<text:bookmark-end text:name="__RefHeading__16974_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La función G38 permite finalizar un mecanizado con una salida tangencial de la herramienta, siendo necesario que la trayectoria siguiente sea rectilínea (G00 o G01). En caso contrario el CNC mostrará el error correspondiente.</text:p>
    <text:p text:style-name="Text_20_body">La función G38 no es modal, por lo tanto deberá programarse siempre que se desee una salida tangencial de la herramienta.</text:p>
    <text:p text:style-name="Text_20_body">El valor de R5.5 debe ir en todos los casos a continuación de G38 e indica el radio del arco de circunferencia que el CNC introduce para conseguir una salida tangencial de la pieza. Este valor de R debe ser siempre positivo.</text:p>
-   <text:p text:style-name="P17"><draw:frame draw:style-name="fr4" draw:name="Frame63" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P17"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame63" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="30">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table64" table:style-name="Table64">
        <table:table-column table:style-name="Table64.A"/>
@@ -6066,7 +6107,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">Pero si en este mismo ejemplo se desea que la salida del mecanizado se realice tangencialmente y describiendo un radio de 5 mm, se deberá programar:</text:p>
    <text:p text:style-name="P43">G90 G02 G38 R5 X30 Z30 R20</text:p>
    <text:p text:style-name="P43">G01 X30 Z10</text:p>
-   <text:p text:style-name="P19"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame64" text:anchor-type="as-char" svg:y="0.305cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P19"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame64" text:anchor-type="as-char" svg:y="0.305cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="31">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table65" table:style-name="Table65">
        <table:table-column table:style-name="Table65.A"/>
@@ -6081,7 +6122,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16976_552402399"/>G36 – Redondeo controlado de aristas<text:bookmark-end text:name="__RefHeading__16976_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La función G36 permite redondear una arista con un radio determinado, sin necesidad de calcular el centro ni los puntos inicial y final del arco. La función G36 no es modal, por lo tanto deberá programarse siempre que se desee el redondeo de una arista. Esta función debe de programarse en el bloque en que se define el desplazamiento cuyo final se desea redondear. El valor de R5.5 debe ir en todos los casos a continuación de G36 e indica el radio de redondeo que el CNC introduce para conseguir un redondeo de la arista. Este valor de R debe ser siempre positivo.</text:p>
-   <text:p text:style-name="P18"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame21" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.3cm" style:rel-width="89%" svg:height="18.228cm" draw:z-index="0">
+   <text:p text:style-name="P18"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame21" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.3cm" style:rel-width="89%" svg:height="18.228cm" draw:z-index="32">
      <draw:text-box fo:min-height="73%">
       <table:table table:name="Tabla201" table:style-name="Tabla201">
        <table:table-column table:style-name="Tabla201.A"/>
@@ -6094,10 +6135,10 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing27" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">28</text:sequence>: Ejemplos de programación G36</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16978_552402399"/>G39 – Achaflanado<text:bookmark-end text:name="__RefHeading__16978_552402399"/></text:h>
-   <text:p text:style-name="Text_20_body">En los trabajos de mecanizado es posible, mediante la función G39, achaflanar aristas entre dos rectas, sin necesidad de calcular los puntos de intersección. La función G39 no es modal, por lo <text:soft-page-break/>tanto deberá programarse siempre que se desee el achaflanado de una arista. Esta función debe de programarse en el bloque en que se define el desplazamiento cuyo final se desea achaflanar.</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16978_552402399"/><text:soft-page-break/>G39 – Achaflanado<text:bookmark-end text:name="__RefHeading__16978_552402399"/></text:h>
+   <text:p text:style-name="Text_20_body">En los trabajos de mecanizado es posible, mediante la función G39, achaflanar aristas entre dos rectas, sin necesidad de calcular los puntos de intersección. La función G39 no es modal, por lo tanto deberá programarse siempre que se desee el achaflanado de una arista. Esta función debe de programarse en el bloque en que se define el desplazamiento cuyo final se desea achaflanar.</text:p>
    <text:p text:style-name="Text_20_body">El valor de R5.5 debe ir en todos los casos a continuación de G39 e indica la distancia desde el final de desplazamiento programado hasta el punto en que se quiere realizar el chaflán. Este valor de R debe ser siempre positivo.</text:p>
-   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame32" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame32" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="33">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table33" table:style-name="Table33">
        <table:table-column table:style-name="Table33.A"/>
@@ -6119,7 +6160,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16982_552402399"/>Ejemplos<text:bookmark-end text:name="__RefHeading__16982_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">En los siguientes ejemplos, el eje X se programa en diámetros.</text:p>
    <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16984_552402399"/><text:soft-page-break/>Roscado longitudinal<text:bookmark-end text:name="__RefHeading__16984_552402399"/></text:h>
-   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame65" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame65" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="34">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table66" table:style-name="Table66">
        <table:table-column table:style-name="Table66.A"/>
@@ -6141,7 +6182,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16986_552402399"/>Roscado cónico<text:bookmark-end text:name="__RefHeading__16986_552402399"/></text:h>
-   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame66" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="0">
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame66" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="16.489cm" style:rel-width="96%" svg:height="4.888cm" draw:z-index="35">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table67" table:style-name="Table67">
        <table:table-column table:style-name="Table67.A"/>
@@ -6165,8 +6206,8 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__16988_552402399"/>Funciones preparatorias adicionales<text:bookmark-end text:name="__RefHeading__16988_552402399"/></text:h>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16990_552402399"/>G04 – Interrumpir la preparación de bloques<text:bookmark-end text:name="__RefHeading__16990_552402399"/></text:h>
-   <text:p text:style-name="Text_20_body">Las controladoras CNC van leyendo varios bloques por delante del que se encuentra en ejecución, con el objeto de calcular con antelación la trayectoria a recorrer, en el caso del proyecto se leen hasta veinte bloques por delante.</text:p>
-   <text:p text:style-name="Text_20_body">Cada bloque se evaluará, por defecto, en el momento de leerlo, pero si se desea evaluarlo en el momento de la ejecución de dicho bloque se usará la función G04. Esta función detiene la preparación de bloques y espera a que dicho bloque se ejecute para comenzar nuevamente la <text:soft-page-break/>preparación de bloques. Un caso de este tipo es la evaluación de la <text:span text:style-name="T1">condición de salto de bloque</text:span> que se define en la cabecera del bloque.</text:p>
+   <text:p text:style-name="Text_20_body">Las controladoras CNC van leyendo varios bloques por delante del que se encuentra en <text:soft-page-break/>ejecución, con el objeto de calcular con antelación la trayectoria a recorrer, en el caso del proyecto se leen hasta veinte bloques por delante.</text:p>
+   <text:p text:style-name="Text_20_body">Cada bloque se evaluará, por defecto, en el momento de leerlo, pero si se desea evaluarlo en el momento de la ejecución de dicho bloque se usará la función G04. Esta función detiene la preparación de bloques y espera a que dicho bloque se ejecute para comenzar nuevamente la preparación de bloques. Un caso de este tipo es la evaluación de la <text:span text:style-name="T1">condición de salto de bloque</text:span> que se define en la cabecera del bloque.</text:p>
    <text:p text:style-name="Text_20_body">Ejemplo:</text:p>
    <text:p text:style-name="P14"><text:tab/>…</text:p>
    <text:p text:style-name="P14"><text:tab/>G04<text:tab/><text:tab/><text:tab/>; Interrumpe la preparación de bloques</text:p>
@@ -6182,7 +6223,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16994_552402399"/>G07 – Trabajo en arista viva<text:bookmark-end text:name="__RefHeading__16994_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Cuando se trabaja en G07 (arista viva), el CNC no comienza la ejecución del siguiente bloque del programa, hasta que el eje alcance la posición programada.</text:p>
    <text:p text:style-name="Text_20_body">El CNC entiende que se ha alcanzado la posición programada cuando el eje se encuentra a una distancia inferior a la banda de muerte de la posición programada.</text:p>
-   <text:p text:style-name="P11"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame46" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.619cm" style:rel-width="91%" svg:height="7.791cm" draw:z-index="0">
+   <text:p text:style-name="P11"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame46" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.619cm" style:rel-width="91%" svg:height="7.791cm" draw:z-index="36">
      <draw:text-box fo:min-height="30%">
       <table:table table:name="Table47" table:style-name="Table47">
        <table:table-column table:style-name="Table47.A"/>
@@ -6198,7 +6239,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">Los perfiles teórico y real coinciden, obteniéndose cantos vivos, tal y como se observa en la figura. La función G07 es modal e incompatible con G05, G50 y G51.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16996_552402399"/>G05 – Trabajo en arista matada<text:bookmark-end text:name="__RefHeading__16996_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Cuando se trabaja en G05 (arista matada), el CNC comienza la ejecución del siguiente bloque del programa, una vez finalizada la interpolación teórica del bloque actual. No espera a que los ejes se encuentren en posición. La distancia de la posición programada a la que comienza la ejecución del bloque siguiente depende de la velocidad de avance de los ejes.</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr4" draw:name="Frame47" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.3cm" style:rel-width="89%" svg:height="3.858cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame47" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.3cm" style:rel-width="89%" svg:height="3.858cm" draw:z-index="37">
      <draw:text-box fo:min-height="15%">
       <table:table table:name="Table48" table:style-name="Table48">
        <table:table-column table:style-name="Table48.A"/>
@@ -6211,11 +6252,11 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing32" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">33</text:sequence>: Ejemplos de programación G05</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Text_20_body">Por medio de esta función se obtendrán cantos redondeados, tal y como se observa en la figura. <text:soft-page-break/>La diferencia entre los perfiles teórico y real, está en función del valor del avance F programado. Cuanto mayor sea el avance, mayor será la diferencia entre ambos perfiles.</text:p>
+   <text:p text:style-name="Text_20_body">Por medio de esta función se obtendrán cantos redondeados, tal y como se observa en la figura. La diferencia entre los perfiles teórico y real, está en función del valor del avance F programado. Cuanto mayor sea el avance, mayor será la diferencia entre ambos perfiles.</text:p>
    <text:p text:style-name="P9">La función G05 es modal e incompatible con G07, G50 y G51.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__16998_552402399"/>G50 – Trabajo en arista matada controlada<text:bookmark-end text:name="__RefHeading__16998_552402399"/></text:h>
    <text:p text:style-name="P9">Cuando se trabaja en G50 (arista matada controlada), el CNC, una vez finalizada la interpolación teórica del bloque actual, espera que el eje entre dentro de la zona configurada por el fabricante, para continuar con la ejecución del siguiente bloque.</text:p>
-   <text:p text:style-name="P9"><draw:frame draw:style-name="fr4" draw:name="Frame48" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="6.161cm" draw:z-index="0">
+   <text:p text:style-name="P9"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame48" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="6.161cm" draw:z-index="38">
      <draw:text-box fo:min-height="24%">
       <table:table table:name="Table49" table:style-name="Table49">
        <table:table-column table:style-name="Table49.A"/>
@@ -6240,8 +6281,8 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">Ejemplos:</text:p>
    <text:p text:style-name="P39">G14 W</text:p>
    <text:p text:style-name="P39">G14 X Z A B</text:p>
-   <text:p text:style-name="Text_20_body">Cuando el CNC trabaja con imágenes espejo, ejecuta los desplazamientos programados en los <text:soft-page-break/>ejes que tengan seleccionado imagen espejo, con el signo cambiado. Las funciones G11, G12, G13 y G14 son modales e incompatibles con G10. Se pueden programar a la vez G11, G12 y G13 en el mismo bloque, puesto que no son incompatibles entre sí. La función G14 deberá programarse sola en un bloque, no pudiendo existir más información en este bloque. Si estando activa una de las funciones imagen espejo (G11, G12, G13, G14) se ejecuta una preselección de cotas G92, ésta no queda afectada por la función imagen espejo.</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr4" draw:name="Frame67" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="6.161cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body">Cuando el CNC trabaja con imágenes espejo, ejecuta los desplazamientos programados en los ejes que tengan seleccionado imagen espejo, con el signo cambiado. Las funciones G11, G12, G13 y G14 son modales e incompatibles con G10. Se pueden programar a la vez G11, G12 y G13 en el mismo bloque, puesto que no son incompatibles entre sí. La función G14 deberá programarse sola en un bloque, no pudiendo existir más información en este bloque. Si estando activa una de las funciones imagen espejo (G11, G12, G13, G14) se ejecuta una preselección de cotas G92, ésta no queda afectada por la función imagen espejo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame67" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="6.161cm" draw:z-index="39">
      <draw:text-box fo:min-height="24%">
       <table:table table:name="Table68" table:style-name="Table68">
        <table:table-column table:style-name="Table68.A"/>
@@ -6262,7 +6303,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__17004_552402399"/>Factor de escala aplicada a todos los ejes<text:bookmark-end text:name="__RefHeading__17004_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El formato de programación es: <text:span text:style-name="T5">G72 S5.5</text:span></text:p>
    <text:p text:style-name="Text_20_body">A continuación de G72 todas las coordenadas programadas se multiplicarán por el valor del factor de escala definido por S, hasta que se lea una nueva definición de factor de escala G72 o se anule esta.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame49" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame49" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="40">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table50" table:style-name="Table50">
        <table:table-column table:style-name="Table50.A"/>
@@ -6278,18 +6319,18 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__17006_552402399"/>Factor de escala aplicada a uno o varios ejes<text:bookmark-end text:name="__RefHeading__17006_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El formato de programación es: <text:span text:style-name="T5">G72 X...C 5.5</text:span></text:p>
    <text:p text:style-name="Text_20_body">A continuación de G72 se programará el eje o ejes y el factor de escala deseados. Todos los bloques programados a continuación de G72 serán tratados por el CNC del siguiente modo:</text:p>
-   <text:list xml:id="list1766637998029249430" text:style-name="L20">
+   <text:list xml:id="list8562308253024340567" text:style-name="L20">
     <text:list-item>
-     <text:p text:style-name="P66">El CNC calculará los desplazamientos de todos los ejes en función de la trayectoria y compensación programada.</text:p>
+     <text:p text:style-name="P69">El CNC calculará los desplazamientos de todos los ejes en función de la trayectoria y compensación programada.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66">A continuación aplicará el factor de escala indicado al desplazamiento calculado del eje o ejes correspondientes.</text:p>
+     <text:p text:style-name="P69">A continuación aplicará el factor de escala indicado al desplazamiento calculado del eje o ejes correspondientes.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Si se selecciona el factor de escala aplicado a uno o varios ejes, el CNC aplicará el factor de escala indicado tanto al desplazamiento del eje o ejes correspondientes como al avance de los mismos.</text:p>
    <text:p text:style-name="Text_20_body">Si en el mismo programa se aplican las dos modalidades del factor de escala, el aplicado a todos los ejes y el aplicado a uno o varios ejes, el CNC aplica al eje o ejes afectados por ambas modalidades, un factor de escala igual al producto de los dos factores de escala programados para dicho eje.</text:p>
    <text:p text:style-name="Text_20_body">La función G72 es modal y será anulada al programar otro factor de escala.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame50" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame50" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="41">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table51" table:style-name="Table51">
        <table:table-column table:style-name="Table51.A"/>
@@ -6308,42 +6349,42 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">A continuación se listan todos los ciclos fijos proporcionados por Fagor, aunque no todos aplican al proyecto por no ser todos válidos en tornos, aquellos válidos serán explicados en el desarrollo de está subsección.</text:p>
    <text:p text:style-name="Text_20_body">Los ciclos fijos pueden ser ejecutados en cualquier plano, realizándose la profundización según el eje seleccionado como eje longitudinal mediante la función G15, o en su defecto según el eje perpendicular a dicho plano.</text:p>
    <text:p text:style-name="Text_20_body">Las funciones que dispone el CNC para definir los ciclos fijos de mecanizado son:</text:p>
-   <text:list xml:id="list6962361967977579613" text:style-name="L21">
+   <text:list xml:id="list2239191354575096292" text:style-name="L21">
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G66</text:span><text:tab/>Ciclo fijo de seguimiento de perfil.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G66</text:span><text:tab/>Ciclo fijo de seguimiento de perfil.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G68</text:span><text:tab/>Ciclo fijo de desbastado en el eje X.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G68</text:span><text:tab/>Ciclo fijo de desbastado en el eje X.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G69</text:span><text:tab/>Ciclo fijo de desbastado en el eje Z.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G69</text:span><text:tab/>Ciclo fijo de desbastado en el eje Z.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G81</text:span><text:tab/>Ciclo fijo de torneado de tramos rectos.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G81</text:span><text:tab/>Ciclo fijo de torneado de tramos rectos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G82</text:span><text:tab/>Ciclo fijo de refrentado de tramos rectos.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G82</text:span><text:tab/>Ciclo fijo de refrentado de tramos rectos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G83</text:span><text:tab/>Ciclo fijo de taladrado.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G83</text:span><text:tab/>Ciclo fijo de taladrado.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G84</text:span><text:tab/>Ciclo fijo de torneado de tramos curvos.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G84</text:span><text:tab/>Ciclo fijo de torneado de tramos curvos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G85</text:span><text:tab/>Ciclo fijo de refrentado de tramos curvos.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G85</text:span><text:tab/>Ciclo fijo de refrentado de tramos curvos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G86</text:span><text:tab/>Ciclo fijo de roscado longitudinal.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G86</text:span><text:tab/>Ciclo fijo de roscado longitudinal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G87</text:span><text:tab/>Ciclo fijo de roscado frontal.</text:p>
+     <text:p text:style-name="P70"><text:soft-page-break/><text:span text:style-name="T5">G87</text:span><text:tab/>Ciclo fijo de roscado frontal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:soft-page-break/><text:span text:style-name="T5">G88</text:span><text:tab/>Ciclo fijo de ranurado en el eje X.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G88</text:span><text:tab/>Ciclo fijo de ranurado en el eje X.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P67"><text:span text:style-name="T5">G89</text:span><text:tab/>Ciclo fijo de ranurado en el eje Z.</text:p>
+     <text:p text:style-name="P70"><text:span text:style-name="T5">G89</text:span><text:tab/>Ciclo fijo de ranurado en el eje Z.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Un ciclo fijo se define mediante la función G indicativa de ciclo fijo y los parámetros correspondientes al ciclo deseado. Un ciclo fijo puede ser definido en cualquier parte del programa, es decir, se puede definir tanto en el programa principal como en una subrutina.</text:p>
@@ -6351,7 +6392,7 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
    <text:p text:style-name="Text_20_body">Este ciclo mecaniza el perfil programado, manteniendo el paso especificado entre las sucesivas pasadas de mecanizado. El ciclo permite utilizar herramientas triangulares, redondas y cuadradas.</text:p>
    <text:p text:style-name="Text_20_body">Trabajando en coordenadas cartesianas, la estructura básica del bloque es:</text:p>
    <text:p text:style-name="P40">G66 X Z I C A L M H S E Q</text:p>
-   <text:p text:style-name="P41"><draw:frame draw:style-name="fr4" draw:name="Frame53" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="0">
+   <text:p text:style-name="P41"><draw:frame draw:style-name="fr4" draw:name="Frame53" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="42">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table54" table:style-name="Table54">
        <table:table-column table:style-name="Table54.A"/>
@@ -6365,43 +6406,43 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__5759_35930869"/>Parámetros configurables<text:bookmark-end text:name="__RefHeading__5759_35930869"/></text:h>
-   <text:list xml:id="list9208934184482301781" text:style-name="L22">
+   <text:list xml:id="list2295164049973272428" text:style-name="L22">
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">X ±5.5</text:span><text:span text:style-name="T7"> - </text:span>Define la cota según el eje X, del punto inicial del perfil. Se programará en cotas absolutas y según las unidades activas, radios o diámetros.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">X ±5.5</text:span><text:span text:style-name="T7"> - </text:span>Define la cota según el eje X, del punto inicial del perfil. Se programará en cotas absolutas y según las unidades activas, radios o diámetros.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">Z ±5.5</text:span><text:span text:style-name="T7"> - </text:span>Define la cota según el eje Z, del punto inicial del perfil. Se programará en cotas absolutas.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">Z ±5.5</text:span><text:span text:style-name="T7"> - </text:span>Define la cota según el eje Z, del punto inicial del perfil. Se programará en cotas absolutas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">I 5.5 </text:span><text:span text:style-name="T7"><text:s/>- </text:span>Define el sobrante de material, es decir, la cantidad a eliminar de la pieza origen. Se define en radios y dependiendo del valor asignado al parámetro <text:span text:style-name="T1">A</text:span> este valor se interpretará como sobrante en <text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> o en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">. </text:span>Si su valor no es mayor que la demasía para el acabado (<text:span text:style-name="T1">L</text:span> o <text:span text:style-name="T1">M</text:span>) únicamente se efectúa la pasada de acabado, si <text:span text:style-name="T1">H</text:span> es distinto de cero.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">I 5.5 </text:span><text:span text:style-name="T7"><text:s/>- </text:span>Define el sobrante de material, es decir, la cantidad a eliminar de la pieza origen. Se define en radios y dependiendo del valor asignado al parámetro <text:span text:style-name="T1">A</text:span> este valor se interpretará como sobrante en <text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> o en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">. </text:span>Si su valor no es mayor que la demasía para el acabado (<text:span text:style-name="T1">L</text:span> o <text:span text:style-name="T1">M</text:span>) únicamente se efectúa la pasada de acabado, si <text:span text:style-name="T1">H</text:span> es distinto de cero.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">C 5.5 <text:s/>-</text:span><text:span text:style-name="T7"> </text:span>Define el paso de mecanizado. Todas las pasadas de mecanizado se efectúan con este paso, excepto la última que eliminará el material sobrante. Se define en radios y dependiendo del valor asignado al parámetro <text:span text:style-name="T1">A</text:span> este valor se interpretará, al igual que <text:span text:style-name="T1">I</text:span>, como paso en <text:span text:style-name="T1">X</text:span> o en <text:span text:style-name="T1">Z</text:span>. Si se programa con valor <text:span text:style-name="T1">0</text:span>, el CNC visualizará el error.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">C 5.5 <text:s/>-</text:span><text:span text:style-name="T7"> </text:span>Define el paso de mecanizado. Todas las pasadas de mecanizado se efectúan con este paso, excepto la última que eliminará el material sobrante. Se define en radios y dependiendo del valor asignado al parámetro <text:span text:style-name="T1">A</text:span> este valor se interpretará, al igual que <text:span text:style-name="T1">I</text:span>, <text:soft-page-break/>como paso en <text:span text:style-name="T1">X</text:span> o en <text:span text:style-name="T1">Z</text:span>. Si se programa con valor <text:span text:style-name="T1">0</text:span>, el CNC visualizará el error.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">A 1 <text:s text:c="3"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el eje principal de mecanizado.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">A 1 <text:s text:c="3"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el eje principal de mecanizado.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P68">Si se programa <text:span text:style-name="T1">A0</text:span>, el eje principal será el <text:span text:style-name="T1">Z</text:span>. El valor de <text:span text:style-name="T1">I</text:span> se toma como sobrante de <text:soft-page-break/>material en <text:span text:style-name="T1">X</text:span> y el valor de <text:span text:style-name="T1">C</text:span> como paso en <text:span text:style-name="T1">X</text:span>.</text:p>
+       <text:p text:style-name="P71">Si se programa <text:span text:style-name="T1">A0</text:span>, el eje principal será el <text:span text:style-name="T1">Z</text:span>. El valor de <text:span text:style-name="T1">I</text:span> se toma como sobrante de material en <text:span text:style-name="T1">X</text:span> y el valor de <text:span text:style-name="T1">C</text:span> como paso en <text:span text:style-name="T1">X</text:span>.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P68">Si se programa <text:span text:style-name="T1">A1</text:span><text:span text:style-name="T2">, el eje principal será el </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2">. El valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">.</text:span></text:p>
+       <text:p text:style-name="P71">Si se programa <text:span text:style-name="T1">A1</text:span><text:span text:style-name="T2">, el eje principal será el </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2">. El valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P68"><text:span text:style-name="T2">Sino se programa el parámetro </text:span><text:span text:style-name="T1">A</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> y </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> dependerá de las dimensiones de la herramienta.</text:span></text:p>
+       <text:p text:style-name="P71"><text:span text:style-name="T2">Sino se programa el parámetro </text:span><text:span text:style-name="T1">A</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> y </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> dependerá de las dimensiones de la herramienta.</text:span></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P68"><text:span text:style-name="T2">Si la longitud en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> de la herramienta es mayor que la longitud en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2">.</text:span></text:p>
+         <text:p text:style-name="P71"><text:span text:style-name="T2">Si la longitud en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> de la herramienta es mayor que la longitud en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2">.</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P68"><text:span text:style-name="T2">Si la longitud en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> de la herramienta es menor que la longitud en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">.</text:span></text:p>
+         <text:p text:style-name="P71"><text:span text:style-name="T2">Si la longitud en </text:span><text:span text:style-name="T1">X</text:span><text:span text:style-name="T2"> de la herramienta es menor que la longitud en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">, el valor de </text:span><text:span text:style-name="T1">I</text:span><text:span text:style-name="T2"> se toma como sobrante de material en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2"> y el valor de </text:span><text:span text:style-name="T1">C</text:span><text:span text:style-name="T2"> como paso en </text:span><text:span text:style-name="T1">Z</text:span><text:span text:style-name="T2">.</text:span></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P36"><draw:frame draw:style-name="fr4" draw:name="Frame54" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="0">
+   <text:p text:style-name="P36"><draw:frame draw:style-name="fr4" draw:name="Frame54" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.129cm" style:rel-width="88%" svg:height="4.902cm" draw:z-index="43">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table52" table:style-name="Table52">
        <table:table-column table:style-name="Table52.A"/>
@@ -6414,15 +6455,15 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing38" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">39</text:sequence>: Parámetro A en función G69.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list205823887459475" text:continue-numbering="true" text:style-name="L22">
+   <text:list xml:id="list11044965308881" text:continue-numbering="true" text:style-name="L22">
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">L ±5.5 -</text:span><text:span text:style-name="T7"> </text:span>Define la demasía que se dejará en X para efectuar el acabado. Se define en radios y si no se programa, se tomará el valor 0.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">L ±5.5 -</text:span><text:span text:style-name="T7"> </text:span>Define la demasía que se dejará en X para efectuar el acabado. Se define en radios y si no se programa, se tomará el valor 0.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">M ±5.5 -</text:span><text:span text:style-name="T7"> </text:span>Define la demasía que se dejará en Z para efectuar el acabado. Si <text:span text:style-name="T1">L</text:span> o <text:span text:style-name="T1">M</text:span> se programan con valor negativo la pasada de acabado se realiza en arista matada (<text:span text:style-name="T1">G05</text:span>). Cuando ambos parámetros se programan con valor positivo, la pasada de acabado se realizará en arista viva (<text:span text:style-name="T1">G07</text:span>). Si no se programa el parámetro <text:span text:style-name="T1">M</text:span>, la demasía en <text:span text:style-name="T1">X</text:span> y <text:span text:style-name="T1">Z</text:span> será la indicada en el parámetro <text:span text:style-name="T1">L</text:span> y las pasadas de desbaste serán equidistantes, manteniendo la distancia <text:span text:style-name="T1">C</text:span> entre 2 pasadas consecutivas.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">M ±5.5 -</text:span><text:span text:style-name="T7"> </text:span>Define la demasía que se dejará en Z para efectuar el acabado. Si <text:span text:style-name="T1">L</text:span> o <text:span text:style-name="T1">M</text:span> se programan con valor negativo la pasada de acabado se realiza en arista matada (<text:span text:style-name="T1">G05</text:span>). Cuando ambos parámetros se programan con valor positivo, la pasada de acabado se realizará en arista viva (<text:span text:style-name="T1">G07</text:span>). Si no se programa el parámetro <text:span text:style-name="T1">M</text:span>, la demasía en <text:span text:style-name="T1">X</text:span> y <text:span text:style-name="T1">Z</text:span> será la indicada en el parámetro <text:span text:style-name="T1">L</text:span> y las pasadas de desbaste serán equidistantes, manteniendo la distancia <text:span text:style-name="T1">C</text:span> entre 2 pasadas consecutivas.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame51" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="4.761cm" draw:z-index="0">
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Frame51" text:anchor-type="as-char" svg:y="-0.307cm" svg:width="15.81cm" style:rel-width="92%" svg:height="4.761cm" draw:z-index="44">
      <draw:text-box fo:min-height="19%">
       <table:table table:name="Table53" table:style-name="Table53">
        <table:table-column table:style-name="Table53.A"/>
@@ -6435,18 +6476,18 @@ F rsub c = { F cdot %DELTA c } over { %DELTA dist } = { 10000 cdot 270 } over { 
       <text:p text:style-name="Drawing">Dibujo <text:sequence text:ref-name="refDrawing39" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">40</text:sequence>: Parámetro L en función G69.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list205822468233672" text:continue-numbering="true" text:style-name="L22">
+   <text:list xml:id="list11045387256492" text:continue-numbering="true" text:style-name="L22">
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">H 5.5 <text:s/>-</text:span><text:span text:style-name="T7"> </text:span>Define la velocidad de avance de la pasada de acabado. Si no se programa o se programa con valor 0, se entiende que no se desea pasada de acabado.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">H 5.5 <text:s/>-</text:span><text:span text:style-name="T7"> </text:span>Define la velocidad de avance de la pasada de acabado. Si no se programa o se programa con valor 0, se entiende que no se desea pasada de acabado.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">S 4 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de etiqueta del bloque en el que comienza la descripción geométrica del perfil.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">S 4 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de etiqueta del bloque en el que comienza la descripción geométrica del perfil.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">E 4 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de etiqueta del bloque en el que termina la descripción geométrica del perfil.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">E 4 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de etiqueta del bloque en el que termina la descripción geométrica del perfil.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P68"><text:span text:style-name="T6">Q 6 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de programa que contiene la descripción geométrica del perfil, este parámetro es opcional y si no se define el CNC entiende que le perfil se encuentra definido en el mismo programa que contiene la llamada al ciclo.</text:p>
+     <text:p text:style-name="P71"><text:span text:style-name="T6">Q 6 <text:s text:c="2"/>-</text:span><text:span text:style-name="T7"> </text:span>Define el número de programa que contiene la descripción geométrica del perfil, este parámetro es opcional y si no se define el CNC entiende que le perfil se encuentra definido en el mismo programa que contiene la llamada al ciclo.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__17014_552402399"/>TODO: completar los ciclos fijos que faltan<text:bookmark-end text:name="__RefHeading__17014_552402399"/></text:h>

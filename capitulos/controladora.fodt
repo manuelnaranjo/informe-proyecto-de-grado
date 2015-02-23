@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-22T22:44:26.291187707</dc:date><meta:editing-duration>P3DT18H29M13S</meta:editing-duration><meta:editing-cycles>254</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="19" meta:image-count="33" meta:object-count="2" meta:page-count="55" meta:paragraph-count="944" meta:word-count="16721" meta:character-count="97763" meta:non-whitespace-character-count="82206"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-23T01:10:13.402304418</dc:date><meta:editing-duration>P3DT18H42M40S</meta:editing-duration><meta:editing-cycles>255</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="19" meta:image-count="33" meta:object-count="2" meta:page-count="55" meta:paragraph-count="944" meta:word-count="16721" meta:character-count="97763" meta:non-whitespace-character-count="82206"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">1645920</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">332006</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">433651</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -120,7 +120,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -5695,7 +5697,7 @@
           EYIBABiOEAwAwHCEYAAAhiMEAwAwnP8Pe+tv22cCbgkAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing0" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Fagor 8035 - Panel frontal</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing24" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Fagor 8035 - Panel frontal</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187972_359546015"/><text:soft-page-break/>Interfaz de usuario<text:bookmark-end text:name="__RefHeading__187972_359546015"/></text:h>
@@ -6269,7 +6271,7 @@
           PKzRBXEsuwYAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing1" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Fagor 8035 – interfaz gráfica</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing25" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Fagor 8035 – interfaz gráfica</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P51" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187976_359546015"/>Interfaz gráfica<text:bookmark-end text:name="__RefHeading__187976_359546015"/></text:h>
@@ -7162,7 +7164,7 @@
           98p/fKf3yn98p/fKf3yn98p/fKf3yn98p/fKf3yn98W0SzC9/wCP/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing2" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Controladora CNC - Fagor 8035m – Parte Trasera</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing26" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Controladora CNC - Fagor 8035m – Parte Trasera</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P9">En la imagen anterior se puede observar la parte trasera de la controladora, en la misma se puede apreciar la parte posterior de la controladora CNC, donde se ubican los distintos conectores para interactuar con los motores, dispositivos digitales, entradas digitales, comunicación serie y CAN, dispositivos de almacenamiento (USB y CF), alimentación, joystick digital, etc.</text:p>
@@ -7223,7 +7225,7 @@
           BeRSKCCXQgG5FArIpVBALoUCcikUkEuhgFwKBeT6F+wsjRfRxAXFAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Características de pico de corriente en la alimentación.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing27" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Características de pico de corriente en la alimentación.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">La controladora incluye dos conexiones de descarga a tierra una en el conector de alimentación y otra en el chasis, ambas deben ser conectadas para un correcto funcionamiento de la controladora y así evitar daños tanto a la controladora como al eventual operario, esto se complementa con la conexión de 0V de la fuente al punto principal de tierra del armario eléctrico.</text:p>
@@ -7338,7 +7340,7 @@
           2Z792aBdgyEAADs=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Señal TTL de encoder.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing28" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Señal TTL de encoder.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187994_359546015"/>Conexión de volantes electrónicos<text:bookmark-end text:name="__RefHeading__187994_359546015"/></text:h>
@@ -7473,7 +7475,7 @@
           TkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Norma DIN 66217 de nomenclatura de ejes.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing29" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Norma DIN 66217 de nomenclatura de ejes.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Características del sistema de ejes:</text:p>
@@ -7671,7 +7673,7 @@
           YgEA4P/xijb8L3SDYgEA4B8wqxYoFgAAwIT/A4FjDkdahdygAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Ejes según norma DIN 66217 en distintos tipos de máquinas.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing30" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Ejes según norma DIN 66217 en distintos tipos de máquinas.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188022_359546015"/>Ejes lineales<text:bookmark-end text:name="__RefHeading__188022_359546015"/></text:h>
@@ -7906,7 +7908,7 @@
           5DgA2I0cBwC7/R+VSlo19yZogwAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Control Jog</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing31" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Control Jog</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P18">Con estos botones el operador puede realizar movimientos manuales a velocidades bajas, sirve para realizar movimientos de posicionamiento previos a la puesta a punto y para algunas pruebas simples, aunque para pruebas manuales controladas se suele preferir el del volante electrónico ya que su control resulta más preciso desdé el punto de vista del operario.</text:p>
@@ -8064,7 +8066,7 @@
           uwGAT7AbAPgEuwGAT7AbAPgEuwGAT7AbAPgEuwGAT/4P+V2ZmZxgCXwAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing8" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">9</text:sequence>: Conmutador multiplicador.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing32" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">9</text:sequence>: Conmutador multiplicador.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Para desplazar cualquiera de ellos se debe situar el conmutador en una de las posiciones del volante. Las posiciones 1, 10 y 100, indican el factor de multiplicación que se aplica a los impulsos proporcionados por el volante electrónico. Por ejemplo, si el fabricante ha fijado para la posición 1 del conmutador un desplazamiento de 0.100 mm o 0.0100 pulgadas por vuelta del volante:</text:p>
@@ -8575,7 +8577,7 @@
           /9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Modalidad volante aditivo.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing33" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Modalidad volante aditivo.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P54" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__188042_359546015"/>Sistemas de captación o de realimentación por pulsos<text:bookmark-end text:name="__RefHeading__188042_359546015"/></text:h>
@@ -8810,7 +8812,7 @@
           nIQGgIgkNABEJKEBICIJDQARSWgAiEhCA0BE/wEZwk74Ln5OeQAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Respuesta en velocidad deseable y posibles inestabilidades</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing34" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Respuesta en velocidad deseable y posibles inestabilidades</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Existen 3 tipos de ganancias por cada eje. Su ajuste se realiza mediante parámetros máquina de ejes y siguiendo el orden indicado a continuación.</text:p>
@@ -9216,7 +9218,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           DgDhiXMACE+cA0B44hwAwhPnABCeOAeA8MQ5AIT3H5+TstI+nCRDAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Lazo de control feed-foward</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing35" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Lazo de control feed-foward</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">La ganancia feed-forward permite reducir el error de seguimiento sin aumentar la ganancia, manteniendo por tanto la estabilidad del sistema. Define el porcentaje de salida que es debido al avance programado, el resto dependerá de la ganancia proporcional y de la derivativa (AC-forward). Esta ganancia se debe utilizar únicamente cuando se trabaja con control de aceleración / deceleración.</text:p>
@@ -9323,7 +9325,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           AABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing12" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">13</text:sequence>: Lazo de control con DERGAIN no nulo</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing36" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">13</text:sequence>: Lazo de control con DERGAIN no nulo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">La ganancia derivativa permite reducir el error de seguimiento durante las fases de aceleración y deceleración. Su valor viene dado por el PME DERGAIN (P24).</text:p>
@@ -9335,7 +9337,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
      <text:p text:style-name="P91">Comprobar que no hay oscilaciones en el error de seguimiento, que no sea inestable.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P91">Mirar con osciloscopio la tensión de la señal de control al regulador y comprobar que el sistema es estable y que no hay inestabilidades en el arranque y en la frenada, se puede usar como referencia el <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing10">Dibujo 11</text:sequence-ref> en la página <text:sequence-ref text:reference-format="page" text:ref-name="refDrawing10">18</text:sequence-ref>.</text:p>
+     <text:p text:style-name="P91">Mirar con osciloscopio la tensión de la señal de control al regulador y comprobar que el sistema es estable y que no hay inestabilidades en el arranque y en la frenada, se puede usar como referencia el <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing34">Dibujo 11</text:sequence-ref> en la página <text:sequence-ref text:reference-format="page" text:ref-name="refDrawing34">18</text:sequence-ref>.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188090_359546015"/>Compensación de la holgura (backlash) de husillo<text:bookmark-end text:name="__RefHeading__188090_359546015"/></text:h>
@@ -9359,7 +9361,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           H7q+AXHIss/p2TURAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing13" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">14</text:sequence>: Pulso de compensación de holgura (backlash) de husillo</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing37" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">14</text:sequence>: Pulso de compensación de holgura (backlash) de husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/>Como se <text:span text:style-name="T11">explico en el capítulo introductorio, </text:span>los ejes de movimiento del carro porta herramientas cuentan con tuercas anti backlash por lo cuál la compensación del efecto se realiza de forma mecánica y no es necesario realizarlo electrónicamente.</text:p>
@@ -9542,7 +9544,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           TVfYFY0AAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing14" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">15</text:sequence>: Puntos de referencia para máquina tipo torno.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing38" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">15</text:sequence>: Puntos de referencia para máquina tipo torno.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188094_359546015"/>Proceso de búsqueda de referencia máquina<text:bookmark-end text:name="__RefHeading__188094_359546015"/></text:h>
@@ -9609,7 +9611,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           /gUYjX8HG0E4pwAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing15" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">16</text:sequence>: Modulo de Velocidad de control durante la búsqueda de referencia de máquina.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing39" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">16</text:sequence>: Modulo de Velocidad de control durante la búsqueda de referencia de máquina.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188098_359546015"/>Ajuste de referencia de máquina<text:bookmark-end text:name="__RefHeading__188098_359546015"/></text:h>
@@ -9729,7 +9731,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           ENx/AYISwn1XdppLAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing16" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">17</text:sequence>: Transferencia de funciones M, S y T usando la señal AUXEND</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing40" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">17</text:sequence>: Transferencia de funciones M, S y T usando la señal AUXEND</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco129" text:anchor-type="as-char" svg:width="16.99cm" draw:z-index="25">
@@ -9776,7 +9778,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           JG8ABCRvAAQkbwAEJG8ABCRvAAT0P6BYu/aSD3ZDAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing17" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">18</text:sequence>: Transferencia de función M sin señal AUXEND</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing41" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">18</text:sequence>: Transferencia de función M sin señal AUXEND</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188102_359546015"/>Función auxiliar M (macros generales y personalizadas)<text:bookmark-end text:name="__RefHeading__188102_359546015"/></text:h>
@@ -9882,7 +9884,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           ENx/AYISwn1XdppLAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing18" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">19</text:sequence>: Transferencia de funciones M, S y T usando la señal AUXEND</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing42" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">19</text:sequence>: Transferencia de funciones M, S y T usando la señal AUXEND</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:list xml:id="list7855720859208778209" text:style-name="L35">
@@ -9952,7 +9954,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           JG8ABCRvAAQkbwAEJG8ABCRvAAT0P6BYu/aSD3ZDAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing19" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Transferencia de función M sin señal AUXEND</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing43" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Transferencia de función M sin señal AUXEND</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:list xml:id="list7585167556235990574" text:style-name="L37">
@@ -10162,7 +10164,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           CX1CwAAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing20" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">21</text:sequence>: Conexionado de señales de emergencia</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing44" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">21</text:sequence>: Conexionado de señales de emergencia</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Existen dos formas de provocar una emergencia en el CNC, activando la entrada física <text:span text:style-name="T2">/STOP EMERGENCIA</text:span> o activando la entrada lógica general &quot;/EMERGEN&quot; desde el PLC.</text:p>
@@ -10419,7 +10421,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           n4YC5Ps/L9iZn1EMkaoAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing21" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">22</text:sequence>: Secuencia de inicio de PLC_PRG</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing45" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">22</text:sequence>: Secuencia de inicio de PLC_PRG</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Tras el encendido el CNC actúa del siguiente modo:</text:p>
@@ -10709,7 +10711,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           rkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing22" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">23</text:sequence>: Diagrama de bloque de temporizador</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing46" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">23</text:sequence>: Diagrama de bloque de temporizador</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P50" text:outline-level="4"><text:s/>Contadores</text:h>
@@ -10791,7 +10793,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           RKTQABCRQgNARAoNABEpNABE9P/hXH02LSxhEQAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing23" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">24</text:sequence>: Diagrama de bloque de contador</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing47" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">24</text:sequence>: Diagrama de bloque de contador</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__41721_1763722330">Error: no se encontró el origen de la referencia</text:bookmark-ref> <text:bookmark-ref text:reference-format="text" text:ref-name="__RefHeading__41721_1763722330">Error: no se encontró el origen de la referencia</text:bookmark-ref> se podrá encontrar más información respecto a los contadores, sus entradas, salidas, principio de funcionamiento, etc.</text:p>
@@ -11531,7 +11533,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           GNAJAAAAAABACKH/B9LzTod++EkCAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing24" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">25</text:sequence>: Diagrama de procesamiento de ciclo de programa de PLC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing48" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">25</text:sequence>: Diagrama de procesamiento de ciclo de programa de PLC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Se debe tener en cuenta que todas las acciones de programa que ejecuta el PLC alteran el estado de sus recursos. Ejemplo:</text:p>
@@ -12346,7 +12348,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           AEAO/h9GwWLUBERcbwAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing25" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">26</text:sequence>: Diagrama de procesamiento de ciclo de programa de PLC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing49" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">26</text:sequence>: Diagrama de procesamiento de ciclo de programa de PLC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">El siguiente ejemplo muestra cómo actúa el PLC trabajando con valores reales y con valores imagen.</text:p>
@@ -13003,7 +13005,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           AGAfciwAAAAA9v0/iMdetlEmbHoAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing26" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">27</text:sequence>: Estado de la memoria real e imaginaria en función de los ciclos del PLC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing50" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">27</text:sequence>: Estado de la memoria real e imaginaria en función de los ciclos del PLC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Como puede observarse, el sistema es más rápido cuando se trabaja con valores reales de los recursos. El trabajar con valores imagen permite analizar un mismo recurso a lo largo del programa con el mismo valor, independientemente del valor real que en ese momento disponga.</text:p>
@@ -13256,7 +13258,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           AHAfWSYAAADcR5YJAAAA9/0/5I6TmoUvIiQAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing27" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">28</text:sequence>: Propagación de señales físicas a valores reales e imaginarios en cada ciclo.</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing51" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">28</text:sequence>: Propagación de señales físicas a valores reales e imaginarios en cada ciclo.</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P50" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188212_359546015"/>Tiempo de ciclo<text:bookmark-end text:name="__RefHeading__188212_359546015"/></text:h>
@@ -13475,7 +13477,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           HAAAgFaI4gAAALRCFAcAAKAVojgAAACtEMUBAABo9f+31Es0uZp48QAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing28" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">29</text:sequence>: Tiempo de ciclo de PLC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing52" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">29</text:sequence>: Tiempo de ciclo de PLC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:soft-page-break/>Limitar tiempo máximo de ejecución</text:h>
@@ -13716,7 +13718,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           AAAoF+IAAAAA5fpfwNtssKret6sAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing29" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">30</text:sequence>: Tiempo de ciclo de PLC con WATCH DOG</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing53" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">30</text:sequence>: Tiempo de ciclo de PLC con WATCH DOG</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__3231_1394287903"/><text:soft-page-break/>Estructura modular de programa PLC<text:bookmark-end text:name="__RefHeading__3231_1394287903"/></text:h>
@@ -13778,7 +13780,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           YII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing30" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">31</text:sequence>: Módulos de programa del PLC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing54" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">31</text:sequence>: Módulos de programa del PLC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">El programa a ejecutar por el autómata (PLC) consiste en una serie de módulos convenientemente definidos mediante proposiciones directivas.</text:p>
@@ -13900,7 +13902,7 @@ alignl Salida = 633 mV drarrow PROGAIN ( P23 ) = 633</annotation>
           ANCOJgAA7WgCANCOJgAA7f4La4c2/jdyECsAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing31" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">32</text:sequence>: Ejecución de múltiples bloques con tiempo compartido</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing55" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">32</text:sequence>: Ejecución de múltiples bloques con tiempo compartido</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P50" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188216_359546015"/>Lenguaje de programación<text:bookmark-end text:name="__RefHeading__188216_359546015"/></text:h>
