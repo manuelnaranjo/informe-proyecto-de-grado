@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-22T20:45:18.330519534</dc:date><meta:editing-duration>P3DT18H11M41S</meta:editing-duration><meta:editing-cycles>265</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="1" meta:image-count="48" meta:object-count="1" meta:page-count="36" meta:paragraph-count="348" meta:word-count="6573" meta:character-count="39701" meta:non-whitespace-character-count="33500"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-22T21:27:39.555120076</dc:date><meta:editing-duration>P3DT18H29M12S</meta:editing-duration><meta:editing-cycles>268</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="1" meta:image-count="48" meta:object-count="1" meta:page-count="35" meta:paragraph-count="348" meta:word-count="6575" meta:character-count="39719" meta:non-whitespace-character-count="33516"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">814917</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">975148</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">847</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">19660</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22703</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14554</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10213</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">828885</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6904</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">979246</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">847</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">814917</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">975148</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">20505</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">837618</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">989700</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">2297643</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2482028</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8ARHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -1354,54 +1354,82 @@
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:paragraph-rsid="00153d10"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_6">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7"/>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10"/>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_7">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_6">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_7">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_7">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_7">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7"/>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10"/>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties officeooo:paragraph-rsid="00153d10"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_7">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_7">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_6">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
@@ -1417,6 +1445,9 @@
   </style:style>
   <style:style style:name="T5" style:family="text">
    <style:text-properties officeooo:rsid="001de882"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="002407de"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -1443,15 +1474,18 @@
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
   </style:style>
   <style:style style:name="fr9" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr10" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr11" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr12" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
-  <style:style style:name="fr12" style:family="graphic" style:parent-style-name="Formula">
+  <style:style style:name="fr13" style:family="graphic" style:parent-style-name="Formula">
    <style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" draw:ole-draw-aspect="1"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -2010,7 +2044,7 @@
     <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">26</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">32</text:page-number></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Index" style:page-layout-name="pm2">
@@ -2032,7 +2066,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
    </text:sequence-decls>
-   <text:h text:style-name="P20" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__3583_95837665"/>Introducción<text:bookmark-end text:name="__RefHeading__3583_95837665"/></text:h>
+   <text:h text:style-name="P40" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__3583_95837665"/>Introducción<text:bookmark-end text:name="__RefHeading__3583_95837665"/></text:h>
    <text:p text:style-name="Text_20_body">Como se expuso en el resumen, el proceso abarcó la diagramación y resolución del conexionado eléctrico, la configuración de la interfaz hombre máquina, la configuración de los parámetros de control y parámetros de máquina, la programación del PLC, la resolución lógica de cada uno de los subsistemas y la puesta a punto tanto de cada subsistema, como del conjunto, hasta lograr que la máquina volviese a producción. En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__213869_359546015">1.1</text:bookmark-ref> se puede observar el estado inicial de la máquina al momento de iniciar las tareas, mientras que en el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__213871_359546015">1.2</text:bookmark-ref> se muestra el estado actual de la misma luego de realizada la tarea del alumno.</text:p>
    <text:p text:style-name="Text_20_body">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__3522_95837665">1.3</text:bookmark-ref> se realiza un resumen de todas las siglas utilizadas a lo largo del presente documento, mientras que en <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__3581_95837665">1.4</text:bookmark-ref> se realizará una descripción breve de los conocimientos complementarios al tema del proyecto en sí, los cuales son fundamentales a la hora de entender las decisiones de diseño y las funcionalidades esperadas. En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__187968_359546015">1.5</text:bookmark-ref> se realizará una breve introducción a la programación de mecanizado en tornos CNC, mientras que en el <text:reference-ref text:reference-format="text" text:ref-name="apendice-a">Error: no se encontró el origen de la referencia</text:reference-ref> se hará un abordaje más profundo sobre la programación del Fagor 8035M en modo torno para el mecanizado.</text:p>
    <text:p text:style-name="Text_20_body">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="capitulo-controladora-cnc">Error: no se encontró el origen de la referencia</text:reference-ref> se realizará una introducción a la controladora Fagor 8035-M utilizada para el presente trabajo, mientras que en el <text:reference-ref text:reference-format="text" text:ref-name="apendice-b">Error: no se encontró el origen de la referencia</text:reference-ref> se deja un resumen de los parámetros y configuraciones que se utilizaron para la realización de la experiencia.</text:p>
@@ -2041,9 +2075,9 @@
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__213869_359546015"/>Estado inicial de la máquina<text:bookmark-end text:name="__RefHeading__213869_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">A continuación se muestran unas fotos que demuestran el estado inicial de la máquina.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco94" text:anchor-type="as-char" svg:y="-11.368cm" svg:width="15.245cm" svg:height="11.58cm" style:rel-height="scale-min" draw:z-index="45">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco94" text:anchor-type="as-char" svg:y="-11.368cm" svg:width="15.245cm" svg:height="11.58cm" style:rel-height="scale-min" draw:z-index="4">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen14" text:anchor-type="as-char" svg:width="15.245cm" svg:height="10.421cm" style:rel-height="scale" draw:z-index="46"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen14" text:anchor-type="as-char" svg:y="-10.633cm" svg:width="15.245cm" svg:height="10.421cm" style:rel-height="scale" draw:z-index="5"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -3279,9 +3313,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto0" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Estado inicial de la máquina – carro porta-herramientas – vista lateral</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco70" text:anchor-type="as-char" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale-min" draw:z-index="47">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco70" text:anchor-type="as-char" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale-min" draw:z-index="8">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen15" text:anchor-type="as-char" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale" draw:z-index="48"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen15" text:anchor-type="as-char" svg:y="-11.659cm" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale" draw:z-index="9"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -4803,9 +4837,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto1" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">2</text:sequence>: Estado inicial de la máquina – carro porta-herramientas – vista trasera</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco72" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale-min" draw:z-index="49">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco72" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale-min" draw:z-index="26">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen85" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale" draw:z-index="50"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen85" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale" draw:z-index="27"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -5970,9 +6004,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto2" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">3</text:sequence>: Estado inicial de la máquina - husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco5" text:anchor-type="as-char" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale-min" draw:z-index="51">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco5" text:anchor-type="as-char" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale-min" draw:z-index="28">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen84" text:anchor-type="paragraph" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale" draw:z-index="52"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen84" text:anchor-type="paragraph" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale" draw:z-index="29"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -7669,9 +7703,9 @@
     </draw:frame></text:p>
    <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__213871_359546015"/>Estado actual de la máquina<text:bookmark-end text:name="__RefHeading__213871_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Las siguientes imágenes muestran el estado actual de la máquina, incluso puede verse a la misma realizando producción del mecanizado de coronas forjadas.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco74" text:anchor-type="as-char" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale-min" draw:z-index="53">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco74" text:anchor-type="as-char" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale-min" draw:z-index="30">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen50" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale" draw:z-index="54"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen50" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale" draw:z-index="31"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -8768,9 +8802,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto4" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">5</text:sequence>: Estado actual de la máquina</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco50" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="55">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco50" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="32">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen51" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="56"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen51" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="33"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -8960,9 +8994,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto5" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">6</text:sequence>: Estado actual de la máquina - saca viruta en acción</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco93" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="57">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco93" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="34">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen52" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="58"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen52" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="35"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9121,9 +9155,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto6" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">7</text:sequence>: Estado actual de la máquina - Porta herramientas y husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco51" text:anchor-type="as-char" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale-min" draw:z-index="73">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco51" text:anchor-type="as-char" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale-min" draw:z-index="36">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen53" text:anchor-type="paragraph" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale" draw:z-index="74"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen53" text:anchor-type="paragraph" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale" draw:z-index="37"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9543,9 +9577,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187944_359546015"/>Mecanizado por arranque de viruta<text:bookmark-end text:name="__RefHeading__187944_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">En este proceso el material es arrancado o cortado con una herramienta dando lugar a un desperdicio o viruta. La herramienta consta, generalmente, de uno o varios filos o cuchillas que separan la viruta de la pieza en cada pasada.</text:p>
    <text:p text:style-name="Text_20_body">En el mecanizado por arranque de viruta se compone principalmente por dos procesos: el <text:s/>procesos de desbaste, eliminación de grandes cantidades de material con poca precisión, y el proceso de acabado, eliminación de pequeñas cantidades de material con mucha precisión, cuyo objetivo es el de dar el acabado superficial que se requiera a las distintas superficies de la pieza.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco73" text:anchor-type="as-char" svg:width="11.132cm" svg:height="7.419cm" style:rel-height="scale-min" draw:z-index="75">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco73" text:anchor-type="as-char" svg:width="11.132cm" svg:height="7.419cm" style:rel-height="scale-min" draw:z-index="39">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen54" text:anchor-type="paragraph" svg:width="11.132cm" svg:height="7.419cm" style:rel-height="scale" draw:z-index="76"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen54" text:anchor-type="paragraph" svg:width="11.132cm" svg:height="7.419cm" style:rel-height="scale" draw:z-index="40"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9870,10 +9904,10 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187946_359546015"/><text:soft-page-break/>Máquina torno<text:bookmark-end text:name="__RefHeading__187946_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Se denomina torno a un conjunto de máquinas y herramientas que permiten mecanizar por arranque de viruta piezas cuya geometría es de revolución. Estas máquinas-herramienta operan haciendo girar la pieza a mecanizar mientras una o varias herramientas de corte son empujadas en un movimiento regulado de avance contra la superficie de la pieza, cortando la viruta de acuerdo con las condiciones tecnológicas de mecanizado adecuadas.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__57456_820287960"/>Distribución de ejes<text:bookmark-end text:name="__RefHeading__57456_820287960"/></text:h>
-   <text:p text:style-name="Text_20_body">La herramienta de corte va montada sobre un carro que se desplaza sobre unas guías o rieles paralelos al eje de giro de la pieza que se tornea, llamado eje Z. Sobre este carro hay otro que se mueve según el eje X, en dirección radial a la pieza que se tornea, sobre el cual se monta la torre porta-herramientas, al eje de giro de la pieza se lo suele conocer como eje C. En el <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing2">Dibujo 2</text:sequence-ref> se observa un esquema básico de los ejes de un torno, el cilindro en el centro es la pieza a mecanizar</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco53" text:anchor-type="as-char" svg:width="8.821cm" draw:z-index="71">
+   <text:p text:style-name="Text_20_body">La herramienta de corte va montada sobre un carro que se desplaza sobre unas guías o rieles paralelos al eje de giro de la pieza que se tornea, llamado eje Z. Sobre este carro hay otro que se mueve según el eje X, en dirección radial a la pieza que se tornea, sobre el cual se monta la torre porta-herramientas, al eje de giro de la pieza se lo suele conocer como eje C. En el <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing1">Dibujo 2</text:sequence-ref> se observa un esquema básico de los ejes de un torno, el cilindro en el centro es la pieza a mecanizar</text:p>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco53" text:anchor-type="as-char" svg:width="8.821cm" draw:z-index="45">
      <draw:text-box fo:min-height="5.992cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen55" text:anchor-type="paragraph" svg:width="8.821cm" svg:height="5.992cm" style:rel-height="scale" draw:z-index="72"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen55" text:anchor-type="paragraph" svg:width="8.821cm" svg:height="5.992cm" style:rel-height="scale" draw:z-index="46"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -10122,14 +10156,14 @@
           GJWOoGCBEzAiFSoGkrWVmfqBmUZlaQDiUY9yokrWIXKKlf8AYf8AkBP/2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing1" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Esquema de torno paralelo con distribución de ejes</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing0" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Esquema de torno paralelo con distribución de ejes</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__57458_820287960"/>Ejemplos de tornos de control numérico<text:bookmark-end text:name="__RefHeading__57458_820287960"/></text:h>
    <text:p text:style-name="Text_20_body">En las siguientes imágenes se pueden apreciar distintos tipos de tornos, en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto9">Foto 10</text:sequence-ref> se puede apreciar un torno paralelo de control numérico CN , mientras que <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto10">Foto 11</text:sequence-ref> un torno de control numérico computarizado CNC. A simple vista notamos una de las tantas ventajas de un torno CNC respecto de un torno paralelo, y es el hecho de que el operario no entra en contacto directo con la pieza a trabajar, salvo por los momentos en los cuales se abre la puerta, lo cual convierte a dichas máquinas en algo más seguras que las primeras desdé el punto de vista de los accidentes.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco52" text:anchor-type="as-char" svg:y="-6.188cm" svg:width="6.512cm" svg:height="5.013cm" style:rel-height="scale-min" draw:z-index="59">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco52" text:anchor-type="as-char" svg:y="-6.188cm" svg:width="6.512cm" svg:height="5.013cm" style:rel-height="scale-min" draw:z-index="47">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen56" text:anchor-type="paragraph" svg:width="6.512cm" svg:height="5.013cm" style:rel-height="scale" draw:z-index="60"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen56" text:anchor-type="paragraph" svg:width="6.512cm" svg:height="5.013cm" style:rel-height="scale" draw:z-index="48"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -10413,9 +10447,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto9" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">10</text:sequence>: Torno CN Paralelo</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco75" text:anchor-type="as-char" svg:y="-6.174cm" svg:width="6.657cm" svg:height="4.999cm" style:rel-height="scale-min" draw:z-index="61">
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco75" text:anchor-type="as-char" svg:y="-6.174cm" svg:width="6.657cm" svg:height="4.999cm" style:rel-height="scale-min" draw:z-index="53">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen57" text:anchor-type="paragraph" svg:width="6.657cm" svg:height="4.999cm" style:rel-height="scale" draw:z-index="62"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen57" text:anchor-type="paragraph" svg:width="6.657cm" svg:height="4.999cm" style:rel-height="scale" draw:z-index="54"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQEAkACQAAD//gBSRmlsZSBzb3VyY2U6IGh0dHA6Ly9jb21tb25zLndp
           a2ltZWRpYS5vcmcvd2lraS9GaWxlOlNtYWxsX0NOQ19UdXJuaW5nX0NlbnRlci5qcGf/2wBD
           AAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSop
@@ -10589,10 +10623,10 @@
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__57460_820287960"/>Operaciones posibles<text:bookmark-end text:name="__RefHeading__57460_820287960"/></text:h>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__57462_820287960"/>Movimiento de un sólo eje<text:bookmark-end text:name="__RefHeading__57462_820287960"/></text:h>
-   <text:p text:style-name="P10">Desdé el punto de vista de los posibles movimientos que puede realizar la herramienta de corte, se puede pensar que existen dos grados de libertad: movimiento paralelo al eje de rotación, y movimiento perpendicular al mismo, en el primer caso la operación se conoce como cilindrado (<text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing2">Dibujo 2</text:sequence-ref>, <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto11">Foto 12</text:sequence-ref>), mientras que en el segundo se lo conoce como refrentad<text:span text:style-name="T5">o</text:span>.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco76" text:anchor-type="as-char" svg:width="7.724cm" svg:height="5.634cm" style:rel-height="scale-min" draw:z-index="63">
+   <text:p text:style-name="P10">Desdé el punto de vista de los posibles movimientos que puede realizar la herramienta de corte, se puede pensar que existen dos grados de libertad: movimiento paralelo al eje de rotación, y movimiento perpendicular al mismo, en el primer caso la operación se conoce como cilindrado (<text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing1">Dibujo 2</text:sequence-ref>, <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto11">Foto 12</text:sequence-ref>), mientras que en el segundo se lo conoce como refrentad<text:span text:style-name="T5">o</text:span>.</text:p>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco76" text:anchor-type="as-char" svg:width="7.724cm" svg:height="5.634cm" style:rel-height="scale-min" draw:z-index="55">
      <draw:text-box>
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen20" text:anchor-type="paragraph" svg:width="7.724cm" svg:height="5.634cm" style:rel-height="scale" draw:z-index="64"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen20" text:anchor-type="paragraph" svg:width="7.724cm" svg:height="5.634cm" style:rel-height="scale" draw:z-index="56"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wgALCADVASMBAREA/8QAHAAB
           AQEBAQADAQAAAAAAAAAAAAEGBwUDBAgC/9oACAEBAAAAAf1RyXd6ASxUpKEpKJUOK4X9AaUl
@@ -10748,11 +10782,11 @@
           JvJ3eTqbu9vJ1Oid3//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing2" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Operación de cilindrado, primer contacto punto derecho</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing1" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Operación de cilindrado, primer contacto punto derecho</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco96" text:anchor-type="as-char" svg:y="-6.819cm" svg:width="7.514cm" svg:height="6.8cm" style:rel-height="scale-min" draw:z-index="65">
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco96" text:anchor-type="as-char" svg:y="-6.819cm" svg:width="7.514cm" svg:height="6.8cm" style:rel-height="scale-min" draw:z-index="59">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen100" text:anchor-type="paragraph" svg:width="7.514cm" svg:height="5.634cm" style:rel-height="scale" draw:z-index="66"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen100" text:anchor-type="paragraph" svg:width="7.514cm" svg:height="5.634cm" style:rel-height="scale" draw:z-index="60"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -10864,10 +10898,10 @@
     </draw:frame></text:p>
    <text:p text:style-name="P9"/>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__57464_820287960"/>Movimiento combinado de ejes<text:bookmark-end text:name="__RefHeading__57464_820287960"/></text:h>
-   <text:p text:style-name="P14">Cuando ambos ejes se mueven de forma conjunta se pueden realizar otros tipos de operaciones, las cuales se suelen denominar de distintas maneras, en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing3">Dibujo 3</text:sequence-ref> y <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing4">Dibujo 4</text:sequence-ref> se pueden observar ejemplos de cilindrado y refrentado cónico. En <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto12">Foto 13</text:sequence-ref> se puede observar una pieza que fue realizada como ensayo de la máquina al momento de probar algunas funcionalidades.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco78" text:anchor-type="as-char" svg:width="7.078cm" draw:z-index="67">
+   <text:p text:style-name="P14">Cuando ambos ejes se mueven de forma conjunta se pueden realizar otros tipos de operaciones, las cuales se suelen denominar de distintas maneras, en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing2">Dibujo 3</text:sequence-ref> y <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing3">Dibujo 4</text:sequence-ref> se pueden observar ejemplos de cilindrado y refrentado cónico. En <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto12">Foto 13</text:sequence-ref> se puede observar una pieza que fue realizada como ensayo de la máquina al momento de probar algunas funcionalidades.</text:p>
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr5" draw:name="Marco78" text:anchor-type="as-char" svg:y="-6.789cm" svg:width="7.078cm" draw:z-index="61">
      <draw:text-box fo:min-height="5.627cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen86" text:anchor-type="paragraph" svg:width="7.078cm" svg:height="5.627cm" style:rel-height="scale" draw:z-index="68"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen86" text:anchor-type="paragraph" svg:width="7.078cm" svg:height="5.627cm" style:rel-height="scale" draw:z-index="62"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWQAAAEbCAIAAABiDWljAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAANBklEQVR4nO3d65KruBWAUaYq7//KJ5lywhCuGyRgS6z1I5XTcXeTNnyWBMb/+vPnzwBw
           5F9vbwDQBrEAQsQCCBELIEQsgBCxAEJWYvHXX3/9/svvrOrsn8A3rcTiP1H4BeI//zkGYqcU
@@ -10934,11 +10968,11 @@
           AABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Cilindrado cónico</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing2" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Cilindrado cónico</text:p>
      </draw:text-box>
-    </draw:frame> <draw:frame draw:style-name="fr5" draw:name="Marco79" text:anchor-type="as-char" svg:y="-6.812cm" svg:width="7.719cm" draw:z-index="69">
+    </draw:frame> <draw:frame draw:style-name="fr5" draw:name="Marco79" text:anchor-type="as-char" svg:y="-6.812cm" svg:width="7.719cm" draw:z-index="65">
      <draw:text-box fo:min-height="5.65cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen87" text:anchor-type="paragraph" svg:width="7.719cm" svg:height="5.65cm" style:rel-height="scale" draw:z-index="70"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen87" text:anchor-type="paragraph" svg:width="7.719cm" svg:height="5.65cm" style:rel-height="scale" draw:z-index="66"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAbwAAAFFCAIAAAAYT89ZAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAR8UlEQVR4nO3d65KruBWAUU5V3v+VJ8m44jDcLAG6bGmtX3N63G53Gz5LION//fXXXwsA
           af7V+gEARCKaABlEEyCDaHbhz58/n//YHGL+fN1xZ+iHaHbhk8U/f/sm8ltSoB+iCZBBNAEy
@@ -11028,12 +11062,12 @@
           ZBBNgAz/Bu4CboU3WCqEAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Refrentado cónico</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Refrentado cónico</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco54" text:anchor-type="as-char" svg:width="15.699cm" draw:z-index="77">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco54" text:anchor-type="as-char" svg:width="15.699cm" draw:z-index="67">
      <draw:text-box fo:min-height="11.765cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen102" text:anchor-type="paragraph" svg:width="15.699cm" svg:height="11.765cm" style:rel-height="scale" draw:z-index="78"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen102" text:anchor-type="paragraph" svg:width="15.699cm" svg:height="11.765cm" style:rel-height="scale" draw:z-index="68"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
           JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIo
           Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgAR
@@ -11227,10 +11261,10 @@
     </draw:frame></text:p>
    <text:p text:style-name="P11"/>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187948_359546015"/>Historia del control numérico computarizado<text:bookmark-end text:name="__RefHeading__187948_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body">El CNC tuvo su origen a principio de los años 50 en el Instituto Tecnológico de Massachusets (MIT), en donde se automatizó por primera vez una gran fresadora. En esta época, las computadoras estaban en sus inicios y eran tan grandes que el espacio ocupado por la computadora era mayor que <text:soft-page-break/>el de la máquina.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco77" text:anchor-type="as-char" svg:width="9.105cm" svg:height="5.771cm" style:rel-height="scale-min" draw:z-index="79">
+   <text:p text:style-name="Text_20_body">El CNC tuvo su origen a principio de los años 50 en el Instituto Tecnológico de Massachusets (MIT), en donde se automatizó por primera vez una gran fresadora. En esta época, las computadoras estaban en sus inicios y eran tan grandes que el espacio ocupado por la computadora era mayor que el de la máquina.</text:p>
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco77" text:anchor-type="as-char" svg:width="9.105cm" svg:height="5.771cm" style:rel-height="scale-min" draw:z-index="69">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen58" text:anchor-type="paragraph" svg:width="9.105cm" svg:height="5.771cm" style:rel-height="scale" draw:z-index="80"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen58" text:anchor-type="paragraph" svg:width="9.105cm" svg:height="5.771cm" style:rel-height="scale" draw:z-index="70"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -11492,9 +11526,9 @@
    <text:p text:style-name="Text_20_body">Hoy día las computadoras son cada vez mas pequeñas y económicas, con lo que el uso del CNC se ha extendido a todo tipo de maquinaria: Tornos, rectificadoras, electroerosionadoras, máquinas de coser, etc.</text:p>
    <text:p text:style-name="Text_20_body">CNC Significa <text:span text:style-name="T1">Control Numérico Computarizado</text:span>. En una máquina CNC, a diferencia de una máquina convencional o manual, una computadora controla la posición y velocidad de los motores que accionan los ejes de la máquina. Gracias a esto puede hacer movimientos que no se pueden lograr manualmente como círculos, lineas diagonales y figuras complejas tridimensionales.</text:p>
    <text:p text:style-name="Text_20_body">Las máquinas CNC son capaces de mover la herramienta al mismo tiempo en los 3 ejes para ejecutar trayectorias tridimensionales como las que se requieren para el maquinado de moldes y troqueles, como se muestra en la siguiente imagen.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco80" text:anchor-type="as-char" svg:width="11.906cm" svg:height="5.477cm" style:rel-height="scale-min" draw:z-index="81">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco80" text:anchor-type="as-char" svg:width="11.906cm" svg:height="5.477cm" style:rel-height="scale-min" draw:z-index="71">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen59" text:anchor-type="paragraph" svg:width="11.906cm" svg:height="5.477cm" style:rel-height="scale" draw:z-index="82"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen59" text:anchor-type="paragraph" svg:width="11.906cm" svg:height="5.477cm" style:rel-height="scale" draw:z-index="74"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -11640,8 +11674,8 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En una máquina CNC una computadora controla el movimiento de la mesa, el carro y el husillo. Una vez programada la máquina esta ejecuta todas las operaciones por sí sola, sin necesidad de que el operador esté manejándola. En el caso de una industria o un taller, esto permite aprovechar mejor el tiempo del personal para que sea mas productivo.</text:p>
-   <text:p text:style-name="Text_20_body">El término Control Numérico se debe a que las órdenes dadas a la máquina son indicadas <text:soft-page-break/>mediante códigos numéricos. En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__187968_359546015">1.5</text:bookmark-ref> se realizará una introducción a la programación de dichas órdenes a fin de facilitar la lectura del presente informe.</text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187950_359546015"/>Torno de control numérico<text:bookmark-end text:name="__RefHeading__187950_359546015"/></text:h>
+   <text:p text:style-name="Text_20_body">El término Control Numérico se debe a que las órdenes dadas a la máquina son indicadas mediante códigos numéricos. En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__187968_359546015">1.5</text:bookmark-ref> se realizará una introducción a la programación de dichas órdenes a fin de facilitar la lectura del presente informe.</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187950_359546015"/><text:soft-page-break/>Torno de control numérico<text:bookmark-end text:name="__RefHeading__187950_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">El torno de control numérico es un ejemplo de automatización programable. Se diseñó para adaptar las variaciones en la configuración de los productos. Su principal aplicación se centra en volúmenes de producción medios de piezas sencillas y en volúmenes de producción medios y bajos de piezas complejas.</text:p>
    <text:p text:style-name="Text_20_body">Uno de los ejemplos más importantes de automatización programable es el control numérico en la <text:s/>fabricación de partes metálicas. El CN permite programar la forma en que la máquina procesa las etapas de proceso mediante números, letras y otros símbolos, al conjunto de símbolos se lo denomina programa, y se suele almacenar algún medio físico como ser tarjetas perforadas, discos magnéticos o más recientemente memorias de estado sólido.</text:p>
    <text:p text:style-name="Text_20_body">Los programas tienen codificaciones apropiadas para definir instrucciones para desarrollar una tarea concreta. Cuando la tarea en cuestión cambia, se cambia el programa de instrucciones. La capacidad de cambiar el programa hace que el CN sea apropiado para volúmenes de producción bajos o medios, dado que es más fácil escribir nuevos programas que realizar cambios en los equipos de procesado.</text:p>
@@ -11652,12 +11686,12 @@
    <text:p text:style-name="Text_20_body">La velocidad de giro de la pieza a tornear, el avance de los carros longitudinal y transversal, cotas de ejecución de la pieza, herramientas a utilizar para cada operación, control de los sistemas refrigerantes, control de la recolección de desperdicios de mecanizado, contar la cantidad de piezas realizadas, y otras funcionalidades son resueltas por la computadora, reduciendo la incidencia de errores producidos por el operario de la máquina.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187954_359546015"/>Estructura de un torno CNC<text:bookmark-end text:name="__RefHeading__187954_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">En la siguiente figura se puede observar la estructura básica de un torno CNC genérico. La placa metálica protectora (1) y la puerta metálica (2) conforman un sistema de seguridad que diferencian a los tornos CNC de otros tipos de tornos no automatizados, la razón de ello es la ventaja de permitir al operador supervisar la operación sin estar en contacto directo con las partes móviles de la máquina o la pieza.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>El husillo (3) es el encargado de sostener la pieza y de hacerla girar a la velocidad definida por la operación a realizar, suele conectarse por correas a un motor de corriente alterna, y tener un contador de vueltas para poder realimentar la velocidad de operación, en algunos casos el husillo permite realizar avances lentos y posicionar la pieza en distintos ángulos para realizar distintas operaciones que no se corresponden en la simetría de revolución. El torno en particular utilizado en el proyecto no cuenta con está última funcionalidad con lo cuál no se va a realizar más que mencionarla.</text:p>
+   <text:p text:style-name="Text_20_body">El husillo (3) es el encargado de sostener la pieza y de hacerla girar a la velocidad definida por la operación a realizar, suele conectarse por correas a un motor de corriente alterna, y tener un contador de vueltas para poder realimentar la velocidad de operación, en algunos casos el husillo <text:soft-page-break/>permite realizar avances lentos y posicionar la pieza en distintos ángulos para realizar distintas operaciones que no se corresponden en la simetría de revolución. El torno en particular utilizado en el proyecto no cuenta con está última funcionalidad con lo cuál no se va a realizar más que mencionarla.</text:p>
    <text:p text:style-name="Text_20_body">Para permitir realizar distintos tipos de operaciones y reducir el tiempo parado en los procesos los tornos CNC suelen contar con una torre porta herramientas (4) la cuál permite tener a disposición del proceso todas las herramientas a utilizar, sin que el operario requiera interceder.</text:p>
    <text:p text:style-name="Text_20_body">Por último encontramos la controladora CNC (5), el cual es una parte fundamental en las máquinas CNC, ya que permite distintas operaciones como ser control del proceso, interpretación del código de operación, control de los estados de la máquina, control de movimiento, etc.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco57" text:anchor-type="as-char" svg:width="16.503cm" draw:z-index="83">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco57" text:anchor-type="as-char" svg:width="16.503cm" draw:z-index="14">
      <draw:text-box fo:min-height="11.019cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen60" text:anchor-type="paragraph" svg:width="16.503cm" svg:height="11.019cm" style:rel-height="scale" draw:z-index="84"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen60" text:anchor-type="paragraph" svg:width="16.503cm" svg:height="11.019cm" style:rel-height="scale" draw:z-index="15"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -11976,14 +12010,14 @@
           YCMscoZellBodIdI9MAWcOkOkWiYlZwzXTC0f1ZwKaIwdICLQK6R6QaGcM4//9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Estructura básica de un torno CNC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Estructura básica de un torno CNC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En las próximas secciones se van a detallar con más profundidad las distintas partes de una máquina CNC en general, como así también los distintos sistemas que existen en el torno CNC utilizado en el proyecto en cuestión.</text:p>
-   <text:h text:style-name="P37" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187956_359546015"/><text:soft-page-break/>Controladora de Control Numérico Computarizado – CNC<text:bookmark-end text:name="__RefHeading__187956_359546015"/></text:h>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco58" text:anchor-type="as-char" svg:width="15.169cm" draw:z-index="85">
+   <text:h text:style-name="P21" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187956_359546015"/><text:soft-page-break/>Controladora de Control Numérico Computarizado – CNC<text:bookmark-end text:name="__RefHeading__187956_359546015"/></text:h>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco58" text:anchor-type="as-char" svg:width="15.169cm" draw:z-index="20">
      <draw:text-box fo:min-height="10.915cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen61" text:anchor-type="paragraph" svg:width="15.169cm" svg:height="10.915cm" style:rel-height="scale" draw:z-index="86"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen61" text:anchor-type="paragraph" svg:width="15.169cm" svg:height="10.915cm" style:rel-height="scale" draw:z-index="21"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -12460,40 +12494,40 @@
           2YYjh4g0IBsf/Jf/2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Resumen funciones de controladora CNC – Fagor 8055</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Resumen funciones de controladora CNC – Fagor 8055</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Como se menciono anteriormente la controladora CNC es una parte fundamental de las máquinas CNC, una controladora CNC podría pensarse como un caso particular de un PLC de aplicación especifica, entre sus funciones principales se encuentran:</text:p>
-   <text:list xml:id="list501669752557319778" text:style-name="L1">
+   <text:list xml:id="list934201661648604102" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P24">Control y supervisión de movimientos de alta precisión, coordinando las acciones simultaneas en casos que sean necesarios.</text:p>
+     <text:p text:style-name="P28">Control y supervisión de movimientos de alta precisión, coordinando las acciones simultaneas en casos que sean necesarios.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Control y supervisión de herramienta para operación actual.</text:p>
+     <text:p text:style-name="P28">Control y supervisión de herramienta para operación actual.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Interpretación, supervisión y edición de los programa de pieza a ejecutar.</text:p>
+     <text:p text:style-name="P28">Interpretación, supervisión y edición de los programa de pieza a ejecutar.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Supervisión de tiempos para garantizar el tiempo real necesario para la operación.</text:p>
+     <text:p text:style-name="P28">Supervisión de tiempos para garantizar el tiempo real necesario para la operación.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Interfaz hombre máquina.</text:p>
+     <text:p text:style-name="P28">Interfaz hombre máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Conectividad con periféricos.</text:p>
+     <text:p text:style-name="P28">Conectividad con periféricos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Integración entre distintos sistemas como por ejemplo drivers de motores.</text:p>
+     <text:p text:style-name="P28">Integración entre distintos sistemas como por ejemplo drivers de motores.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Conectividad de comunicaciones digitales y analógicas.</text:p>
+     <text:p text:style-name="P28">Conectividad de comunicaciones digitales y analógicas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Simulación de programas.</text:p>
+     <text:p text:style-name="P28">Simulación de programas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Calibración de herramientas.</text:p>
+     <text:p text:style-name="P28">Calibración de herramientas.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="capitulo-controladora-cnc">Error: no se encontró el origen de la referencia</text:bookmark-ref> se describirá el caso particular de la controladora Fagor 8035-M en mayor detalle.</text:p>
@@ -12502,14 +12536,14 @@
    <text:p text:style-name="Text_20_body">Dicho PLC suele dedicarse a tareas de supervisión y control de movimientos sencillos, como ser conexionado de pulsadores y contactores, control de solenoides y actuadores tanto hidráulicos como neumáticos, etc.</text:p>
    <text:p text:style-name="Text_20_body">Generalmente las controladoras CNC implementan el PLC como un sistema de tiempo compartido (time share), al cual para garantizar las restricciones de tiempo debidas al tiempo real se suele especificar el tiempo máximo por ciclo de procesamiento que el PLC puede tomar el control del sistema, por ejemplo en el caso particular del Fagor 8035-M los ciclos del PLC pueden durar hasta 3ms y puede ejecutar hasta 1000 instrucciones por ciclo.</text:p>
    <text:p text:style-name="Text_20_body">Las controladoras CNC suelen contar con canales bidireccionales de comunicación entre el PLC <text:s/>integrado y la controladora propiamente dicha, lo cual permite no sólo que la controladora notifique de ciertos eventos o estados al PLC, sino que también esté último pueda tomar el control de distintos sistemas dedicados de la controladora, como por ejemplo programar movimientos controlados, informar al usuario de ciertos errores por la pantalla, etc.</text:p>
-   <text:p text:style-name="Text_20_body">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="plc-integrado">Error: no se encontró el origen de la referencia</text:bookmark-ref> se van analizaran las características principales del PLC integrado en la controladora Fagor 8035-M utilizada en el proyecto, lenguaje de programación, sistema de depuración, etc. se encuentra disponible con más detalle en el <text:bookmark-ref text:reference-format="number" text:ref-name="__RefHeading__195567_359546015">Error: no se encontró el origen de la referencia</text:bookmark-ref>.</text:p>
+   <text:p text:style-name="Text_20_body">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="plc-integrado">Error: no se encontró el origen de la referencia</text:bookmark-ref> se van analizaran las características principales del PLC integrado en la controladora Fagor 8035-M utilizada en el proyecto, lenguaje de programación, sistema de depuración, etc. <text:span text:style-name="T6">Dicha información s</text:span>e encuentra disponible con más detalle en el <text:reference-ref text:reference-format="text" text:ref-name="apendice-b">Error: no se encontró el origen de la referencia</text:reference-ref>.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__35133_269409862"/>Husillo<text:bookmark-end text:name="__RefHeading__35133_269409862"/></text:h>
    <text:p text:style-name="Text_20_body">Como se menciono anteriormente, el husillo es la parte encargada de sujetar la pieza y hacerla girar. Se compone de un motor, generalmente eléctrico de corriente alterna trifásico, al cual se le regula la velocidad de giro por control de frecuencia, a su vez la velocidad suele ser medida con encoders solidarios al eje de giro, los cuales permiten medir la cantidad de vueltas por unidad de tiempo realizadas por el husillo.</text:p>
    <text:p text:style-name="Text_20_body">Los motores utilizados para impulsar el husillo generalmente son eléctricos trifásicos, y suelen ser motores mucho más grande que todos los otros que se encuentran en la máquina, al punto de ser el motor cuya potencia nominal define la potencia de la máquina. A mayor potencia disponible en el motor del husillo mayor será la fuerza de arrastre de esté y mayor será el tamaño máximo de pieza a mecanizar. El control de frecuencia suele hacerse con inversores trifásicos con frecuencia de salida controlable a los cuales se denomina <text:span text:style-name="T2">driver</text:span>.</text:p>
    <text:p text:style-name="Text_20_body">El plato del husillo suele tener unas piezas metálicas denominadas mordazas, las cuales se pueden modificar en función del material a mecanizar y el objetivo deseado. Dichas mordazas luego de modificadas permiten agarrar la pieza tanto por el diámetro exterior como así también el diámetro interior. Permitiendo trabajar las piezas tanto por fuera como por el interior. A su vez las mordazas son móviles, comandadas por solenoides de paso, utilizando la fuerza de una bomba hidráulica para lograr el agarre requerido. Es responsabilidad del conjunto controladora CNC / PLC garantizar que no se permite cambiar el estado de las mordazas cuándo la pieza se encuentra rotando.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco59" text:anchor-type="as-char" svg:width="13.381cm" draw:z-index="87">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco59" text:anchor-type="as-char" svg:width="13.381cm" draw:z-index="75">
      <draw:text-box fo:min-height="11.934cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen62" text:anchor-type="as-char" svg:width="13.381cm" svg:height="11.934cm" style:rel-height="scale" draw:z-index="88"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen62" text:anchor-type="as-char" svg:width="13.381cm" svg:height="11.934cm" style:rel-height="scale" draw:z-index="76"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -12769,12 +12803,12 @@
           5Uheg5rjzg2bTmnD0qAqkLMcvvS70GCMCIg2tagpZZBEtGYnFAgEoBSORtrBP/1n/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Esquema de husillo</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Esquema de husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco56" text:anchor-type="as-char" svg:width="9.546cm" draw:z-index="89">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco56" text:anchor-type="as-char" svg:width="9.546cm" draw:z-index="77">
      <draw:text-box fo:min-height="9.29cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen104" text:anchor-type="paragraph" svg:width="9.546cm" svg:height="9.29cm" style:rel-height="scale" draw:z-index="90"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen104" text:anchor-type="paragraph" svg:width="9.546cm" svg:height="9.29cm" style:rel-height="scale" draw:z-index="78"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -13353,9 +13387,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto15" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">16</text:sequence>: Husillo del proyecto sosteniendo una pieza</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco60" text:anchor-type="as-char" svg:width="14.217cm" draw:z-index="91">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco60" text:anchor-type="as-char" svg:width="14.217cm" draw:z-index="79">
      <draw:text-box fo:min-height="3.339cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen63" text:anchor-type="paragraph" svg:width="14.217cm" svg:height="3.339cm" style:rel-height="scale" draw:z-index="92"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen63" text:anchor-type="paragraph" svg:width="14.217cm" svg:height="3.339cm" style:rel-height="scale" draw:z-index="82"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -13514,12 +13548,12 @@
           ID/5Gf8AIn0n/A//2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing8" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Esquema de plato con mordaza universal</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Esquema de plato con mordaza universal</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco61" text:anchor-type="as-char" svg:width="11.402cm" draw:z-index="93">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco61" text:anchor-type="as-char" svg:width="11.402cm" draw:z-index="83">
      <draw:text-box fo:min-height="8.378cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen64" text:anchor-type="paragraph" svg:width="11.402cm" svg:height="8.378cm" style:rel-height="scale" draw:z-index="94"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen64" text:anchor-type="paragraph" svg:width="11.402cm" svg:height="8.378cm" style:rel-height="scale" draw:z-index="84"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZAAAAEfCAYAAABvWZDBAAAABmJLR0QA/wD/AP+gvaeTAAAA
           CXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH3gsGDTkBxwCXTQAAABl0RVh0Q29tbWVudABD
           cmVhdGVkIHdpdGggR0lNUFeBDhcAAAmJSURBVHja7d3bdqNGEEBRw9L//zJ5yGii5UiIS1+q
@@ -13571,12 +13605,12 @@
           gg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">9</text:sequence>: Esquema acople motor - husillo por correas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing8" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">9</text:sequence>: Esquema acople motor - husillo por correas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr7" draw:name="Marco97" text:anchor-type="as-char" svg:width="7.844cm" draw:z-index="95">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr7" draw:name="Marco97" text:anchor-type="as-char" svg:width="7.844cm" draw:z-index="85">
      <draw:text-box fo:min-height="8.322cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen103" text:anchor-type="paragraph" svg:width="7.844cm" svg:height="8.322cm" style:rel-height="scale" draw:z-index="96"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen103" text:anchor-type="paragraph" svg:width="7.844cm" svg:height="8.322cm" style:rel-height="scale" draw:z-index="88"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -14017,15 +14051,15 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto16" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">17</text:sequence>: Acople entre husillo y motor con encoder acoplado por correa</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>El acoplamiento entre el motor y el husillo suele ser a cadenas o a correas y en algunos casos suele incluso haber disponible una caja reductora la cual permite distintas relaciones de velocidad entre el husillo y el motor. En el caso particular de la máquina utilizada en el proyecto el acople es de correas con refuerzo metálico sin caja reductora con lo cual se asume que la relación de velocidades entre el husillo y el motor es la unidad, o lo que es lo mismo que la velocidad de ambos dispositivos es la misma, con el encoder acoplado al eje del husillo. En la siguiente figura se puede observar un esquema de acoplamiento motor – husillo.</text:p>
+   <text:p text:style-name="Text_20_body">El acoplamiento entre el motor y el husillo suele ser a cadenas o a correas y en algunos casos <text:soft-page-break/>suele incluso haber disponible una caja reductora la cual permite distintas relaciones de velocidad entre el husillo y el motor. En el caso particular de la máquina utilizada en el proyecto el acople es de correas con refuerzo metálico sin caja reductora con lo cual se asume que la relación de velocidades entre el husillo y el motor es la unidad, o lo que es lo mismo que la velocidad de ambos dispositivos es la misma, con el encoder acoplado al eje del husillo. En la siguiente figura se puede observar un esquema de acoplamiento motor – husillo.</text:p>
    <text:p text:style-name="Text_20_body">La elección del plato del husillo junto al motor y la posible caja reductora definen características constructivas de la máquina, en particular <text:span text:style-name="T2">diámetro máximo</text:span> de material a mecanizar, y <text:span text:style-name="T2">velocidad máxima</text:span> de trabajo, <text:span text:style-name="T2">largo máximo</text:span> de material y <text:span text:style-name="T2">peso máximo</text:span> del mismo. Dicho largo máximo puede ser extendido con el uso de una contrapunta, lo cuál será explicado en capítulos posteriores.</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187960_359546015"/>Bancada y carro desplazable<text:bookmark-end text:name="__RefHeading__187960_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Se entiende por bancada de la máquina a las guías y al soporte mecánico sobre la cual luego se mueve la torre con el portaherramientas. Dichas guías son construidas con un material duro con exigentes tolerancias ya que son las encargadas de que la torre se mueva paralela al eje de giro de la pieza, también conocido como eje Z. Dado que se requiere un movimiento preciso de dicho eje, en la máquina en cuestión se persiguen precisiones de 0.01mm, se acopla a un motor eléctrico, denominado en la jerga servo, un tornillo sin fin de precisión, el cual tiene un paso constante y preciso. En este caso en particular se utilizó un tornillo de paso 6mm+-0.0001mm.</text:p>
    <text:p text:style-name="Text_20_body">Este último motor eléctrico nombrado se controla vía un inversor trifásico, comúnmente conocido como driver, el cual recibe señales analógicas del sistema de control, y modula su frecuencia de salida de salida a fin de lograr una conversión tensión velocidad precisa. Al eje del motor se acopla un encoder de precisión, 16 bits+bit de signo en el caso particular de esta máquina, lo cual equivale a un paso de 0.0055 grados. Sumado a esto la precisión del tornillo se logra una precisión máxima de 9.15e-05mm, la cual es muy superior a la requerida, por lo cual en el driver se reduce la resolución a valores más manejables antes de ser entregada al CNC.</text:p>
    <text:p text:style-name="Text_20_body">En la siguiente imagen se pueden apreciar tornillos similares a los utilizados en el torno en cuestión. El mismo se compone de dos partes: el tornillo propiamente dicho y una tuerca auto lubricada por la cual se mueven municiones de precisión. La tuerca esta diseñada de tal forma que las municiones recirculen y se lubriquen a través de unos dosificadores.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco98" text:anchor-type="as-char" svg:width="12.979cm" svg:height="7.518cm" style:rel-height="scale-min" draw:z-index="36">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco98" text:anchor-type="as-char" svg:width="12.979cm" svg:height="7.518cm" style:rel-height="scale-min" draw:z-index="89">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen65" text:anchor-type="paragraph" svg:x="0.968cm" svg:y="0cm" svg:width="11.044cm" svg:height="6.856cm" style:rel-height="scale" draw:z-index="37"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr12" draw:name="Imagen65" text:anchor-type="paragraph" svg:x="0.968cm" svg:y="0cm" svg:width="11.044cm" svg:height="6.856cm" style:rel-height="scale" draw:z-index="90"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQY
           GBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYa
           KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAAR
@@ -14322,9 +14356,9 @@
    <text:p text:style-name="Text_20_body">Las características constructivas del eje X son similares a las del eje Z, salvo que este último suele tener mucho más recorrido que el primero. En la máquina del proyecto en particular el recorrido del eje Z es cercano a los 450 mm mientras que el del X a los 110 mm.</text:p>
    <text:p text:style-name="Text_20_body">Otra diferencia constructiva entre un eje y otro en el caso particular de esta máquina es que el tornillo del eje X es de un paso de 5+-0.001mm. Dicha diferencia se debe a que el tornillo fue cambiado previo al comienzo del proyecto, y no se encontraba en mercado uno de paso similar.</text:p>
    <text:p text:style-name="Text_20_body">En <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto2">Foto 3</text:sequence-ref> y <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto1">Foto 2</text:sequence-ref> se pueden apreciar la bancada y el carro desplazable previo a la colocación del plato porta herramientas, al momento de comenzar el desarrollo de la experiencia. En la siguiente foto se puede observar el carro desplazarse sobre la bancada traccionado por el motor de la izquierda (eje Z), mientras que el motor impulsor al eje X se encuentra oculto tras el resorte superior, se llega a ver la punta inferior del tornillo del eje X abajo a la derecha.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr7" draw:name="Marco62" text:anchor-type="as-char" svg:width="15.496cm" draw:z-index="34">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr7" draw:name="Marco62" text:anchor-type="as-char" svg:width="15.496cm" draw:z-index="91">
      <draw:text-box fo:min-height="13.894cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen105" text:anchor-type="paragraph" svg:width="15.496cm" svg:height="13.894cm" style:rel-height="scale" draw:z-index="35"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen105" text:anchor-type="paragraph" svg:width="15.496cm" svg:height="13.894cm" style:rel-height="scale" draw:z-index="94"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -14999,9 +15033,9 @@
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187962_359546015"/><text:soft-page-break/>Plato porta herramientas<text:bookmark-end text:name="__RefHeading__187962_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Una de las características destacadas de una máquina CNC respecto de una máquina sin control numérico es la posibilidad de intercambiar herramientas sin la intervención del operario. Para ello los tornos CNC suelen contar con un plato porta herramientas tipo revolver como el de la siguiente figura. Dichos vienen de distintos tamaños algunos pequeños de unas 6 herramientas, llegando en algunos casos a más de 40, en particular la máquina del proyecto contaba con 10.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco99" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale-min" draw:z-index="32">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco99" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale-min" draw:z-index="95">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen66" text:anchor-type="paragraph" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale" draw:z-index="33"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen66" text:anchor-type="paragraph" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale" draw:z-index="96"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -15104,9 +15138,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto19" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">20</text:sequence>: Intercambiador de herramientas tipo revolver</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco63" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="3.956cm" draw:z-index="30">
+    </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco63" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="3.956cm" draw:z-index="92">
      <draw:text-box fo:min-height="5.935cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen106" text:anchor-type="paragraph" svg:width="3.956cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="31"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen106" text:anchor-type="paragraph" svg:width="3.956cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="93"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -15194,9 +15228,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto20" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">21</text:sequence>: Plato porta herramientas 1</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco100" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.145cm" draw:z-index="28">
+    </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco100" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.145cm" draw:z-index="86">
      <draw:text-box fo:min-height="5.935cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen107" text:anchor-type="paragraph" svg:width="5.145cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="29"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen107" text:anchor-type="paragraph" svg:width="5.145cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="87"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -15314,9 +15348,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Se denominan cambiadores de herramientas tipo revolver porque su principio de funcionamiento recuerda al de un revolver, sobre un plato se disponen simétricamente, similar a las balas de un revolver, porta herramientas fijos sobre los cuales luego se disponen las herramientas a utilizar.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco64" text:anchor-type="as-char" svg:width="10.458cm" draw:z-index="26">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco64" text:anchor-type="as-char" svg:width="10.458cm" draw:z-index="80">
      <draw:text-box fo:min-height="8.073cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen67" text:anchor-type="paragraph" svg:width="10.458cm" svg:height="8.073cm" style:rel-height="scale" draw:z-index="27"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen67" text:anchor-type="paragraph" svg:width="10.458cm" svg:height="8.073cm" style:rel-height="scale" draw:z-index="81"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -15615,12 +15649,12 @@
           nMdR4jPE8Q/BzDmcR3CcxjPEJzOScTgnmc/ghOYT/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Vista en perspectiva de cambiador de herramientas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Vista en perspectiva de cambiador de herramientas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco81" text:anchor-type="as-char" svg:width="10.573cm" draw:z-index="24">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco81" text:anchor-type="as-char" svg:width="10.573cm" draw:z-index="72">
      <draw:text-box fo:min-height="8.162cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen68" text:anchor-type="paragraph" svg:width="10.573cm" svg:height="8.162cm" style:rel-height="scale" draw:z-index="25"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen68" text:anchor-type="paragraph" svg:width="10.573cm" svg:height="8.162cm" style:rel-height="scale" draw:z-index="73"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -16036,19 +16070,19 @@
           xeiNdIh05iF65hdI4yRDqLuLPoRXBjjKxnhiPRMLxBcQIBeoBepjGCY6EATRP//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Vista superior de cambiador de herramientas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Vista superior de cambiador de herramientas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body">En las figuras anteriores se observa un corte de un intercambiador de herramientas muy similar al utilizado en el proyecto, con la salvedad de la ubicación del motor de tracción, el sistema se compone del plato propiamente dicho, una caja reductora, una motor de tracción, actuadores neumáticos y cuñas de sujeción de precisión dispuestas entre el plato y la caja del cambiador.</text:p>
    <text:p text:style-name="Text_20_body">El plato realiza movimientos de rotación, gracias al motor acoplado vía caja reductora, como de traslación paralelo caja del cambiador, gracias al actuador neumático el cual permite acoplar y desacoplar el plato.</text:p>
    <text:p text:style-name="Text_20_body">En la sección <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__188334_359546015">Error: no se encontró el origen de la referencia</text:bookmark-ref> <text:span text:style-name="T4">se explicará en detalle el proceso de cambio de herramientas tal cuál fue implementado.</text:span></text:p>
-   <text:h text:style-name="P36" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187966_359546015"/>Contra punta<text:bookmark-end text:name="__RefHeading__187966_359546015"/></text:h>
+   <text:h text:style-name="P25" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__187966_359546015"/>Contra punta<text:bookmark-end text:name="__RefHeading__187966_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Como se mencionó en la capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__35133_269409862">1.4.3.3</text:bookmark-ref> que el largo máximo de la pieza a tornear se encuentra limitado por características constructivas. Básicamente si el peso de la pieza es muy grande entonces el brazo de palanca producido por éste hace que la pieza oscile mientras gira, reduciendo la precisión, pudiendo llegar incluso a ser un riesgo de seguridad si la pieza se soltase.</text:p>
    <text:p text:style-name="Text_20_body">Para evitar dicho inconveniente se suele dotar a los tornos de un segundo punto de apoyo móvil llamado contra punta. Llegando incluso en algunas máquinas grandes dicha contra punta a ser motorizada, permitiendo realizar operaciones simultaneas en la pieza, pero no es el caso de está máquina en particular.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco101" text:anchor-type="as-char" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale-min" draw:z-index="22">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco101" text:anchor-type="as-char" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale-min" draw:z-index="63">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen69" text:anchor-type="paragraph" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale" draw:z-index="23"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen69" text:anchor-type="paragraph" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale" draw:z-index="64"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -16242,9 +16276,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto22" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">23</text:sequence>: Contrapunta en acción</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco65" text:anchor-type="as-char" svg:width="10.296cm" draw:z-index="20">
+    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco65" text:anchor-type="as-char" svg:width="10.296cm" draw:z-index="57">
      <draw:text-box fo:min-height="8.299cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen108" text:anchor-type="paragraph" svg:width="10.296cm" svg:height="8.299cm" style:rel-height="scale" draw:z-index="21"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen108" text:anchor-type="paragraph" svg:width="10.296cm" svg:height="8.299cm" style:rel-height="scale" draw:z-index="58"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -16459,9 +16493,9 @@
     </draw:frame></text:p>
    <text:p text:style-name="P11"/>
    <text:p text:style-name="P13">La contra punta se mueve sobre unas guías de precisión paralelas al eje Z y cuenta con un cono de precisión estandarizado, al cual se pueden acoplar dispositivos con formas similares a la pieza que se quiere lograr de forma de mejorar la superficie de contacto. Dicha contra punta se mueve gracias a un actuador hidráulico de dos direcciones.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco102" text:anchor-type="as-char" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale-min" draw:z-index="18">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco102" text:anchor-type="as-char" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale-min" draw:z-index="51">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen70" text:anchor-type="paragraph" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale" draw:z-index="19"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen70" text:anchor-type="paragraph" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale" draw:z-index="52"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -16586,9 +16620,9 @@
    <text:p text:style-name="bloque_20_de_20_código">G01 X0.<text:tab/><text:tab/>; posiciona linealmente a 10mm dirección X negativa</text:p>
    <text:p text:style-name="bloque_20_de_20_código">G01 Y0.<text:tab/><text:tab/>; posiciona linealmente a 10mm dirección Y negativa</text:p>
    <text:p text:style-name="P15">Y el resultado obtenido podría ser:</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco82" text:anchor-type="as-char" svg:width="10.485cm" svg:height="9.086cm" style:rel-height="scale-min" draw:z-index="16">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco82" text:anchor-type="as-char" svg:width="10.485cm" svg:height="9.086cm" style:rel-height="scale-min" draw:z-index="43">
      <draw:text-box>
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen79" text:anchor-type="paragraph" svg:width="10.485cm" svg:height="9.086cm" style:rel-height="scale" draw:z-index="17"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen79" text:anchor-type="paragraph" svg:width="10.485cm" svg:height="9.086cm" style:rel-height="scale" draw:z-index="44"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -16926,7 +16960,7 @@
           /MErbLOrF8y97gmcsHzFxzL8wS9sE7xfMHW5Ze2X5inVl+YpZuXvcU7y8cy/M//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing12" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Ejemplo trayectoria simple</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Ejemplo trayectoria simple</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P16">El código presentado si bien sencillo, permite ver la estructura básica de un programa. En la programación CNC cada linea de código representa un bloque, dicho bloque es una unidad atómica de instrucciones, las cuales se van a implementar paralelamente hasta completar el bloque, para luego continuar ejecutando el siguiente bloque.</text:p>
@@ -16939,55 +16973,55 @@
    <text:p text:style-name="Text_20_body">La cabecera de un bloque, que es opcional, podrá estar formada por una o varias condiciones de salto de bloque y por la etiqueta o número de bloque. Ambas deben programarse en este orden.</text:p>
    <text:p text:style-name="Text_20_body">Una condición de salto, como su nombre lo indica, es una forma que permite ejecutar un bloque de código de forma condicionada, según algún estado de la máquina el CNC procederá a ejecutar el bloque cuya cabecera tiene la condición de salto, o continuará con el inmediatamente posterior.</text:p>
    <text:p text:style-name="Text_20_body">Una etiqueta o bloque se compone de la letra <text:span text:style-name="T2">N</text:span><text:span text:style-name="T3"> seguida de un número de 1 o más cifras, la cual identifica el bloque, utilizándose únicamente cuando se realizan referencias o saltos a bloques.</text:span></text:p>
-   <text:h text:style-name="P22" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16832_552402399"/>Bloque de programa<text:bookmark-end text:name="__RefHeading__16832_552402399"/></text:h>
+   <text:h text:style-name="P23" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16832_552402399"/>Bloque de programa<text:bookmark-end text:name="__RefHeading__16832_552402399"/></text:h>
    <text:p text:style-name="P12">Estará escrito con comandos en lenguaje ISO o con comandos en lenguaje de alto nivel. Para la elaboración de un programa se utilizarán bloques escritos en uno y otro lenguaje, debiendo estar cada bloque redactado con comandos de un único lenguaje.</text:p>
-   <text:h text:style-name="P21" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16834_552402399"/>Lenguaje ISO<text:bookmark-end text:name="__RefHeading__16834_552402399"/></text:h>
+   <text:h text:style-name="P22" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16834_552402399"/>Lenguaje ISO<text:bookmark-end text:name="__RefHeading__16834_552402399"/></text:h>
    <text:p text:style-name="P12">Está especialmente diseñado para controlar el movimiento de los ejes, ya que proporciona información y condiciones de desplazamiento e indicaciones sobre el avance. Dispone de los siguientes tipos de funciones:</text:p>
-   <text:list xml:id="list2612007431172865595" text:style-name="L2">
+   <text:list xml:id="list775817936074901410" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P25">Funciones preparatorias de movimientos, que sirven para determinar la geometría y condiciones de trabajo, como interpolaciones lineales, circulares, roscados, etc.</text:p>
+     <text:p text:style-name="P29">Funciones preparatorias de movimientos, que sirven para determinar la geometría y condiciones de trabajo, como interpolaciones lineales, circulares, roscados, etc.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Funciones de control de avances de los ejes y de velocidades del cabezal.</text:p>
+     <text:p text:style-name="P29">Funciones de control de avances de los ejes y de velocidades del cabezal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Funciones de control de herramientas.</text:p>
+     <text:p text:style-name="P29">Funciones de control de herramientas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Funciones complementarias, que contienen indicaciones tecnológicas.</text:p>
+     <text:p text:style-name="P29">Funciones complementarias, que contienen indicaciones tecnológicas.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P21" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16836_552402399"/>Lenguaje alto nivel<text:bookmark-end text:name="__RefHeading__16836_552402399"/></text:h>
+   <text:h text:style-name="P22" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16836_552402399"/>Lenguaje alto nivel<text:bookmark-end text:name="__RefHeading__16836_552402399"/></text:h>
    <text:p text:style-name="P12">Permite acceder a variables de propósito general, así como a tablas y variables del sistema. Proporciona al usuario un conjunto de sentencias de control que se asemejan a la terminología utilizada por otros lenguajes, como son <text:span text:style-name="código">IF</text:span>, <text:span text:style-name="código">GOTO</text:span>, <text:span text:style-name="código">CALL</text:span>, etc. Así mismo, permite utilizar cualquier tipo de expresión, aritmética, relacional o lógica.</text:p>
    <text:p text:style-name="P12">También dispone de instrucciones para la construcción de bucles, así como de subrutinas con variables locales. Se entiende por variable local aquella variable que sólo es conocida por la subrutina en la que ha sido definida.</text:p>
    <text:p text:style-name="P12">Además permite crear librerías, agrupando subrutinas, con funciones útiles y ya probadas pudiendo ser éstas accedidas desde cualquier programa.</text:p>
-   <text:h text:style-name="P23" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16838_552402399"/>Final de bloque<text:bookmark-end text:name="__RefHeading__16838_552402399"/></text:h>
+   <text:h text:style-name="P24" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16838_552402399"/>Final de bloque<text:bookmark-end text:name="__RefHeading__16838_552402399"/></text:h>
    <text:p text:style-name="P12">El final de un bloque, es opcional, y podrá estar formado por el indicativo de número de repeticiones del bloque y por el comentario del bloque. Debiendo programarse ambas en este orden.</text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">El número de repeticiones se representa con la letra </text:span><text:span text:style-name="T2">N</text:span><text:span text:style-name="T3"> seguida de un número de hasta 4 cifras el cuál indica la cantidad de veces que dicho bloque ha de repetirse, si se programa </text:span><text:span text:style-name="T2">N0</text:span><text:span text:style-name="T3"> sólo se realizará el desplazamiento pero no se tendrá en cuenta el mecanizado.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Se permite agregar comentarios al final de cada bloque, dichos comentarios pueden contener </text:span><text:soft-page-break/><text:span text:style-name="T3">cualquier tipo de información, se identifican poniendo un </text:span><text:span text:style-name="T2">;</text:span><text:span text:style-name="T3"> luego del código y previo al comentario.</text:span></text:p>
    <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading__16840_552402399"/>Programación de bloques con código ISO<text:bookmark-end text:name="__RefHeading__16840_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Un bloque programado en lenguaje ISO puede estar compuesto por:</text:p>
-   <text:list xml:id="list1213370369460520596" text:style-name="L3">
+   <text:list xml:id="list1597351784342272284" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P29">Funciones preparatorias (G)</text:p>
+     <text:p text:style-name="P33">Funciones preparatorias (G)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Cotas de los ejes (X..C)</text:p>
+     <text:p text:style-name="P33">Cotas de los ejes (X..C)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Velocidad de avance (F)</text:p>
+     <text:p text:style-name="P33">Velocidad de avance (F)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Velocidad del cabezal (S)</text:p>
+     <text:p text:style-name="P33">Velocidad del cabezal (S)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Número de herramienta (T)</text:p>
+     <text:p text:style-name="P33">Número de herramienta (T)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Número de corrector (D)</text:p>
+     <text:p text:style-name="P33">Número de corrector (D)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">Funciones auxiliares (M)</text:p>
+     <text:p text:style-name="P33">Funciones auxiliares (M)</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Dentro de cada bloque hay que mantener este orden, aunque no es necesario que cada bloque contenga todas las informaciones.</text:p>
@@ -16997,60 +17031,60 @@
    <text:p text:style-name="Text_20_body">Las funciones preparatorias son en su mayoría modales una vez activadas se mantienen activas hasta que alguna que sea incompatible tome su lugar. Por ejemplo G02 y G01 son incompatibles, una vez encontrada G02 dicho bloque y todos los consecutivos se van a ejecutar en G02 hasta que se encuentre G00, G01, G03, etc.</text:p>
    <text:h text:style-name="Heading_20_7" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16844_552402399"/>Algunas funciones preparatorias<text:bookmark-end text:name="__RefHeading__16844_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Entre las funciones preparatorias principales se encuentran:</text:p>
-   <text:list xml:id="list1725458619818168591" text:style-name="L4">
+   <text:list xml:id="list5495862306875143228" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P30">G00: posicionamiento rápido a máxima velocidad.</text:p>
+     <text:p text:style-name="P34">G00: posicionamiento rápido a máxima velocidad.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G01: interpolación lineal con velocidad programable.</text:p>
+     <text:p text:style-name="P34">G01: interpolación lineal con velocidad programable.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G02: interpolación circular en sentido horario.</text:p>
+     <text:p text:style-name="P34">G02: interpolación circular en sentido horario.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G03: interpolación circular en sentido anti-horario.</text:p>
+     <text:p text:style-name="P34">G03: interpolación circular en sentido anti-horario.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G08: circunferencia tangente a trayectoria anterior</text:p>
+     <text:p text:style-name="P34">G08: circunferencia tangente a trayectoria anterior</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G09: circunferencia por 3 puntos</text:p>
+     <text:p text:style-name="P34">G09: circunferencia por 3 puntos</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G54 … G59 G159: traslados de origen</text:p>
+     <text:p text:style-name="P34">G54 … G59 G159: traslados de origen</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G71/G70: programación en mm o pulgadas.</text:p>
+     <text:p text:style-name="P34">G71/G70: programación en mm o pulgadas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G74: búsqueda de referencia.</text:p>
+     <text:p text:style-name="P34">G74: búsqueda de referencia.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G90: programación absoluta.</text:p>
+     <text:p text:style-name="P34">G90: programación absoluta.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G91: programación incremental.</text:p>
+     <text:p text:style-name="P34">G91: programación incremental.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G92: limitación velocidad de cabezal.</text:p>
+     <text:p text:style-name="P34">G92: limitación velocidad de cabezal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">G94 / G95: avance en <text:span text:style-name="T2">unidades seleccionadas</text:span><text:span text:style-name="T3"> por minuto o revolución.</text:span></text:p>
+     <text:p text:style-name="P34">G94 / G95: avance en <text:span text:style-name="T2">unidades seleccionadas</text:span><text:span text:style-name="T3"> por minuto o revolución.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26"><text:soft-page-break/>G96: velocidad de corte constante.</text:p>
+     <text:p text:style-name="P30"><text:soft-page-break/>G96: velocidad de corte constante.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">G97: velocidad de giro del cabezal en RPM.</text:p>
+     <text:p text:style-name="P30">G97: velocidad de giro del cabezal en RPM.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">G151 / G152: programación de las cotas del eje X en diámetros o radios.</text:p>
+     <text:p text:style-name="P30">G151 / G152: programación de las cotas del eje X en diámetros o radios.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P12">A continuación se pueden apreciar esquemas de algunas instrucciones para referencia.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco71" text:anchor-type="as-char" svg:width="9.666cm" draw:z-index="14">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco71" text:anchor-type="as-char" svg:width="9.666cm" draw:z-index="10">
      <draw:text-box fo:min-height="6.574cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen88" text:anchor-type="paragraph" svg:width="9.666cm" svg:height="6.574cm" style:rel-height="scale" draw:z-index="15"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen88" text:anchor-type="paragraph" svg:width="9.666cm" svg:height="6.574cm" style:rel-height="scale" draw:z-index="11"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wgALCAD4AW0BAREA/8QAHQAB
           AAIDAQEBAQAAAAAAAAAAAAEFAwQGAgcICf/aAAgBAQAAAAH9UcZeZow2mk29TNg9eM3nT3sM
@@ -17281,11 +17315,11 @@
           fEzczeoXM0xvGJm/iN9n/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing13" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">13</text:sequence>: Ejemplo de G01</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing12" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">13</text:sequence>: Ejemplo de G01</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco84" text:anchor-type="as-char" svg:width="9.603cm" draw:z-index="12">
+    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco84" text:anchor-type="as-char" svg:width="9.603cm" draw:z-index="16">
      <draw:text-box fo:min-height="5.66cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen90" text:anchor-type="paragraph" svg:width="9.603cm" svg:height="5.66cm" style:rel-height="scale" draw:z-index="13"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen90" text:anchor-type="paragraph" svg:width="9.603cm" svg:height="5.66cm" style:rel-height="scale" draw:z-index="17"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAWsAAADWCAIAAACYBzQwAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAIR0lEQVR4nO3d65KiyBaA0eqIef9X7tNnjHBsQCA3l9w7WevXjFVatGF+ZgLiP79///4B
           CPmn9wYAhSkIEKcgQJyCAHEKAsQpCBCnIECcggBxbQX59evX5/9+no228iNgVG0FeXXhFYtJ
@@ -17329,12 +17363,12 @@
           BIhTECBOQYA4BQHiFASI+x8AD1LdkxjmLAAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing14" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">14</text:sequence>: Sentidos de giro G02-G03</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing13" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">14</text:sequence>: Sentidos de giro G02-G03</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco83" text:anchor-type="as-char" svg:width="13.36cm" draw:z-index="10">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco83" text:anchor-type="as-char" svg:width="13.36cm" draw:z-index="22">
      <draw:text-box fo:min-height="9.88cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen89" text:anchor-type="paragraph" svg:width="13.36cm" svg:height="9.88cm" style:rel-height="scale" draw:z-index="11"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen89" text:anchor-type="paragraph" svg:width="13.36cm" svg:height="9.88cm" style:rel-height="scale" draw:z-index="23"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wgALCAF1AfgBAREA/8QAHAAB
           AAIDAQEBAAAAAAAAAAAAAAEFAwQGBwII/9oACAEBAAAAAf1Rr55I+oJhMJiI+/lPz9fMyITK
@@ -17875,57 +17909,57 @@
           MYGNwhonUdQMuY7nHtHTCGzPgP8AYziO5x4Op3GG5yQ1D/I8wjCO/AnEOIwjucTuf//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing15" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">15</text:sequence>: Ejemplo G08</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing14" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">15</text:sequence>: Ejemplo G08</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="P38" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16846_552402399"/>Ciclos fijos<text:bookmark-end text:name="__RefHeading__16846_552402399"/></text:h>
+   <text:h text:style-name="P26" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16846_552402399"/>Ciclos fijos<text:bookmark-end text:name="__RefHeading__16846_552402399"/></text:h>
    <text:p text:style-name="P12">Como también se menciono se dispone de los ciclos fijos o enlatados, los cuales permiten automatizar procesos comunes que se realizan en la producción con tornos, por mencionar algunos:</text:p>
-   <text:list xml:id="list2675032845770882235" text:style-name="L5">
+   <text:list xml:id="list8644740592324762415" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P27">G66: Ciclo fijo de seguimiento de perfil</text:p>
+     <text:p text:style-name="P31">G66: Ciclo fijo de seguimiento de perfil</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">G68: Ciclo fijo de desbastado en el eje X</text:p>
+     <text:p text:style-name="P31">G68: Ciclo fijo de desbastado en el eje X</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">G69: Ciclo fijo de desbastado en el eje Z</text:p>
+     <text:p text:style-name="P31">G69: Ciclo fijo de desbastado en el eje Z</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list379816033002758502" text:style-name="L6">
+   <text:list xml:id="list872707780684345292" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P28">G81: ciclo fijo de torneado en tramos rectos.</text:p>
+     <text:p text:style-name="P32">G81: ciclo fijo de torneado en tramos rectos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">G82: ciclo fijo de refrentado en tramos rectos.</text:p>
+     <text:p text:style-name="P32">G82: ciclo fijo de refrentado en tramos rectos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">G83. Ciclo fijo de taladrado axial / roscado con macho.</text:p>
+     <text:p text:style-name="P32">G83. Ciclo fijo de taladrado axial / roscado con macho.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">G84. Ciclo fijo de torneado de tramos curvos.</text:p>
+     <text:p text:style-name="P32">G84. Ciclo fijo de torneado de tramos curvos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">G85. Ciclo fijo de refrentado de tramos curvos.</text:p>
+     <text:p text:style-name="P35">G85. Ciclo fijo de refrentado de tramos curvos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">G86. Ciclo fijo de roscado longitudinal.</text:p>
+     <text:p text:style-name="P35">G86. Ciclo fijo de roscado longitudinal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">G87. Ciclo fijo de roscado frontal.</text:p>
+     <text:p text:style-name="P35">G87. Ciclo fijo de roscado frontal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">G88. Ciclo fijo de ranurado en el eje X</text:p>
+     <text:p text:style-name="P35">G88. Ciclo fijo de ranurado en el eje X</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">G89. Ciclo fijo de ranurado en el eje Z</text:p>
+     <text:p text:style-name="P35">G89. Ciclo fijo de ranurado en el eje Z</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">A modo de ejemplo se muestran los esquemas de trabajo de algunos de dichos ciclos</text:p>
    <text:p text:style-name="P11"/>
    <text:p text:style-name="P11"/>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr8" draw:name="Marco88" text:anchor-type="paragraph" svg:width="14.048cm" draw:z-index="41">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr8" draw:name="Marco88" text:anchor-type="paragraph" svg:width="14.048cm" draw:z-index="2">
      <draw:text-box fo:min-height="9.047cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen94" text:anchor-type="paragraph" svg:width="14.048cm" svg:height="9.047cm" style:rel-height="scale" draw:z-index="42"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen94" text:anchor-type="paragraph" svg:width="14.048cm" svg:height="9.047cm" style:rel-height="scale" draw:z-index="3"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAhMAAAFWCAIAAABcvIgxAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAXT0lEQVR4nO3d7ZLqNrqAUe+quf9bzskZpojjDyHbsvRKWutHKrubBjcYP0gy9H/++uuv
           BQCy/af1BgDQGeUA4BrlAOCarHL8+fPn7/9+V0T+/qfVEYBp/S7HJxubf4oHwLR+l+NTiD//
@@ -18040,11 +18074,11 @@
           9EQkIALlAOAa5QDgGuUA4BrlAOAa5QDgGuUA4Jr/A9YjSYR9+7nfAAAAAElFTkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing16" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">16</text:sequence>: Ejemplo de G66</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing15" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">16</text:sequence>: Ejemplo de G66</text:p>
      </draw:text-box>
-    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco89" text:anchor-type="as-char" svg:width="9.179cm" draw:z-index="8">
+    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco89" text:anchor-type="as-char" svg:width="9.179cm" draw:z-index="24">
      <draw:text-box fo:min-height="7.248cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen95" text:anchor-type="paragraph" svg:width="9.179cm" svg:height="7.248cm" style:rel-height="scale" draw:z-index="9"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen95" text:anchor-type="paragraph" svg:width="9.179cm" svg:height="7.248cm" style:rel-height="scale" draw:z-index="25"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAVsAAAESCAIAAADc+uEeAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAOXElEQVR4nO3d4ZKkqBKGYSdi7/+W5+wZY2kGFRGSJDN5n18z1VZXtcInAuI/v3//PgDg
           j39WfwEAhpAIAH6QCAB+kAgAfpAIAH6QCEp+/fp1/iMN7pyvMNYDU0gEJf/W/BQKgFkkgp48
@@ -18117,12 +18151,12 @@
           wA8SAcCP/wH8PTeatEbtSgAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing17" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">17</text:sequence>: Ejemplo de G81</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing16" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">17</text:sequence>: Ejemplo de G81</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco87" text:anchor-type="as-char" svg:width="9.761cm" draw:z-index="6">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco87" text:anchor-type="as-char" svg:width="9.761cm" draw:z-index="18">
      <draw:text-box fo:min-height="7.116cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen93" text:anchor-type="paragraph" svg:width="9.761cm" svg:height="7.116cm" style:rel-height="scale" draw:z-index="7"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen93" text:anchor-type="paragraph" svg:width="9.761cm" svg:height="7.116cm" style:rel-height="scale" draw:z-index="19"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAXEAAAENCAIAAAB2BcJJAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAOsklEQVR4nO3d7bKkJhSFYacq93/LJ5OYIgwoIm5gbXifX5MTu9tWWPKl/dfPz88BAEb+
           mr0Di/j169f5j5DR51+IbOyGTLHxOztCrAA7I1O6IF+wLTLF2O80Ofs7tFywJzIFgCUyxR7N
@@ -18197,11 +18231,11 @@
           TkSuQmCC
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing18" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">18</text:sequence>: Ejemplo de G85</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing17" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">18</text:sequence>: Ejemplo de G85</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco86" text:anchor-type="as-char" svg:width="12.698cm" draw:z-index="4">
+    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco86" text:anchor-type="as-char" svg:width="12.698cm" draw:z-index="12">
      <draw:text-box fo:min-height="7.142cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen92" text:anchor-type="paragraph" svg:width="12.698cm" svg:height="7.142cm" style:rel-height="scale" draw:z-index="5"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen92" text:anchor-type="paragraph" svg:width="12.698cm" svg:height="7.142cm" style:rel-height="scale" draw:z-index="13"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAIAAADe+FMwAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAV3UlEQVR4nO3d6XLkOK6GYXVE3/8t15wzOcFmcwHBRSJIvM8vl63NLulLJEgp//7z588D
           ALDn790HAAAoI6ABwCgCGgCMIqABwCgCGtb99ddf8T8Z1oYfgwH9f9cM1wm+8TvTfqfcX//F
@@ -18310,11 +18344,11 @@
           RK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing19" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">19</text:sequence>: Ejemplo de G87</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing18" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">19</text:sequence>: Ejemplo de G87</text:p>
      </draw:text-box>
-    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco85" text:anchor-type="as-char" svg:width="10.37cm" draw:z-index="2">
+    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco85" text:anchor-type="as-char" svg:width="10.37cm" draw:z-index="6">
      <draw:text-box fo:min-height="8.941cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen91" text:anchor-type="paragraph" svg:width="10.37cm" svg:height="8.941cm" style:rel-height="scale" draw:z-index="3"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen91" text:anchor-type="paragraph" svg:width="10.37cm" svg:height="8.941cm" style:rel-height="scale" draw:z-index="7"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAYgAAAFSCAIAAABnhN84AAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAa70lEQVR4nO2d27Lrqo5AvavO///y7K52nbS3DTLIAiQxxtNaiS/EgREuEvM/f39/BwCA
           J/6zugAAAHcQEwC4AzEBgDsQEwC4AzEBgDsQEwC4AzEBgDsQEwC4AzEBgDskMf3zzz/nP87o
@@ -18447,7 +18481,7 @@
           RU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing20" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Ejemplo de G89</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing19" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Ejemplo de G89</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_8" text:outline-level="8"><text:bookmark-start text:name="__RefHeading__16848_552402399"/>Principio de funcionamiento<text:bookmark-end text:name="__RefHeading__16848_552402399"/></text:h>
@@ -18455,7 +18489,7 @@
    <text:p text:style-name="P17">G81 X Z Q R C D L M F H</text:p>
    <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco1" text:anchor-type="as-char" svg:width="12.686cm" svg:height="7.867cm" style:rel-height="scale-min" draw:z-index="0">
      <draw:text-box>
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen71" text:anchor-type="paragraph" svg:width="9.179cm" svg:height="7.248cm" style:rel-height="scale" draw:z-index="1"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen71" text:anchor-type="paragraph" svg:width="9.179cm" svg:height="7.248cm" style:rel-height="scale" draw:z-index="1"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAVsAAAESCAIAAADc+uEeAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAOXElEQVR4nO3d4ZKkqBKGYSdi7/+W5+wZY2kGFRGSJDN5n18z1VZXtcInAuI/v3//PgDg
           j39WfwEAhpAIAH6QCAB+kAgAfpAIAH6QCEp+/fp1/iMN7pyvMNYDU0gEJf/W/BQKgFkkgp48
@@ -18528,27 +18562,27 @@
           wA8SAcCP/wH8PTeatEbtSgAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing21" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">21</text:sequence>: Referencias para principio de funcionamiento de G81</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing20" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">21</text:sequence>: Referencias para principio de funcionamiento de G81</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Donde:</text:p>
-   <text:list xml:id="list7947513412074887131" text:style-name="L7">
+   <text:list xml:id="list8757302566110118208" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P32">X,Z: definen las cotas según X e Y del punto inicial del perfil.</text:p>
+     <text:p text:style-name="P36">X,Z: definen las cotas según X e Y del punto inicial del perfil.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32"><text:soft-page-break/>Q, R: definen las cotas según X e Y del punto final del perfil.</text:p>
+     <text:p text:style-name="P36">Q, R: definen las cotas según X e Y del punto final del perfil.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">C: define el paso de torneado.</text:p>
+     <text:p text:style-name="P36"><text:soft-page-break/>C: define el paso de torneado.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">D: define la distancia de seguridad a la que se efectua el retroceso de la herramienta en cada pasada.</text:p>
+     <text:p text:style-name="P36">D: define la distancia de seguridad a la que se efectua el retroceso de la herramienta en cada pasada.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco90" text:anchor-type="as-char" svg:width="14.497cm" draw:z-index="43">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco90" text:anchor-type="as-char" svg:width="14.497cm" draw:z-index="49">
      <draw:text-box fo:min-height="4.099cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen96" text:anchor-type="paragraph" svg:width="14.497cm" svg:height="4.099cm" style:rel-height="scale" draw:z-index="44"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen96" text:anchor-type="paragraph" svg:width="14.497cm" svg:height="4.099cm" style:rel-height="scale" draw:z-index="50"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAiQAAACbCAIAAADdkheuAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAMwUlEQVR4nO3d4ZKkKBCFUSZi3v+Ve2PXGYMFxVRBbpLf+dXb63TTVaQXAa3fPz8/CQCA
           kX7PbgAAYH2EDQBgOMIGADAcYQMAGI6wAQAMR9gAAIYjbAAAwxE2AIDhCBsAwHC3w+bXr1/F
@@ -18613,20 +18647,20 @@
           NBAZVzYAgOEIGwDAcIQNAGA4wgYAMBxhAwAY7h+ku5pzHz1n1QAAAABJRU5ErkJggg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing22" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">22</text:sequence>: Efecto del parámetro D, izquierda distinto de 0, derecha igual a 0</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing21" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">22</text:sequence>: Efecto del parámetro D, izquierda distinto de 0, derecha igual a 0</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list6955587870934670923" text:style-name="L8">
+   <text:list xml:id="list2032070433579425491" text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P33">L, M: definen la demasía de material según los ejes X y Z en la última pasada de desbaste.</text:p>
+     <text:p text:style-name="P37">L, M: definen la demasía de material según los ejes X y Z en la última pasada de desbaste.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33">F: define la velocidad de avance en la pasada final de desbaste.</text:p>
+     <text:p text:style-name="P37">F: define la velocidad de avance en la pasada final de desbaste.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco91" text:anchor-type="as-char" svg:width="8.2cm" draw:z-index="39">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco91" text:anchor-type="as-char" svg:width="8.2cm" draw:z-index="41">
      <draw:text-box fo:min-height="6.242cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen97" text:anchor-type="paragraph" svg:width="8.2cm" svg:height="6.242cm" style:rel-height="scale" draw:z-index="40"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr11" draw:name="Imagen97" text:anchor-type="paragraph" svg:width="8.2cm" svg:height="6.242cm" style:rel-height="scale" draw:z-index="42"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAATYAAADsCAIAAABxDB0DAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAIwElEQVR4nO3d2ZLbtgJFUXZV/v+XfZ3whqE5zzwA13pI2d2S3bGwBRLi8NevX78aINVf
           b/8AwBKJQrSlRH9+fn7/t9sS/v1bW8XwsPVZtC2zzRV42FKiXZmD6bRjXoW7rcyiXaVzKaoU
@@ -18672,24 +18706,24 @@
           okkUokkUokkUokkUokkUokkUokkUokkUokkUov0PVU2v2KsQXhgAAAAASUVORK5CYII=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing23" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">23</text:sequence>: Última pasa de desbaste</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing22" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">23</text:sequence>: Última pasa de desbaste</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list1539387478474963013" text:style-name="L9">
+   <text:list xml:id="list1360186623383797642" text:style-name="L9">
     <text:list-item>
-     <text:p text:style-name="P34">H: define la velocidad de avance de la pasada de acabado.</text:p>
+     <text:p text:style-name="P38">H: define la velocidad de avance de la pasada de acabado.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16850_552402399"/>Cotas de los ejes – X … C<text:bookmark-end text:name="__RefHeading__16850_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">El CNC permite programar desplazamientos de un sólo eje o de varios a la vez. Se programarán únicamente los ejes que intervienen en el desplazamiento deseado, siendo el orden de programación de los ejes el siguiente:</text:p>
    <text:p text:style-name="P17">X, Y, Z, U, V, W, A, B, C</text:p>
    <text:p text:style-name="Text_20_body">En el caso de los tornos las cotas pueden ser programadas en radios o diámetros, milímetros o pulgadas, o grados según el tipo de eje involucrado y la configuración del mismo.</text:p>
-   <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16852_552402399"/><text:soft-page-break/>Velocidad de avance – F<text:bookmark-end text:name="__RefHeading__16852_552402399"/></text:h>
+   <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16852_552402399"/>Velocidad de avance – F<text:bookmark-end text:name="__RefHeading__16852_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">La velocidad de avance de mecanizado puede ser seleccionada por programa, manteniéndose activa mientras no se programe otra. Se representa con la letra F y según se esté trabajando en G94 o G95 se programará en mm/minuto (pulgadas/minuto) o en mm/revolución (pulgadas/revolución).</text:p>
-   <text:p text:style-name="Text_20_body">El avance F programado es efectivo cuando se trabaja en interpolación lineal (G01) o circular (G02, G03). Si no se programa la función F, el CNC asumirá el avance F0. Si se trabaja en posicionamiento (G00), la máquina se moverá con el avance rápido indicado en la configuración de la máquina, independiente de la F programada.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>El avance F programado es efectivo cuando se trabaja en interpolación lineal (G01) o circular (G02, G03). Si no se programa la función F, el CNC asumirá el avance F0. Si se trabaja en posicionamiento (G00), la máquina se moverá con el avance rápido indicado en la configuración de la máquina, independiente de la F programada.</text:p>
    <text:h text:style-name="Heading_20_7" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16854_552402399"/>Avance en mm/minuto<text:bookmark-end text:name="__RefHeading__16854_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Si se programa el avance en mm/minuto el CNC entiende que la velocidad de la punta de corte (coordenada programada en la trayectoria) está dada en mm/minuto, en casa de mover un sólo eje ese eje se moverá a la velocidad solicitada, en el caso de interpolar más de un eje entonces que el módulo de la velocidad es el solicitado.</text:p>
-   <text:p text:style-name="P11"><draw:frame draw:style-name="fr12" draw:name="Objeto3" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="11.208cm" svg:height="1.002cm" draw:z-index="38"><draw:object>
+   <text:p text:style-name="P11"><draw:frame draw:style-name="fr13" draw:name="Objeto3" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="11.208cm" svg:height="1.002cm" draw:z-index="38"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -18721,58 +18755,58 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcgrAADq
-       AwAAbAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAMcrAADpAwAAlQAB
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAawrAADm
+       AwAAbAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKsrAADlAwAAlQAB
        AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-       biBTZXJpZgAAAAAAAKcBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACADIAAABqAAAAewIAAAoAQ29tcG9u
-       ZW50ZVsIAAAAAAoACgBDAG8AbQBwAG8AbgBlAG4AdABlAIwAAQAAAAAAiwABAAIAAAAfAIoA
-       AQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAAAAAAUAAAAAAAIA
+       biBTZXJpZgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACADIAAABqAAAAYQIAAAoAQ29tcG9u
+       ZW50ZVUIAAAAAAoACgBDAG8AbQBwAG8AbgBlAG4AdABlAIwAAQAAAAAAiwABAAIAAAAfAIoA
+       AQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAwAAAAUAAAAAAAIA
        /wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABy
-       AAIAGgAAAP4IAAB7AgAAAgBkZZABAAAAAAIAAgBkAGUAjAABAAAAAACLAAEAAgAAAB8AigAB
-       AEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACnAQAAAAAAAAAABQAAAAAAAgD/
+       AAIAGgAAAP4IAABhAgAAAgBkZY4BAAAAAAIAAgBkAGUAjAABAAAAAACLAAEAAgAAAB8AigAB
+       AEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/
        AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
-       AgAmAAAA2goAAHsCAAAGAGF2YW5jZa8EAAAAAAYABgBhAHYAYQBuAGMAZQCMAAEAAAAAAIsA
-       AQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAA
+       AgAmAAAAwAoAAGECAAAGAGF2YW5jZasEAAAAAAYABgBhAHYAYQBuAGMAZQCMAAEAAAAAAIsA
+       AQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAA
        AAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
-       AAAAcgACABoAAACbDwAAewIAAAEAAAA9AFABAAAAAAEAAQA9AIwAAQAAAAAAiwABAAIAAAAf
-       AIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAAAAAAUAAAAA
+       AAAAcgACABoAAACBDwAAYQIAAAEAAAA9AE8BAAAAAAEAAQA9AIwAAQAAAAAAiwABAAIAAAAf
+       AIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAwAAAAUAAAAA
        AAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
-       AAByAAIAJgAAADkTAAByAQAABgBBdmFuY2XGBAAAAAAGAAYAQQB2AGEAbgBjAGUAjAABAAAA
-       AACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACnAQAA
-       AAAAAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-       AIYAAQAEAAAAAAAAAHIAAgAXAAAAZBgAAHIBAAABAEYCAQAAAAABAAEARgCMAAEAAAAAAIsA
-       AQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAA
+       AAByAAIAJgAAADkTAAByAQAABgBBdmFuY2XCBAAAAAAGAAYAQQB2AGEAbgBjAGUAjAABAAAA
+       AACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAA
+       AAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
+       AIYAAQAEAAAAAAAAAHIAAgAXAAAAShgAAHIBAAABAEYCAQAAAAABAAEARgCMAAEAAAAAAIsA
+       AQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAA
        AAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
        AAAAcgACABoAAAA4GQAAcgEAAAEAAADFIvQAAAAAAAEAAQDFIowAAQAAAAAAiwABAAIAAAAf
-       AIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAAAAAAUAAAAA
+       AIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAwAAAAUAAAAA
        AAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
-       AAByAAIAPgAAAAwaAAByAQAADgBEZXNwbGF6YW1pZW50b6cKAAAAAA4ADgBEAGUAcwBwAGwA
+       AAByAAIAPgAAAAwaAAByAQAADgBEZXNwbGF6YW1pZW50b58KAAAAAA4ADgBEAGUAcwBwAGwA
        YQB6AGEAbQBpAGUAbgB0AG8AjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExp
-       YmVyYXRpb24gU2VyaWYAAAAAAACnAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAA
-       AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAdAAAAACUAAHIBAAAD
-       AGRlbAUCAAAAAAMAAwBkAGUAbACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAA
-       TGliZXJhdGlvbiBTZXJpZgAAAAAAAKcBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMA
-       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACAB0AAABGJwAAcgEA
-       AAMAZWpl7QEAAAAAAwADAGUAagBlAIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGE
-       AAEABQAAAAAAAAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAA
+       YmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAA
+       AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAdAAAA5iQAAHIBAAAD
+       AGRlbAQCAAAAAAMAAwBkAGUAbACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAA
+       TGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACAB0AAAAsJwAAcgEA
+       AAMAZWpl7AEAAAAAAwADAGUAagBlAIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGE
+       AAEABQAAAAAAAAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAA
        BQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
-       AAAAAAAAAGcAAQAQAAAA8xAAAPcBAABDKwAACwIAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBC
-       AAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApwEAAAAAAAAAAAUAAAAAAAIA/wMA
+       AAAAAAAAAGcAAQAQAAAA8xAAANwBAAAwKwAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBC
+       AAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAwAAAAUAAAAAAAIA/wMA
        AAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
-       PgAAACgRAACEAwAADgBEZXNwbGF6YW1pZW50b6cKAAAAAA4ADgBEAGUAcwBwAGwAYQB6AGEA
+       PgAAACgRAACEAwAADgBEZXNwbGF6YW1pZW50b58KAAAAAA4ADgBEAGUAcwBwAGwAYQB6AGEA
        bQBpAGUAbgB0AG8AjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
-       b24gU2VyaWYAAAAAAACnAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+       b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
        AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAyAAAAAhwAAIQDAAAKAHJlc3Vs
-       dGFudGWNBgAAAAAKAAoAcgBlAHMAdQBsAHQAYQBuAHQAZQCMAAEAAAAAAIsAAQACAAAAHwCK
-       AAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKcBAAAAAAAAAAAFAAAAAAAC
+       dGFudGWIBgAAAAAKAAoAcgBlAHMAdQBsAHQAYQBuAHQAZQCMAAEAAAAAAIsAAQACAAAAHwCK
+       AAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAMAAAAFAAAAAAAC
        AP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-       cgACADIAAADvIgAAhAMAAAoAcHJvZ3JhbWFkbzQIAAAAAAoACgBwAHIAbwBnAHIAYQBtAGEA
+       cgACADIAAADvIgAAhAMAAAoAcHJvZ3JhbWFkby4IAAAAAAoACgBwAHIAbwBnAHIAYQBtAGEA
        ZABvAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:h text:style-name="P39" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16856_552402399"/>Avance en mm/revolución<text:bookmark-end text:name="__RefHeading__16856_552402399"/></text:h>
+   <text:h text:style-name="P27" text:outline-level="7"><text:bookmark-start text:name="__RefHeading__16856_552402399"/>Avance en mm/revolución<text:bookmark-end text:name="__RefHeading__16856_552402399"/></text:h>
    <text:p text:style-name="P14">Si se programa el avance en mm/revolución el CNC entiende que la herramienta avanza F milímetros por cada revolución que de el husillo. Se hacen las mismas consideraciones de movimiento combinado que en el caso anterior.</text:p>
    <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16858_552402399"/>Velocidad del cabezal – S<text:bookmark-end text:name="__RefHeading__16858_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">Mediante el código <text:span text:style-name="T2">S</text:span> se programa directamente la velocidad de giro del cabezal en revoluciones/ minuto (G97) o en metros/minuto si se está en la modalidad de velocidad de corte constante (G96).</text:p>
@@ -18785,18 +18819,18 @@
    <text:h text:style-name="Heading_20_6" text:outline-level="6"><text:bookmark-start text:name="__RefHeading__16866_552402399"/>Funciones auxiliares -M<text:bookmark-end text:name="__RefHeading__16866_552402399"/></text:h>
    <text:p text:style-name="Text_20_body">M corresponde a las instrucción relacionadas con funciones auxiliares o complementarias. Se usan para indicar a la máquina herramienta que se deben realizar operaciones tales como: parada programada, rotación del husillo a derechas o a izquierdas, cambios de herramienta en centros de mecanizado, etc. La dirección M va seguida de un número de dos cifras que permite programar hasta 100 funciones auxiliares diferentes. Las funciones pueden ejecutarse tanto antes como después del movimiento programado de los ejes, dependiendo del tipo de función a realizar. Por ejemplo las funciones que inician el giro del husillo se realizan previas al movimiento, mientras que la función que detiene el movimiento del husillo lo hace posterior al movimiento de los ejes.</text:p>
    <text:p text:style-name="Text_20_body">Ejemplos estandarizados:</text:p>
-   <text:list xml:id="list7138434464603429006" text:style-name="L10">
+   <text:list xml:id="list1087229211931539657" text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P35"><text:soft-page-break/>M00: Provoca una parada incondicional del programa, detiene el husillo y la refrigeración.</text:p>
+     <text:p text:style-name="P39">M00: Provoca una parada incondicional del programa, detiene el husillo y la refrigeración.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">M02: Indica el fin del programa. Se debe escribir en el último bloque del programa y posibilita la parada del control una vez ejecutadas el resto de las operaciones contenidas en el mismo bloque.</text:p>
+     <text:p text:style-name="P39">M02: Indica el fin del programa. Se debe escribir en el último bloque del programa y posibilita la parada del control una vez ejecutadas el resto de las operaciones contenidas en el mismo bloque.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">M03: Permite programar la rotación del husillo en sentido horario.</text:p>
+     <text:p text:style-name="P39"><text:soft-page-break/>M03: Permite programar la rotación del husillo en sentido horario.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">M04: Permite programar la rotación del husillo en sentido antihorario, etc</text:p>
+     <text:p text:style-name="P39">M04: Permite programar la rotación del husillo en sentido antihorario, etc</text:p>
     </text:list-item>
    </text:list>
   </office:text>
