@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-24T20:19:36.607256807</dc:date><meta:editing-duration>P3DT16H54M20S</meta:editing-duration><meta:editing-cycles>244</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="5" meta:word-count="23" meta:character-count="158" meta:non-whitespace-character-count="137"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-02-25T20:10:56.198667635</dc:date><meta:editing-duration>P3DT17H3M27S</meta:editing-duration><meta:editing-cycles>246</meta:editing-cycles><meta:generator>LibreOffice/4.4.0.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="37" meta:word-count="1408" meta:character-count="8657" meta:non-whitespace-character-count="7293"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">75777</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">18179</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21989</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">21433</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15268</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">2501</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3949</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3009</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">85353</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">18177</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21987</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">75777</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">21431</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">91043</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">1010078</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1349476</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -120,7 +120,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -337,9 +339,6 @@
    </style:paragraph-properties>
    <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="encabezado_20_7_20_-_20_mio" style:display-name="encabezado 7 - mio" style:family="paragraph" style:parent-style-name="Heading_20_7" style:default-outline-level="" style:list-style-name="" style:class="text">
-   <style:text-properties style:font-weight-complex="600"/>
-  </style:style>
   <style:style style:name="contenido_20_-_20_mono" style:display-name="contenido - mono" style:family="paragraph" style:next-style-name="Text_20_body" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Normal" style:font-family-generic="modern" style:font-pitch="fixed" style:font-size-asian="10.5pt"/>
@@ -347,38 +346,16 @@
   <style:style style:name="encabezado-resumen" style:family="paragraph" style:parent-style-name="Heading" style:class="text">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="Encabezado_20_1_20_-_20_no_20_numerado" style:display-name="Encabezado 1 - no numerado" style:family="paragraph" style:parent-style-name="Heading_20_1" style:next-style-name="Text_20_body" style:auto-update="true" style:default-outline-level="1" style:list-style-name="" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-  </style:style>
   <style:style style:name="Illustration" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="9" style:class="text">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="Apendice" style:family="paragraph" style:parent-style-name="Encabezado_20_1_20_-_20_no_20_numerado" style:auto-update="true" style:list-style-name="Numbering_20_4" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="1" fo:break-before="auto" fo:break-after="auto">
-    <style:tab-stops/>
-   </style:paragraph-properties>
   </style:style>
   <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Foto" style:family="paragraph" style:parent-style-name="Caption"/>
-  <style:style style:name="Apendice_20_-_20_Encabezado_20_2" style:display-name="Apendice - Encabezado 2" style:family="paragraph" style:parent-style-name="Heading_20_2" style:default-outline-level="1" style:list-style-name="Numbering_20_1" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto" style:shadow="none" text:number-lines="true" text:line-number="1">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-weight-complex="600"/>
-  </style:style>
-  <style:style style:name="Apendice_20_-_20_Encaezado_20_3" style:display-name="Apendice - Encaezado 3" style:family="paragraph" style:parent-style-name="Heading_20_3" style:default-outline-level="3" style:list-style-name="Numbering_20_1" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto" style:shadow="none">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-weight-complex="600"/>
-  </style:style>
   <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
@@ -1279,8 +1256,59 @@
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000fd589" officeooo:paragraph-rsid="000fd589"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0011cfdd" officeooo:paragraph-rsid="0011cfdd"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0013f1d2" officeooo:paragraph-rsid="0013f1d2"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00149764" officeooo:paragraph-rsid="00149764"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00149764"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0011a618" officeooo:paragraph-rsid="0011a618"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000fd589" officeooo:paragraph-rsid="000fd589"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="5.133cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:rsid="0011a618" officeooo:paragraph-rsid="0011a618"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0013699a" officeooo:paragraph-rsid="0013699a"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0013f1d2" officeooo:paragraph-rsid="0013f1d2"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00149764"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0011a618"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0013f1d2"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="00149764"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.006cm" fo:page-height="29.693cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
@@ -1318,7 +1346,7 @@
     <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">1</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">3</text:page-number></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Index" style:page-layout-name="pm2">
@@ -1332,7 +1360,7 @@
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm3" style:next-style-name="Standard"/>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -1340,8 +1368,40 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
    </text:sequence-decls>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188360_359546015"/><text:reference-mark-start text:name="problemas"/>Problemas y soluciones<text:bookmark-end text:name="__RefHeading__188360_359546015"/><text:reference-mark-end text:name="problemas"/></text:h>
-   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188360_359546015"/><text:reference-mark-start text:name="problemas"/>Problemas y soluciones<text:bookmark-end text:name="__RefHeading__188360_359546015"/><text:reference-mark-end text:name="problemas"/></text:h>
+   <text:p text:style-name="P16">Como se menciono a lo largo del informe la realización del proyecto represento ciertas dificultades no planeadas, e incluso ciertos accidentes que llegaron a dañar partes de la máquina, dichas dificultades se debieron principalmente a falta de documentación, falta de compresión de los procesos de la máquina herramienta y descuidos, entre otros.</text:p>
+   <text:p text:style-name="P16">En esté capítulo se recolectan algunos de los problemas más graves encontrados el proceso, y como se fueron solucionando.</text:p>
+   <text:h text:style-name="P10" text:outline-level="2">Proceso previo</text:h>
+   <text:p text:style-name="P16">El primer problema fue poder tratar de comprender lo que había tratado de realizar el técnico de mantenimiento que había iniciado la operación de refactoring previo a la toma de control por parte del alumno. Dicha persona había retirado todo el cableado original, retirado todos los componentes del panel eléctrico, puesto los nuevos, etc y no había dejado ningún tipo de documentación o identificación al respecto.</text:p>
+   <text:p text:style-name="P16">Originalmente la máquina se componía de una serie de placas (PCBs), las cuales se comunicaban por sendos buses, incluso existía un transformador elevador trifásico dentro del gabinete eléctrico, el cuál se desconocía si se podía seguir utilizando. Dichas placas aún se encuentran en poder la empresa, pero esto se supo bastante tiempo después de iniciado el proceso.</text:p>
+   <text:p text:style-name="P16">Como se menciono, al momento de iniciar actividades fue necesario recolectar toda la información posible sobre los distintos módulos disponibles, módulos anteriores, manuales, etc. La cantidad de documentación disponible dificulto el inicio de actividades, ya que significo digerir grandes cantidades de información para poder entender que era necesario realizar y ordenar las tareas.</text:p>
+   <text:p text:style-name="P16">Por una cuestión de organización y prolijidad se decidió retirar parte del cableado realizado, se recortaron excedentes de cables, se verifico y recién después se volvió a conectar lentamente.</text:p>
+   <text:h text:style-name="P10" text:outline-level="2">Cableado de realimentaciones incorrecto</text:h>
+   <text:p text:style-name="P16">Dado que dicho técnico había realizado parte del conexionado en laboratorio, se asumió que las conexiones eran las correctas. Lo cuál no fue así al momento de realizar ciertas pruebas. </text:p>
+   <text:p text:style-name="P16">Por ejemplo cuando se hizo la primera prueba en modo manual de los drivers de ejes los mismos mostraron <text:span text:style-name="T1">A50</text:span> en sus pantallas tan pronto fueron prendidos. Se comprobó en el manual que dicho error quería decir que existía un problema de comunicación entre el driver y el encoder, se abrieron los conectores de los mismos y se comprobó que el conexionado estaba realizado de forma incorrecta, se presupuso que era un problema de aislación, pero enseguida se comprobó que era una mala disposición de los terminales del conector.</text:p>
+   <text:p text:style-name="P16">En planta se corrigi<text:span text:style-name="T2">ó la conexión de los terminales y la comunicación driver-encoder quedo funcionando a la perfección.</text:span></text:p>
+   <text:h text:style-name="P15" text:outline-level="2">Rotura de eje X</text:h>
+   <text:p text:style-name="P17">Esté fue quizás el problema más grave que se encontró durante el desarrollo y como gran cantidad de los accidentes totalmente evitable. Al iniciar los trabajos con los ejes se decidió iniciar con el eje X por una cuestión de facilidad al ser el que realizaba el menor movimiento de masa mecánica, además dado que su tornillo tenía un paso menor la velocidad resultante también iba a ser menor.</text:p>
+   <text:p text:style-name="P17">Al momento de conectar la carga mecánica no se realizo la conexión lógica de los sensores de fin de carrera, se realizo el ajuste completo del movimiento con la precaución de que la velocidad máxima alcanzada fuese baja a fin de evitar daños.</text:p>
+   <text:p text:style-name="P17">Una vez que se tenía control completo sobre el eje, se procedió a realizar lo mismo con el eje Z, siempre con la premisa de limitar la velocidad máxima, una vez que ambos ejes se encontraban funcionando se procedió a hacer una muestra al personal de planta.</text:p>
+   <text:p text:style-name="P17">Está prueba fue realizada en modo manual (JOG), los resultados fueron satisfactorios, pero el encargado de planta notó que el sentido de referencia para el eje X no era el correcto, sino que estaba invertido, se investigó y se corrigió dicha situación.</text:p>
+   <text:p text:style-name="P17">Llego el momento de aumentar la velocidad máxima a los valores reales de producción, lo cuál se realizó, pero en el momento de poner la máquina en zona segura para dar por finalizado el día, se trataron de mover los dos ejes simultáneamente utilizando los botones JOG, salvo que el botón X había pasado a tener la dirección que siempre tuvo que tener y desplazo el carro a máxima velocidad desdé el extremo superior al inferior, esté movimiento fue tan rápido que el tiempo de repuesta del alumno no fue suficiente para detenerlo. La energía cinética acumulada fue tan grande que arranco el tornillo de sus apoyos y barrió parte de las roscas de sujeción, la rosca calibrada no vio su precisión afectada.</text:p>
+   <text:p text:style-name="P17">Este problema trajo aparejado que el trabajo de ajuste de ejes estuviese parado por casi 4 semanas, mientras el tornillo era reparado por un especialista en mecanizado de metales duros, dado que el tornillo del eje X era nuevo, más largo que el original y aún se contaba con el original fue posible acortarlo y que no fuese necesario un nuevo reemplazo.</text:p>
+   <text:p text:style-name="P17">Otra consecuencia del accidente fue la necesidad de replantear como continuar con el proyecto para que el tiempo de reparación tuviese el menor impacto posible sobre el proceso en general, se realizó el ajuste del eje Z, la puesta a punto del cambiador de herramientas y del husillo durante esté tiempo.</text:p>
+   <text:h text:style-name="P11" text:outline-level="2">Ajuste de ganancias</text:h>
+   <text:p text:style-name="P18">Durante <text:span text:style-name="T3">el proceso de ajuste de ganancias se quisieron aplicar las técnicas de control aprendidas en las materias Control I y II, si bien las topologías más básicas fueron posibles de implementar, aquellas más complejas que según la teoría mejorarían el rendimiento, no sólo no dieron grandes mejoras en el rendimiento (acortamiento de tiempos muertos), sino que además dieron como resultado ruidos mecánicos un tanto fuertes, los cuales según recomendación de los técnicos de planta era mejor no tener.</text:span></text:p>
+   <text:p text:style-name="P19">Dado el tipo de realimentación utilizado, medición de posición realimentación de velocidad, el error de seguimiento estático estaba garantizado y tendiente a 0 dada la acción integradora del sistema. Si fue necesario comprobar con un osciloscopio que no hubiesen sobrevalores en la señal de velocidad que pudiesen presuponer sobrevalores en la posición, la posición también fue controlada con la utilización de un dispositivo mecánico de alta precisión conocido como palpador, <text:soft-page-break/>el cuál cuenta de 2 agujas, una que mantiene el máximo valor alcanzado y otra que marca el valor actual. Independientemente en esté tipo de máquinas es indispensable la medición y el control de calidad permanente de las piezas producidas, dado que el desgaste mecánico puede producir efectos indeseables.</text:p>
+   <text:h text:style-name="P12" text:outline-level="2">Cambiador de herramientas</text:h>
+   <text:p text:style-name="P19">Sin lugar a dudas el cambiador de herramientas es el subsistema más complejo que se puede encontrar en la máquina, el mismo involucra el movimiento de un eje. la coordinación con el movimiento de un actuador neumático y el control del eje por parte del PLC. El sincronismo es indispensable en esté subsistema, ya que un pequeño error de posición previo al bloqueo del plato porta herramientas (del orden de los 3 grados), hace que el mismo no pueda bloquear para nada, interrumpiendo el proceso normal de funcionamiento del resto de la máquina.</text:p>
+   <text:p text:style-name="P19">Una complejidad encontrada fue el decidir el momento correcto para energizar y des-energizar el motor involucrado, durante las transiciones de estado del actuador neumático el plato realizaba pequeños movimientos, los cuales parecen imperceptibles al ojo humano, pero estas pequeñas variaciones lograban que sí el CNC estuviese en un estado en el cuál el lazo de realimentación del eje se encontrase activo, el CNC emitiese la señal de control necesaria para compensar el error de posición generando movimientos bruscos en el plato durante las transiciones del actuador. Por ello se decidió que dicho lazo se active luego de un tiempo de establecido el estado del actuador, y se desactive previo a iniciar el movimiento de bloqueo.</text:p>
+   <text:h text:style-name="P12" text:outline-level="2">Offset e inestabilidades en la frecuencia del inversor del husillo</text:h>
+   <text:p text:style-name="P19">Como se menciono múltiples veces el inversor del husillo presentó un offset de cruce por cero considerable y variable, lo cuál no permitió regular de manera estable por debajo de las 50RPM, dada está condición se decidió <text:span text:style-name="T4">limitar por software la velocidad mínima. La falta de documentación clara del inversor del husillo tuvo que ver en la confusión de creer que era posible regular en baja frecuencia.</text:span></text:p>
+   <text:h text:style-name="P14" text:outline-level="2"><text:span text:style-name="T4">Cortocircuito de salida del CNC a masa en un pin.</text:span></text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Selenoide quemada</text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Aprendizaje acelerado de métodos de producción y programación CNC</text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Entrenamiento del personal</text:h>
+   <text:h text:style-name="P13" text:outline-level="2">Documentación</text:h>
+   <text:p text:style-name="P20"/>
   </office:text>
  </office:body>
 </office:document>
