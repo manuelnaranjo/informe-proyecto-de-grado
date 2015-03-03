@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T16:47:14.051464436</dc:date><meta:editing-duration>P6DT15H33M6S</meta:editing-duration><meta:editing-cycles>265</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="10" meta:image-count="33" meta:object-count="2" meta:page-count="26" meta:paragraph-count="338" meta:word-count="7068" meta:character-count="43329" meta:non-whitespace-character-count="36676"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T17:48:06.558716292</dc:date><meta:editing-duration>P6DT15H58M13S</meta:editing-duration><meta:editing-cycles>266</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="10" meta:image-count="33" meta:object-count="2" meta:page-count="26" meta:paragraph-count="338" meta:word-count="7068" meta:character-count="43329" meta:non-whitespace-character-count="36676"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">35560</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">2117</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">23338</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">14501</config:config-item>
@@ -16,9 +16,9 @@
      <config:config-item config:name="ViewLeft" config:type="long">8386</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">3949</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">2117</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">35560</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">25453</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">14499</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">50059</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3536822</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3550675</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -2584,7 +2584,7 @@
           LW4X5jmbQU9MAA6/hg/YU/maT6EMoAM6JzFl5i3LalxWWz//2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto0" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Estado inicial 1</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto19" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Estado inicial 1</text:p>
      </draw:text-box>
     </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco21" text:anchor-type="as-char" svg:y="-5.941cm" svg:width="7.47cm" svg:height="5.602cm" style:rel-height="scale-min" draw:z-index="4">
      <draw:text-box>
@@ -2803,7 +2803,7 @@
           zK0AueI7TDE2Zq9xVahb5jnXrpyfmYRD4iHLiFPZn//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto1" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">2</text:sequence>: Estado inicial 2</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto20" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">2</text:sequence>: Estado inicial 2</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Marco22" text:anchor-type="as-char" svg:y="-7.331cm" svg:width="8.543cm" svg:height="6.406cm" style:rel-height="scale-min" draw:z-index="18">
@@ -3026,7 +3026,7 @@
           h+D/AOM//9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto2" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">3</text:sequence>: Estado inicial 3</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto21" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">3</text:sequence>: Estado inicial 3</text:p>
      </draw:text-box>
     </draw:frame><draw:frame draw:style-name="fr2" draw:name="Marco23" text:anchor-type="as-char" svg:y="-7.332cm" svg:width="7.435cm" svg:height="7.107cm" style:rel-height="scale-min" draw:z-index="29">
      <draw:text-box>
@@ -3236,7 +3236,7 @@
           zNPNMVm0l64jMDkiSrENYY/wfmQjV/G5pHeMdR3F6GE3uZb1n//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto3" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">4</text:sequence>: Estado inicial 4</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto22" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">4</text:sequence>: Estado inicial 4</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P13">Al momento de iniciar el proceso la máquina se encontraba en un estado similar al mostrado en las fotos anteriores, en las mismas puede notarse que la máquina se encontraba desmantelada, con su bancada colocada, pero sin ninguna chapa protectora, el cambiador de herramientas desarmado, los circuitos neumáticos e hidráulicos desconectados, el cableado eléctrico a medio hacer. Aproximadamente un año antes de iniciadas las tareas se había iniciado un proceso de reingenería pero no se había concluido y la máquina había quedado en un estado inutilizable, el proceso mencionado mencionado no fue documentado, por lo cuál se desconocían las decisiones de diseño por la cuál los distintos componentes habían sido elegidos, ni siquiera se sabía si los distintos módulos instalados funcionaban.</text:p>
@@ -3393,7 +3393,7 @@
              AVyGiKZiVl1Hn6j1/A1P/9k=
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto4" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">5</text:sequence>: Driver del husillo</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto23" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">5</text:sequence>: Driver del husillo</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -3517,7 +3517,7 @@
              n//Z
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto5" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">6</text:sequence>: Motor del husillo</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto24" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">6</text:sequence>: Motor del husillo</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -3682,7 +3682,7 @@
              EQz8EtLJ5I1ucA+g2LRUFJ3P/9k=
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto6" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">7</text:sequence>: Drivers ejes X, Z y T</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto25" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">7</text:sequence>: Drivers ejes X, Z y T</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -3835,7 +3835,7 @@
              XjtRRXLU2NzNRjcXMfmEtuODn0rdjRVXAAAHQCiisZ9CWf/Z
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto7" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">8</text:sequence>: Motores ejes X, Z y T</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto26" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">8</text:sequence>: Motores ejes X, Z y T</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4025,7 +4025,7 @@
              zibGCM//2Q==
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto8" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">9</text:sequence>: Fuente de corriente continua</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto27" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">9</text:sequence>: Fuente de corriente continua</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4171,7 +4171,7 @@
              I//Z
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto9" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">10</text:sequence>: <text:span text:style-name="T5">Vista </text:span>Frontal</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto28" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">10</text:sequence>: <text:span text:style-name="T5">Vista </text:span>Frontal</text:p>
         </draw:text-box>
        </draw:frame></text:p>
       <text:p text:style-name="P67"/>
@@ -4246,7 +4246,7 @@
              yMORj8qKK6FsZVNih8bGZ/htqgZiwd7RGyeoN1CCK9MPNzNnnn+pooropfEc8j//2Q==
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto10" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">11</text:sequence>: Vista frontal</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto29" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">11</text:sequence>: Vista frontal</text:p>
         </draw:text-box>
        </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco6" text:anchor-type="as-char" svg:y="-4.117cm" svg:width="3.958cm" draw:z-index="12">
         <draw:text-box fo:min-height="4.193cm">
@@ -4307,7 +4307,7 @@
              sGtzeWPNM2C3fGBRRRLYinufpXHxGv0FFFFdC2Rm9z//2Q==
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto11" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">12</text:sequence>: Vista trasera</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto30" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">12</text:sequence>: Vista trasera</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4392,7 +4392,7 @@
              Egx83vxRXWndHA1Z2P/Z
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto12" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">13</text:sequence>: Contactor principal</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto31" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">13</text:sequence>: Contactor principal</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4515,7 +4515,7 @@
              lYA5btWpo8YC9qLlo//Z
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto13" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">14</text:sequence>: Interruptor principal</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto32" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">14</text:sequence>: Interruptor principal</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4635,7 +4635,7 @@
              uS2/qGun/9k=
             </office:binary-data>
            </draw:image>
-          </draw:frame>Foto <text:sequence text:ref-name="refFoto14" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">15</text:sequence>: Transformador <text:span text:style-name="T17">2</text:span>20-110V trifásico</text:p>
+          </draw:frame>Foto <text:sequence text:ref-name="refFoto33" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">15</text:sequence>: Transformador <text:span text:style-name="T17">2</text:span>20-110V trifásico</text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
@@ -4644,25 +4644,7 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="SECTION00340000000000000000"/><text:bookmark-start text:name="__RefHeading__188310_359546015"/>Conexionado inicial, primer arranque de controladora<text:bookmark-end text:name="__RefHeading__188310_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Con la información recabada en dichos manuales se armo un diagrama de conexionado inicial, el cuál permitiese encender la controladora, dado que se desconocía si la controladora se encontraba en estado funcional o si la misma había sido bloqueada de alguna forma que impidiese la realización del proyecto.</text:p>
    <text:p text:style-name="Text_20_body">El primer inconveniente surgió al momento de no saber de la existencia del transformador principal el cuál es externo a la máquina y se encontraba alejado de la misma. La fuente de CC (corriente continua) estaba configurada para trabajar en 220V, y la conexión a la misma era entre fases (tensión de linea), si la conexión hubiese sido directa a la red disponible en Rosario eso hubiese significado <draw:frame draw:style-name="fr13" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.81cm" svg:height="0.504cm" draw:z-index="67"><draw:object>
-      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-       <semantics>
-        <mrow>
-         <mrow>
-          <mrow>
-           <mn>220</mn>
-           <mo stretchy="false">⋅</mo>
-           <msqrt>
-            <mn>3</mn>
-           </msqrt>
-          </mrow>
-          <mo stretchy="false">=</mo>
-          <mn>380</mn>
-         </mrow>
-         <mi>V</mi>
-        </mrow>
-        <annotation encoding="StarMath 5.0">220 cdot sqrt 3 = 380V</annotation>
-       </semantics>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"/>
      </draw:object><draw:image>
       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfoKAAD5
        AQAAQgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPkKAAD4AQAAlQAB
@@ -4696,25 +4678,7 @@
     </draw:frame>aplicado<text:span text:style-name="T5">s</text:span> a la entrada de la fuente, lo cuál obviamente hubiese dañado la misma.</text:p>
    <text:p text:style-name="Text_20_body">Se procedió a desconectar los cables a la salida del interruptor principal y medir la tensión de linea y fase disponible a la entrada de dicho interruptor. Se constato que la tensión de linea era de aproximadamente 200V eficaces lo cuál se corresponde con la existencia de un transformador 220V/110V <text:span text:style-name="T5">conectado como estrella-triángulo </text:span>entre la linea de distribución eléctrica de la ciudad de Rosario y dicho interruptor, a continuación se paso a identificar el transformador disponible.</text:p>
    <text:p text:style-name="Text_20_body">Suponiendo la existencia de dicho transformador la tensión de linea resulta <draw:frame draw:style-name="fr13" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.79cm" svg:height="0.504cm" draw:z-index="20"><draw:object>
-      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-       <semantics>
-        <mrow>
-         <mrow>
-          <mrow>
-           <mn>110</mn>
-           <mo stretchy="false">⋅</mo>
-           <msqrt>
-            <mn>3</mn>
-           </msqrt>
-          </mrow>
-          <mo stretchy="false">=</mo>
-          <mn>190</mn>
-         </mrow>
-         <mi>V</mi>
-        </mrow>
-        <annotation encoding="StarMath 5.0">110 cdot sqrt 3 = 190V</annotation>
-       </semantics>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"/>
      </draw:object><draw:image>
       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAecKAAD5
        AQAAQgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAOYKAAD4AQAAlQAB
@@ -5430,7 +5394,7 @@
           KzZOQM+9FIrbVAoqguf/2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto15" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">16</text:sequence>: Parada Emergencia</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto34" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">16</text:sequence>: Parada Emergencia</text:p>
      </draw:text-box>
     </draw:frame> <text:s text:c="2"/><draw:frame draw:style-name="fr4" draw:name="Marco12" text:anchor-type="as-char" svg:width="3.464cm" draw:z-index="25">
      <draw:text-box fo:min-height="4.297cm">
@@ -5486,7 +5450,7 @@
           rLguH3syP9GEbC3sOgX7iaQbO+wCViuQKhf2LOfspbIHYsWh5iWF/PkWrq36wRf+p//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto16" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">17</text:sequence>: CNC ON</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto35" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">17</text:sequence>: CNC ON</text:p>
      </draw:text-box>
     </draw:frame> <text:s text:c="2"/><draw:frame draw:style-name="fr4" draw:name="Marco13" text:anchor-type="as-char" svg:width="6.72cm" draw:z-index="27">
      <draw:text-box fo:min-height="2.91cm">
@@ -5582,7 +5546,7 @@
           qrhExWYdU//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto17" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">18</text:sequence>: Machine ON / OFF</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto36" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">18</text:sequence>: Machine ON / OFF</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P18">Se interpuso entre el interruptor principal y el paralelo formado entre la fuente de continua y el transformador de 24VAC, un disyuntor bipolar de 5A, el cual protege dichos componentes de sobre corriente por corto circuitos. Se decidió utilizar disyuntor en vez de fusibles ya que dado que la máquina tiene que estar en una línea de producción se requiere que la misma pueda volver a servicio no bien se pueda solucionar la causa del fallo, y no es tolerable esperar el tiempo necesario para cambiar un fusible por falta de stock.</text:p>
@@ -5869,11 +5833,11 @@
           h8Q4dz2GIZZuOoYhN8b43Nsym4fM1x7DP4hNxxxompvj+cNxxNE3HjybjiGpqGJ//9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto18" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">19</text:sequence>: Alimentación de panel de operador</text:p>
+       </draw:frame>Foto <text:sequence text:ref-name="refFoto37" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">19</text:sequence>: Alimentación de panel de operador</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P18">En el diseño de la máquina original la controladora se encendía cuando se cerraba el interruptor principal, si bien dicha funcionalidad es aceptable en este tipo de máquina, no permite depurar problemas en el inicio de la máquina.</text:p>
-   <text:p text:style-name="P18">Por ello se decidió utilizar un pulsador y un relé de retención para encender la controladora, dado que ya se disponía de un pulsador de color verde en la misma controladora, se decidió reutilizarlo para hacer las veces de CNC ON, manteniendo su función primaria como CYCLE START, el mismo fue fotografiado y puede ser visto en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto16">Foto 17</text:sequence-ref>.</text:p>
+   <text:p text:style-name="P18">Por ello se decidió utilizar un pulsador y un relé de retención para encender la controladora, dado que ya se disponía de un pulsador de color verde en la misma controladora, se decidió reutilizarlo para hacer las veces de CNC ON, manteniendo su función primaria como CYCLE START, el mismo fue fotografiado y puede ser visto en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto35">Foto 17</text:sequence-ref>.</text:p>
    <text:p text:style-name="P18">Inicialmente el contactor KCNCON se encuentra abierto lo mismo que el pulsador CNC ON. Cuando el operario presiona dicho pulsador se energiza la bobina del relé KCNCON y se cierra el contactor KCNCON reteniendo el estado encendido de la controladora e iniciando la secuencia de arranque de la controladora. Dicho estado se mantiene hasta que se abra el interruptor principal, o se pierda la energía de la red.</text:p>
    <text:p text:style-name="P18">No se dispuso al usuario de un botón para apagar la controladora en el panel de operación a fin de evitar que se pueda apagar la controladora en medio de una operación de mecanizado por accidente.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="SECTION00353000000000000000"/><text:bookmark-start text:name="__RefHeading__188318_359546015"/>Conexionado <text:span text:style-name="T8">de ejes</text:span><text:bookmark-end text:name="__RefHeading__188318_359546015"/></text:h>

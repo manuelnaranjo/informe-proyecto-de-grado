@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T16:47:58.607963925</dc:date><meta:editing-duration>P3DT23H56M27S</meta:editing-duration><meta:editing-cycles>265</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="27" meta:object-count="1" meta:page-count="37" meta:paragraph-count="296" meta:word-count="6539" meta:character-count="38759" meta:non-whitespace-character-count="32352"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T17:48:02.562592655</dc:date><meta:editing-duration>P4DT21M29S</meta:editing-duration><meta:editing-cycles>266</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="27" meta:object-count="1" meta:page-count="37" meta:paragraph-count="296" meta:word-count="6539" meta:character-count="38759" meta:non-whitespace-character-count="32352"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
@@ -82,7 +82,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3978681</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4051323</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8AUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -3634,43 +3634,7 @@
    <text:p text:style-name="Text_20_body"><text:soft-page-break/>El sistema mecánico de traba se compone de varias clavijas metálicas calibradas las cuales se encuentran distribuidas geométricamente tanto en el plato como en la bancada, dichas clavijas se distribuyen en contraposición. Donde se ubica un agujero en el plato se coloca una clavija de la bancada, de tal forma que cuando el sistema se somete al trabajo realizado por la presión neumática tanto las clavijas de la bancada como las del plato formen una corona metálica casi perfecta, sin espacios vacíos. Dicha disposición permite que al momento de trabajar la herramienta sobre la pieza de corte los torques resultantes por el desbaste sean absorbidos mecánicamente por la traba mecánica y no por el servo motor.</text:p>
    <text:p text:style-name="Text_20_body">Este sistema calibrado mecánicamente junto con el hecho de que el sistema cuenta con una caja reductora de relación permite con poca precisión en el movimiento del motor que tracciona el plato una gran precisión en la ubicación final de la herramienta, al punto de permitir errores tolerables <text:span text:style-name="T5">menores</text:span> a <text:span text:style-name="T6">±</text:span>1 grado, garantizando la ubicación de la herramienta.</text:p>
    <text:p text:style-name="P21">Pero para que ello funcione es necesario contar con un punto de referencia (homing) solidario al plato (IREF0T), una vez detectado dicha referencia la ubicación de las herramientas queda determinada sencillamente con la siguiente ecuación:<draw:frame draw:style-name="fr7" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="5.47cm" svg:height="0.506cm" draw:z-index="24"><draw:object>
-      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-       <semantics>
-        <mrow>
-         <mrow>
-          <mi mathvariant="normal">θ</mi>
-          <mo stretchy="false">=</mo>
-          <mrow>
-           <mrow>
-            <mo fence="true" stretchy="false">(</mo>
-            <mrow>
-             <mrow>
-              <mi>T</mi>
-              <mo stretchy="false">−</mo>
-              <mn>1</mn>
-             </mrow>
-            </mrow>
-            <mo fence="true" stretchy="false">)</mo>
-           </mrow>
-           <mo stretchy="false">⋅</mo>
-           <mn>36</mn>
-          </mrow>
-         </mrow>
-         <mi>°</mi>
-         <mspace width="2em"/>
-         <mi mathvariant="italic">con</mi>
-         <mspace width="2em"/>
-         <mrow>
-          <mn>1</mn>
-          <mo stretchy="false">≤</mo>
-          <mi>T</mi>
-          <mo stretchy="false">≤</mo>
-          <mn>10</mn>
-         </mrow>
-        </mrow>
-        <annotation encoding="StarMath 5.0">%theta = ( T - 1 ) cdot 36° ~ con ~ 1 &lt;= T &lt;= 10</annotation>
-       </semantics>
-      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"/>
      </draw:object><draw:image>
       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAV0VAAD7
        AQAAeAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAFwVAAD6AQAAlQAB
