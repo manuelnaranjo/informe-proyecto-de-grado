@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-02T21:15:40.106070486</dc:date><meta:editing-duration>P6DT18H45M21S</meta:editing-duration><meta:editing-cycles>256</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="8" meta:image-count="27" meta:object-count="6" meta:page-count="38" meta:paragraph-count="585" meta:word-count="4984" meta:character-count="29598" meta:non-whitespace-character-count="25222"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-02T21:24:59.524760251</dc:date><meta:editing-duration>P6DT18H54M40S</meta:editing-duration><meta:editing-cycles>257</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="8" meta:image-count="27" meta:object-count="6" meta:page-count="31" meta:paragraph-count="585" meta:word-count="4984" meta:character-count="29598" meta:non-whitespace-character-count="25222"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
@@ -4695,9 +4695,9 @@
    <text:p text:style-name="P39">El ajuste de los ejes fue lo siguiente que se ajusto una vez que se tenían definidos parámetros generales de la máquina. El proceso de ajuste fue iterativo partiendo de la configuración más sencilla y general, hasta llegar a la más compleja y especifica. Para esto se usaron tanto los métodos sugeridos por Fagor como los sugeridos por Estun en el manual de los motores y drivers, <text:span text:style-name="T30">se combinaron los métodos propuestos por ambos fabricantes y se llego al procedimiento descripto en esté capítulo</text:span>. <text:span text:style-name="T34">Durante todo el proceso se asume que es sólo un eje el que está siendo ajustado, estando los otros desconectados mecánicamente de la máquina o ya ajustados y controlados.</text:span></text:p>
    <text:h text:style-name="P16" text:outline-level="3"><text:span text:style-name="T33">P</text:span>rueba del servomotor sin carga mecánica</text:h>
    <text:p text:style-name="P39">Estun al igual que Fagor sugieren que la primeras pruebas se realicen sin carga mecánica, por lo cuál se procedieron a desacoplar mecánicamente los 3 motores (ejes X y Z y cambiador de herramientas), para ello se removieron las crucetas de acople mostradas en la foto de la izquierda, quedando los motores como se muestran a la derecha, siguiendo las recomendaciones de Estun se amuraron los motores a la estructura metálica a fin de evitar que los mismos se pudiesen mover.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco1" text:anchor-type="as-char" svg:width="6.729cm" draw:z-index="0">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco1" text:anchor-type="as-char" svg:width="6.729cm" draw:z-index="20">
      <draw:text-box fo:min-height="6.638cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr7" draw:name="Imagen1" text:anchor-type="paragraph" svg:y="0cm" svg:width="5.309cm" svg:height="6.214cm" style:rel-height="scale" draw:z-index="1"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr7" draw:name="Imagen1" text:anchor-type="paragraph" svg:y="0cm" svg:width="5.309cm" svg:height="6.214cm" style:rel-height="scale" draw:z-index="21"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -4805,9 +4805,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto0" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Cruceta de acople de motores</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Marco2" text:anchor-type="as-char" svg:y="-3.35cm" svg:width="8.17cm" draw:z-index="2">
+    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Marco2" text:anchor-type="as-char" svg:y="-3.35cm" svg:width="8.17cm" draw:z-index="22">
      <draw:text-box fo:min-height="6.701cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen3" text:anchor-type="paragraph" svg:x="0.725cm" svg:y="0cm" svg:width="7.093cm" svg:height="6.114cm" style:rel-height="scale" draw:z-index="3"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen3" text:anchor-type="paragraph" svg:x="0.725cm" svg:y="0cm" svg:width="7.093cm" svg:height="6.114cm" style:rel-height="scale" draw:z-index="23"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -4959,9 +4959,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P39">El sistema resultante se puede esqu<text:span text:style-name="T29">e</text:span>matizar con el siguiente dibujo, en está operación se comprobaron que las siguientes conexiones están realizadas satisfactoriamente: cableado de alimentación de potencia, cableado al motor, cableado del encoder, dirección de rotación y velocidad del motor.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco3" text:anchor-type="as-char" svg:y="-0.004cm" svg:width="14.792cm" draw:z-index="4">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco3" text:anchor-type="as-char" svg:y="-0.004cm" svg:width="14.792cm" draw:z-index="24">
      <draw:text-box fo:min-height="11.275cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen2" text:anchor-type="paragraph" svg:width="14.093cm" svg:height="10.56cm" style:rel-height="scale" draw:z-index="5"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen2" text:anchor-type="paragraph" svg:width="14.093cm" svg:height="10.56cm" style:rel-height="scale" draw:z-index="25"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -5304,9 +5304,9 @@
    <text:p text:style-name="P40">Si alguno de estos fallase el panel de operador del driver lo informe correctamente, por ejemplo el cableado inicial de los encoders estaba hecho mal en los 3 motores, con algunos cables cruzados o desconectados, sin seguir un patrón común de conexionado y el driver mostró la alarma A50 correspondiente a error de comunicación con <text:span text:style-name="T30">el </text:span>encoder <text:span text:style-name="T30">correspondiente</text:span>.</text:p>
    <text:h text:style-name="P17" text:outline-level="3"><text:span text:style-name="T33">P</text:span>rueba del servomotor sin carga con señal del CNC</text:h>
    <text:p text:style-name="P40">En está operación se conecta la señal de control proveniente del CNC y la realimentación de posición que provee el driver para comprobar la calidad de la conexión del lazo de control, se comprueba que los siguientes conexionados son buenos: señales de entrada/salida entre el CNC y el driver, dirección de rotación, velocidad y número de rotaciones del motor, operación del freno, sobre recorrido y otras protecciones. El siguiente dibujo muestra parte de la conexión realizada.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco4" text:anchor-type="as-char" svg:width="14.153cm" draw:z-index="6">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco4" text:anchor-type="as-char" svg:width="14.153cm" draw:z-index="26">
      <draw:text-box fo:min-height="12.003cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen4" text:anchor-type="paragraph" svg:width="12.206cm" svg:height="11.977cm" style:rel-height="scale" draw:z-index="7"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen4" text:anchor-type="paragraph" svg:width="12.206cm" svg:height="11.977cm" style:rel-height="scale" draw:z-index="27"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -5694,9 +5694,9 @@
      <text:p text:style-name="P160"><text:span text:style-name="T23">Documentar</text:span><text:span text:style-name="T19"> el valor de Fn004 que compensa el offset de cruce por 0.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco5" text:anchor-type="as-char" svg:width="17cm" draw:z-index="8">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco5" text:anchor-type="as-char" svg:width="17cm" draw:z-index="28">
      <draw:text-box fo:min-height="13.049cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen5" text:anchor-type="paragraph" svg:width="17cm" svg:height="13.049cm" style:rel-height="scale" draw:z-index="9"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen5" text:anchor-type="paragraph" svg:width="17cm" svg:height="13.049cm" style:rel-height="scale" draw:z-index="29"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -6201,7 +6201,7 @@
      <text:p text:style-name="P166"><text:span text:style-name="T33">Ajustar el CNC de forma que la máxima tensión de control entregada sea 9,5V para ello hacer </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T33">MAXVOLT=9500</text:span></text:span>, <text:span text:style-name="T33">configurar avance máximo con:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P86"><draw:frame draw:style-name="fr10" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="7.407cm" svg:height="0.998cm" draw:z-index="13"><draw:object>
+   <text:p text:style-name="P86"><draw:frame draw:style-name="fr10" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="7.407cm" svg:height="0.998cm" draw:z-index="33"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -6283,9 +6283,9 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:list xml:id="list211540567846400" text:continue-numbering="true" text:style-name="L5">
+   <text:list xml:id="list212460655168093" text:continue-numbering="true" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P167">Ajustar en el driver el parámetro <text:span text:style-name="codigo2">Pn300</text:span> <text:span text:style-name="T17">ganancia de referencia de velocidad</text:span><text:span text:style-name="T19"> en</text:span><text:span text:style-name="T19"><draw:frame draw:style-name="fr10" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="5.913cm" svg:height="0.998cm" draw:z-index="16"><draw:object>
+     <text:p text:style-name="P167">Ajustar en el driver el parámetro <text:span text:style-name="codigo2">Pn300</text:span> <text:span text:style-name="T17">ganancia de referencia de velocidad</text:span><text:span text:style-name="T19"> en</text:span><text:span text:style-name="T19"><draw:frame draw:style-name="fr10" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="5.913cm" svg:height="0.998cm" draw:z-index="36"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -6372,7 +6372,7 @@
      <text:p text:style-name="P169">En la controladora hacer <text:span text:style-name="codigo2"><text:span text:style-name="T35">JOGFEED=5mm/min</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P169"><text:span text:style-name="T35">Seleccionar modo de operación manual, presionar alguno de los botones de desplazamiento JOG correspondientes al eje y comprobar que la velocidad de avance es de </text:span><text:span text:style-name="T35"><draw:frame draw:style-name="fr10" draw:name="Objeto3" text:anchor-type="as-char" svg:y="-1.15cm" svg:width="4.096cm" svg:height="2.058cm" draw:z-index="29"><draw:object>
+     <text:p text:style-name="P169"><text:span text:style-name="T35">Seleccionar modo de operación manual, presionar alguno de los botones de desplazamiento JOG correspondientes al eje y comprobar que la velocidad de avance es de </text:span><text:span text:style-name="T35"><draw:frame draw:style-name="fr10" draw:name="Objeto3" text:anchor-type="as-char" svg:y="-1.15cm" svg:width="4.096cm" svg:height="2.058cm" draw:z-index="49"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -6665,7 +6665,7 @@
    <text:p text:style-name="P15">IREF0X=DECELX;</text:p>
    <text:p text:style-name="P15">IREF0Z=DECELZ;</text:p>
    <text:p text:style-name="P15">IREF0T=DECELY;</text:p>
-   <text:list xml:id="list211540993555104" text:continue-numbering="true" text:style-name="L8">
+   <text:list xml:id="list212461137366898" text:continue-numbering="true" text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P178"><text:span text:style-name="T39">Dado que los sensores son del tipo normal abierto configurar </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T39">REFPULSE=+</text:span></text:span> <text:span text:style-name="T43">(flanco positivo). En los 3 ejes la búsqueda de referencia se realiza en el sentido positivo por lo cual se tiene que hacer </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T43">REFDIREC=+</text:span></text:span>.</text:p>
     </text:list-item>
@@ -6679,7 +6679,7 @@
    <text:p text:style-name="bloque_20_de_20_código"><text:span text:style-name="codigo2"><text:span text:style-name="T45">G74 X ; búsqueda de referencia eje X</text:span></text:span></text:p>
    <text:p text:style-name="bloque_20_de_20_código"><text:span text:style-name="codigo2"><text:span text:style-name="T45">G74 Z ; búsqueda de referencia eje Z</text:span></text:span></text:p>
    <text:p text:style-name="bloque_20_de_20_código"><text:span text:style-name="codigo2"><text:span text:style-name="T45">G74 Y ; búsqueda de referencia eje Y</text:span></text:span></text:p>
-   <text:list xml:id="list211541477051732" text:continue-numbering="true" text:style-name="L8">
+   <text:list xml:id="list212460843170611" text:continue-numbering="true" text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P171"><text:span text:style-name="T44">Con los ejes X y Z posicionados en sus respectivas referencias moverlos manualmente hasta la posición que se considera segura como fin de carrera. Anotar el valor mostrado en pantalla y configurar los siguientes límites: </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T44">LIMIT+=100mm</text:span></text:span> <text:span text:style-name="T44">y </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T44">LIMIT-=&lt;valor anotado&gt;</text:span></text:span><text:span text:style-name="T44">.</text:span></text:p>
     </text:list-item>
@@ -6813,7 +6813,7 @@
    <text:p text:style-name="P61">Luego se procedió al ajuste de cada una de las respectivas ganancias.</text:p>
    <text:h text:style-name="P148" text:outline-level="4">Ganancia proporcional</text:h>
    <text:p text:style-name="P62"><text:span text:style-name="T46">Dada la formula: </text:span><text:span text:style-name="T47">Salida = Ganancia proporcional x Error de seguimiento</text:span><text:span text:style-name="T50">,</text:span><text:span text:style-name="T49"> para calcular la ganancia proporcional es necesario calcular la salida correspondiente a un avance </text:span><text:span text:style-name="T51">F</text:span><text:span text:style-name="T49"> conocido, se eligió </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T48">F=1m/min</text:span></text:span> <text:span text:style-name="T52">como recomendaba Fagor.</text:span></text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T52">Dado esté valor de F, y conocidas </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">G00FEED</text:span></text:span><text:span text:style-name="T52"> y </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">MAXVOLT</text:span></text:span> <text:span text:style-name="T52">se puede aplicar la siguiente formular para ajustar un </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">PROGRAIN</text:span></text:span><text:span text:style-name="T52"> inicial: <text:s/></text:span><draw:frame draw:style-name="fr10" draw:name="Objeto4" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="4.9cm" svg:height="0.998cm" draw:z-index="30"><draw:object>
+   <text:p text:style-name="P64"><text:span text:style-name="T52">Dado esté valor de F, y conocidas </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">G00FEED</text:span></text:span><text:span text:style-name="T52"> y </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">MAXVOLT</text:span></text:span> <text:span text:style-name="T52">se puede aplicar la siguiente formular para ajustar un </text:span><text:span text:style-name="codigo2"><text:span text:style-name="T52">PROGRAIN</text:span></text:span><text:span text:style-name="T52"> inicial: <text:s/></text:span><draw:frame draw:style-name="fr10" draw:name="Objeto4" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="4.9cm" svg:height="0.998cm" draw:z-index="50"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -6953,9 +6953,9 @@
    <text:p text:style-name="P68">Se midió la señal de control entregada por el CNC para verificar que no hubiesen inestabilidades en el sistema, a continuación se incluyen alguno de los resultados obtenidos.</text:p>
    <text:h text:style-name="P154" text:outline-level="5">Eje X, pruebas realizadas <text:span text:style-name="T57">con movimientos 10&lt;=X&lt;=290</text:span></text:h>
    <text:p text:style-name="P70">La siguiente serie de capturas muestra el proceso empleado para el ajuste del driver del eje X, se puede observar que se partió con una velocidad de avance rápido menor a la <text:span text:style-name="T57">final de producción, luego se configuro la velocidad final pero se limito el máximo avance con el selector de FEEDOVERIDE hasta llevarlo al 100%. Finalmente se probaron con distintas valores de DERGAIN pero no hubo cambio aparente.</text:span></text:p>
-   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco6" text:anchor-type="as-char" svg:width="17cm" draw:z-index="31">
+   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco6" text:anchor-type="as-char" svg:width="17cm" draw:z-index="51">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen6" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="32"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen6" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="52"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -7170,9 +7170,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing2" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: <text:span text:style-name="T55">Señal de velocidad en el e</text:span>je X, <text:span text:style-name="T56">G00FEED genérico</text:span></text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco10" text:anchor-type="as-char" svg:width="17cm" draw:z-index="34">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco10" text:anchor-type="as-char" svg:width="17cm" draw:z-index="54">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen10" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="35"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen10" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="55"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -7374,9 +7374,9 @@
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Señal de velocidad en el eje X, G00FEED=15000, FEEDOVERIDE=30%</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco11" text:anchor-type="as-char" svg:width="17cm" draw:z-index="36">
+   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco11" text:anchor-type="as-char" svg:width="17cm" draw:z-index="56">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen11" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="37"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen11" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="57"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -7591,9 +7591,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Señal de velocidad en el eje X, G00FEED=15000, FEEDOVERIDE=70%</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco9" text:anchor-type="as-char" svg:width="17cm" draw:z-index="38">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco9" text:anchor-type="as-char" svg:width="17cm" draw:z-index="58">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen9" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="39"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen9" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="59"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -7823,9 +7823,9 @@
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Señal de velocidad en el eje X, G00FEED=1500<text:span text:style-name="T56">0, FEEDOVERIDE=100%</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco7" text:anchor-type="as-char" svg:width="17cm" draw:z-index="17">
+   <text:p text:style-name="P142"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco7" text:anchor-type="as-char" svg:width="17cm" draw:z-index="37">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen7" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="18"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen7" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="38"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -8288,9 +8288,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Señal de velocidad en el eje X, <text:span text:style-name="T56">G00FEED=15000, </text:span>DERGAIN=290</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco8" text:anchor-type="as-char" svg:width="17cm" draw:z-index="25">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco8" text:anchor-type="as-char" svg:width="17cm" draw:z-index="45">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen8" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="33"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen8" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="53"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -8514,9 +8514,9 @@
     </draw:frame></text:p>
    <text:p text:style-name="P72">Se observa que DERGAIN no produce cambios importantes, salvo por un crecimiento algo más lento de la velocidad, aún así no hay cambios aparentes en el tiempo que demora el movimiento, activando AC-forward se producían los mencionados ruidos.</text:p>
    <text:h text:style-name="P37" text:outline-level="5">Eje Z</text:h>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco12" text:anchor-type="as-char" svg:width="17cm" draw:z-index="14">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco12" text:anchor-type="as-char" svg:width="17cm" draw:z-index="34">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen12" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="19"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen12" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="39"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -8758,9 +8758,9 @@
     </draw:frame></text:p>
    <text:p text:style-name="P72">Las pruebas para el eje Z fueron similares a las realizadas para el X por eso no se repetirán las imágenes de las distintas etapas, pero sí se mostrará el resultado final.</text:p>
    <text:h text:style-name="P36" text:outline-level="5">Eje Y (cambiador de herramientas)</text:h>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco13" text:anchor-type="as-char" svg:width="17cm" draw:z-index="20">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco13" text:anchor-type="as-char" svg:width="17cm" draw:z-index="40">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen13" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="21"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen13" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="41"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -8979,9 +8979,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">10</text:sequence>: Eje Y inicial</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco14" text:anchor-type="as-char" svg:width="17cm" draw:z-index="22">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco14" text:anchor-type="as-char" svg:width="17cm" draw:z-index="42">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen14" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="23"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen14" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="43"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -9170,9 +9170,9 @@
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">11</text:sequence>: Eje Y, PROGAIN=500, G00FEED=3000</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P143"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco15" text:anchor-type="as-char" svg:width="17cm" draw:z-index="24">
+   <text:p text:style-name="P143"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco15" text:anchor-type="as-char" svg:width="17cm" draw:z-index="44">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen15" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="26"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen15" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="46"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -9355,9 +9355,9 @@
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">12</text:sequence>: Eje Y, PROGAIN=750, G00FEED=3000</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P143"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco21" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+   <text:p text:style-name="P143"><draw:frame draw:style-name="fr3" draw:name="Marco21" text:anchor-type="as-char" svg:width="17cm" draw:z-index="18">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen21" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen21" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="19"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -9537,9 +9537,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P143"/>
-   <text:p text:style-name="P143"><draw:frame draw:style-name="fr3" draw:name="Marco22" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+   <text:p text:style-name="P143"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco22" text:anchor-type="as-char" svg:width="17cm" draw:z-index="16">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen22" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen22" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="17"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -9720,9 +9720,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P73">Se noto que con PROGAIN en 750 la repuesta era lo menos oscilante posible, por lo cual se prefirió dicha ganancia.</text:p>
-   <text:p text:style-name="P143"><draw:frame draw:style-name="fr3" draw:name="Marco16" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+   <text:p text:style-name="P143"><draw:frame draw:style-name="fr3" draw:name="Marco16" text:anchor-type="as-char" svg:width="17cm" draw:z-index="14">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen16" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen16" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="15"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -9913,9 +9913,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing14" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">15</text:sequence>: Eje Y, PROGAIN=750, G00FEED=4000</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco17" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco17" text:anchor-type="as-char" svg:width="17cm" draw:z-index="12">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen17" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen17" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="13"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -10105,9 +10105,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing15" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">16</text:sequence>: Eje Y, PROGAIN=750, G00FEED=5000</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco18" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco18" text:anchor-type="as-char" svg:width="17cm" draw:z-index="10">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen18" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen18" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="11"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -10299,9 +10299,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing16" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">17</text:sequence>: Eje Y, PROGAIN=750, G00FEED=10000</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco19" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco19" text:anchor-type="as-char" svg:width="17cm" draw:z-index="8">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen19" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen19" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="9"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -10483,9 +10483,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing17" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">18</text:sequence>: Eje Y, PROGAIN=750, G00FEED=12000, <text:span text:style-name="T58">recorrido 120</text:span><text:span text:style-name="T6">°</text:span></text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco20" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco20" text:anchor-type="as-char" svg:width="17cm" draw:z-index="6">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="P144"><draw:frame draw:style-name="fr9" draw:name="Imagen20" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="P144"><draw:frame draw:style-name="fr9" draw:name="Imagen20" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="7"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -10671,9 +10671,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P73">Se nota en la imagen anterior que el haber configurado el lazo de realimentación FeedForward el sistema empezó a presentar sobre-picos con lo cual se procedió a desactivar la realimentación FF.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr5" draw:name="Marco23" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="10">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr5" draw:name="Marco23" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="30">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen23" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="11"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen23" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="31"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -10865,9 +10865,9 @@
         </draw:image>
        </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing19" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">20</text:sequence>: Eje Y, PROGAIN=750, G00FEED=12500</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco24" text:anchor-type="as-char" svg:width="17cm" draw:z-index="0">
+    </draw:frame><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Marco24" text:anchor-type="as-char" svg:width="17cm" draw:z-index="4">
      <draw:text-box fo:min-height="8.394cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen24" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen24" text:anchor-type="paragraph" svg:width="17cm" svg:height="8.394cm" style:rel-height="scale" draw:z-index="5"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBM
           S0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZT
           fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wgAR
@@ -11143,7 +11143,6 @@
       <text:p text:style-name="P137">No se dispone de caja de relaciones</text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Tabla7.1">
      <table:table-cell table:style-name="Tabla7.A9" office:value-type="string">
       <text:p text:style-name="P129"><text:span text:style-name="codigo2"><text:span text:style-name="T14">MAXGEAR2 </text:span></text:span><text:span text:style-name="codigo2"><text:span text:style-name="T13">(P</text:span></text:span><text:span text:style-name="codigo2"><text:span text:style-name="T15">3</text:span></text:span><text:span text:style-name="codigo2"><text:span text:style-name="T13">)</text:span></text:span></text:p>
@@ -11174,7 +11173,6 @@
      <table:covered-table-cell/>
      <table:covered-table-cell/>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Tabla7.1">
      <table:table-cell table:style-name="Tabla7.A9" office:value-type="string">
       <text:p text:style-name="P130"><text:span text:style-name="codigo2"><text:span text:style-name="T12">AUTOGEAR</text:span></text:span><text:span text:style-name="codigo2"> (P6)</text:span></text:p>
@@ -11201,6 +11199,7 @@
       <text:p text:style-name="P130">Señal siempre positiva</text:p>
      </table:table-cell>
     </table:table-row>
+    <text:soft-page-break/>
     <table:table-row table:style-name="Tabla7.1">
      <table:table-cell table:style-name="Tabla7.A10" office:value-type="string">
       <text:p text:style-name="P130"><text:span text:style-name="codigo2">MINSOVR (P10)</text:span></text:p>
@@ -11215,7 +11214,6 @@
       <text:p text:style-name="P130"/>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Tabla7.1">
      <table:table-cell table:style-name="Tabla7.A25" office:value-type="string">
       <text:p text:style-name="P130"><text:span text:style-name="codigo2">MAXSOVR (P11)</text:span></text:p>
@@ -11258,7 +11256,6 @@
       <text:p text:style-name="P130">Inicialmente se puso en un valor no válido sólo a fines de poder realizar la identificación.</text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Tabla7.1">
      <table:table-cell table:style-name="Tabla7.A25" office:value-type="string">
       <text:p text:style-name="P130"><text:span text:style-name="codigo2">DIFFBACK (P14)</text:span></text:p>
@@ -11424,14 +11421,14 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P20" text:outline-level="3">Identificación de parámetros</text:h>
+   <text:h text:style-name="P20" text:outline-level="3"><text:soft-page-break/>Identificación de parámetros</text:h>
    <text:h text:style-name="Heading_20_4" text:outline-level="4">Identificación del encoder</text:h>
    <text:p text:style-name="P74">Para poder identificar el encoder se comenzó por suponer que el mismo utilizaba una base binaria de cantidad de pulsos por vuelta (potencias de 2), se monitorio en el PLC la variable asociada al cabezal <text:span text:style-name="codigo2">ASINS</text:span> y se hizo dar al cabezal 10 vueltas, se dividió el número de cuentas acumuladas por <text:span text:style-name="codigo2">ASINS</text:span> por 10 y se repitió el proceso 3 veces, el valor que se obtuvo fue siempre el mismo: <text:span text:style-name="T66">2047</text:span>, dicho valor se puso en el parámetro <text:span text:style-name="codigo2">NPULSES</text:span> del cabezal.</text:p>
    <text:h text:style-name="P152" text:outline-level="4">Relación de ganancia tensión/frecuencia en el inversor <text:span text:style-name="T59">y de máxima tensión de control</text:span></text:h>
-   <text:p text:style-name="P76">El inversor permite con un opcional configurar distintos parámetros, dicho opcional no estaba <text:soft-page-break/>disponible al momento de ajustar la máquina, de hecho no se sabe si alguna vez la empresa lo adquirió, por lo cuál no se sabía si la relación de ganancia tensión/frecuencia estaba configurada en el valor por defecto o había sido cambiado. Lo mismo que tampoco se sabía si la configuración de la máxima tensión de control era 5 o 10V. Se sabía que la máxima frecuencia era de salida es <text:s/>400Hz.</text:p>
+   <text:p text:style-name="P76">El inversor permite con un opcional configurar distintos parámetros, dicho opcional no estaba disponible al momento de ajustar la máquina, de hecho no se sabe si alguna vez la empresa lo adquirió, por lo cuál no se sabía si la relación de ganancia tensión/frecuencia estaba configurada en el valor por defecto o había sido cambiado. Lo mismo que tampoco se sabía si la configuración de la máxima tensión de control era 5 o 10V. Se sabía que la máxima frecuencia era de salida es <text:s/>400Hz.</text:p>
    <text:p text:style-name="P76">Por lo cuál habían dos posibles ganancias estándar: <text:span text:style-name="T17">k1=400Hz/5V=80Hz/V</text:span> y <text:span text:style-name="T17">k2=400Hz/10V=40Hz</text:span>, pudiendo haber relaciones personalizadas cuya identificación es más compleja, el inversor cuenta con un pequeño display el cuál permite ver la frecuencia de salida, se decidió confiar en el valor mostrado como válido, se alimento el control con una señal de 1V y se observo el valor mostrado, el mismo era de 80<text:span text:style-name="T2">±3</text:span><text:span text:style-name="T9">Hz con pequeñas oscilaciones. Luego se duplico la tensión de alimentación a 2V y se observo 160</text:span><text:span text:style-name="T2">±3Hz, con 3V 240±3Hz, a 4V 320±3Hz y a 5V 400±3Hz. Con lo cual se </text:span><text:span text:style-name="T8">supuso</text:span><text:span text:style-name="T2"> que la relación de ganancia era </text:span><text:span text:style-name="T7">k1=400Hz/5V=80Hz/V</text:span><text:span text:style-name="T3">, con tensión máxima 5V. </text:span><text:span text:style-name="T5">Estas pruebas fueron realizadas con el motor desconectado del driver para evitar accidentes debidos a partes móviles.</text:span></text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4">Relación de ganancia <text:span text:style-name="T59">frecuencia</text:span>/<text:span text:style-name="T59">velocidad en el motor</text:span></text:h>
-   <text:p text:style-name="P76">El fabricante del motor en su placa brinda algunos datos <text:span text:style-name="T60">del motor, pero no así la cantidad de polos que el mismo tenía, con lo cual no era posible conocer a priori la relación entre frecuencia de la tensión de entrada y la frecuencia angular, pero sí se sabía de lo aprendido en la materia máquinas eléctricas la relación genérica de velocidad: </text:span><text:span text:style-name="T60"><draw:frame draw:style-name="fr10" draw:name="Objeto5" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="1.632cm" svg:height="0.998cm" draw:z-index="12"><draw:object>
+   <text:p text:style-name="P76">El fabricante del motor en su placa brinda algunos datos <text:span text:style-name="T60">del motor, pero no así la cantidad de polos que el mismo tenía, con lo cual no era posible conocer a priori la relación entre frecuencia de la tensión de entrada y la frecuencia angular, pero sí se sabía de lo aprendido en la materia máquinas eléctricas la relación genérica de velocidad: </text:span><text:span text:style-name="T60"><draw:frame draw:style-name="fr10" draw:name="Objeto5" text:anchor-type="as-char" svg:y="-0.619cm" svg:width="1.632cm" svg:height="0.998cm" draw:z-index="32"><draw:object>
        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
         <semantics>
          <mrow>
@@ -11477,7 +11474,7 @@
        </office:binary-data>
       </draw:image>
      </draw:frame></text:span><text:span text:style-name="T60">donde n es la cantidad de RPM del motor, f la frecuencia de alimentación a la red y P el número de pares de polos, aún así conocer la relación de transformación entre número de polos y velocidad de giro del husillo es complicado de obtener ya que existe una relación de transformación de reducción de velocidad entre la velocidad propia del motor y la del husillo dado el juego de poleas del acople.</text:span></text:p>
-   <text:p text:style-name="P81">Aún así se puede calcular una relación entre frecuencia de alimentación y cantidad de vueltas por minuto, del tipo <draw:frame draw:style-name="fr10" draw:name="Objeto7" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="1.341cm" svg:height="0.467cm" draw:z-index="15"><draw:object>
+   <text:p text:style-name="P81">Aún así se puede calcular una relación entre frecuencia de alimentación y cantidad de vueltas por minuto, del tipo <draw:frame draw:style-name="fr10" draw:name="Objeto7" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="1.341cm" svg:height="0.467cm" draw:z-index="35"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -11521,6 +11518,7 @@
     <table:table-column table:style-name="Tabla9.C"/>
     <table:table-column table:style-name="Tabla9.A"/>
     <table:table-header-rows>
+     <text:soft-page-break/>
      <table:table-row table:style-name="Tabla9.1">
       <table:table-cell table:style-name="Tabla9.A1" office:value-type="string">
        <text:p text:style-name="P106">RPM programada</text:p>
@@ -11649,7 +11647,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P82">De dónde se calcula la constante de conversión frecuencia – velocidad de husillo en <text:soft-page-break/>18,18RPM/Hz, esté valor no es relevante, pero sí es relevante el hecho de que a pesar de trabajar a lazo abierto la diferencia entre velocidad programada y velocidad media no supera las 10RPM en el peor caso, disminuyendo el porcentaje de diferencia en velocidades por arriba de las 500RPM que son las velocidades normales de mecanizado utilizadas.</text:p>
+   <text:p text:style-name="P82">De dónde se calcula la constante de conversión frecuencia – velocidad de husillo en 18,18RPM/Hz, esté valor no es relevante, pero sí es relevante el hecho de que a pesar de trabajar a lazo abierto la diferencia entre velocidad programada y velocidad media no supera las 10RPM en el peor caso, disminuyendo el porcentaje de diferencia en velocidades por arriba de las 500RPM que son las velocidades normales de mecanizado utilizadas.</text:p>
    <text:h text:style-name="P23" text:outline-level="3">Ajuste post-identificación</text:h>
    <text:p text:style-name="P79">Una vez identificados los mencionados parámetros se procedió a ajustar los siguientes parámetros de forma definitiva</text:p>
    <table:table table:name="Tabla8" table:style-name="Tabla8">
@@ -11730,9 +11728,9 @@
    <text:h text:style-name="P31" text:outline-level="3">Compensación de offset de cruce por cero, y reducción de ruido</text:h>
    <text:p text:style-name="P80">Como se menciono anteriormente inicialmente se intento eliminar el offset de cruce por cero y el ruido de la conversión tensión/frecuencia en el inversor, ya que supuso que el mismo era debido a ruido eléctrico inducido, y no a fallas en el mismo driver.</text:p>
    <text:p text:style-name="P80">Para ello se implementaron circuitos como los mostrados, dada su comprobada utilidad en materias como electrónica 3, pero los resultados no fueron los esperados por lo cuál se optó por limitar la mínima velocidad del husillo por código en el PLC.</text:p>
-   <text:p text:style-name="P177"><draw:frame draw:style-name="fr4" draw:name="Marco25" text:anchor-type="as-char" svg:width="23.188cm" draw:z-index="27">
+   <text:p text:style-name="P177"><draw:frame draw:style-name="fr4" draw:name="Marco25" text:anchor-type="as-char" svg:width="23.188cm" draw:z-index="47">
      <draw:text-box fo:min-height="15.3cm">
-      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr9" draw:name="Imagen25" text:anchor-type="paragraph" svg:width="23.188cm" svg:height="15.3cm" style:rel-height="scale" draw:z-index="28"><draw:image>
+      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr9" draw:name="Imagen25" text:anchor-type="paragraph" svg:width="23.188cm" svg:height="15.3cm" style:rel-height="scale" draw:z-index="48"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/wgALCAH1AvYBAREA/8QAGQAB
           AQEBAQEAAAAAAAAAAAAAAQADAgQF/9oACAEBAAAAAfvWZVV5PU1VaNVVVVVVVVVVVVVVVVVV
@@ -12306,10 +12304,10 @@
        </draw:frame>Esquema <text:sequence text:ref-name="refEsquema0" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">1</text:sequence>: Amplificador de instrumentación</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco26" text:anchor-type="as-char" svg:width="19.316cm" draw:z-index="0">
+   <text:p text:style-name="imagen"/>
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr6" draw:name="Marco26" text:anchor-type="as-char" svg:width="19.316cm" draw:z-index="2">
      <draw:text-box fo:min-height="15.3cm">
-      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr9" draw:name="Imagen26" text:anchor-type="paragraph" svg:width="19.316cm" svg:height="15.3cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr9" draw:name="Imagen26" text:anchor-type="paragraph" svg:width="19.316cm" svg:height="15.3cm" style:rel-height="scale" draw:z-index="3"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAzsAAAKPCAYAAABKA9T4AAJGAklEQVR4nOy9B4AcxZX//63u
           mY2SVoEooUgUCIEkEyWBSAaBbaKz/TPYd/ezz5zDne9+P4fzz3f3P1+yje0LzsYZB4KxEZLI
           BklgQEICI5FFzspaSbs73f2v2F3d0z15d3Z33oPVzHRX16eqprvmvapXr3IBFwRAwHwIYXBQ
@@ -15081,7 +15079,7 @@
    <text:p text:style-name="P84">En aquellos sistemas complejos, dónde el sincronismo era crítico, o la lógica compleja, se recurrió a utilizar el analizador lógico integrado en el CNC, la siguiente foto muestra las señales lógicas asociadas al cambiador de herramientas, cuando se realiza el cambio de herramientas por teclado en modo manual.</text:p>
    <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco27" text:anchor-type="as-char" svg:y="-14.609cm" svg:width="17.002cm" draw:z-index="0">
      <draw:text-box fo:min-height="12.666cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen27" text:anchor-type="paragraph" svg:width="17.002cm" svg:height="12.666cm" style:rel-height="scale" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen27" text:anchor-type="paragraph" svg:width="17.002cm" svg:height="12.666cm" style:rel-height="scale" draw:z-index="1"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAiEAAAGWCAYAAACuMFPXAAU6kElEQVR4nHz9WbMl2ZUeiK29
           3f2Md7435oicRySABBJAEQXUXNWkikNVNyWZiVKbnmXSn5H6oWXSW1s/0CgZjUZKZItFVhVr
           JFEDgEIVhkTOQ2TMccczu/vW+r61tp8TkQAvcDPuvecc9+17WOO3vlV+6c2vtoKvJN1XCCIx
