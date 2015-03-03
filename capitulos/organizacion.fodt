@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-02T16:50:32.277666402</dc:date><meta:editing-duration>P6DT15H32M23S</meta:editing-duration><meta:editing-cycles>264</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="10" meta:image-count="33" meta:object-count="2" meta:page-count="26" meta:paragraph-count="338" meta:word-count="7071" meta:character-count="43348" meta:non-whitespace-character-count="36692"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T16:47:14.051464436</dc:date><meta:editing-duration>P6DT15H33M6S</meta:editing-duration><meta:editing-cycles>265</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="10" meta:image-count="33" meta:object-count="2" meta:page-count="26" meta:paragraph-count="338" meta:word-count="7068" meta:character-count="43329" meta:non-whitespace-character-count="36676"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">275167</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">2117</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">20057</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23338</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">14501</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13159</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">135594</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8386</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3949</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">2117</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">275167</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22172</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">289666</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">25453</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14499</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
@@ -82,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3419966</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3536822</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8ARHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -1640,19 +1640,61 @@
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq">
    <style:text-properties officeooo:rsid="0025b93a" officeooo:paragraph-rsid="0025b93a"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="002320f3" officeooo:paragraph-rsid="002320f3"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="0026e068" officeooo:paragraph-rsid="0026e068"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="0029905e" officeooo:paragraph-rsid="0029905e"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="0029905e" officeooo:paragraph-rsid="0029905e"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num8">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num9"/>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:rsid="002320f3" officeooo:paragraph-rsid="002320f3"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num8">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.247cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Standard">
    <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="002320f3"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_5">
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:text-properties officeooo:rsid="00247761"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_5">
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:text-properties officeooo:rsid="00247761" officeooo:paragraph-rsid="00247761"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_5">
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.247cm"/>
@@ -1660,7 +1702,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00247761" officeooo:paragraph-rsid="00247761"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_5">
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_5">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.247cm"/>
@@ -1668,78 +1710,36 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00247761" officeooo:paragraph-rsid="0025b93a"/>
   </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0029905e"/>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="002320f3"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:background-color="transparent"/>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="002320f3" officeooo:paragraph-rsid="002320f3"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="002d0646" officeooo:paragraph-rsid="002d0646"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:paragraph-rsid="002d0646" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="imagen" style:master-page-name="Landscape">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties officeooo:paragraph-rsid="002d0646"/>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0029905e"/>
   </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq" style:list-style-name="L3">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00247761"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="002320f3" officeooo:paragraph-rsid="002320f3"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="0026e068" officeooo:paragraph-rsid="0026e068"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties officeooo:rsid="0029905e" officeooo:paragraph-rsid="0029905e"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties officeooo:rsid="0029905e" officeooo:paragraph-rsid="0029905e"/>
-  </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num8">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="1.247cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num9"/>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="1.247cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="1.247cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties officeooo:rsid="002320f3" officeooo:paragraph-rsid="002320f3"/>
-  </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WW8Num8">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="1.247cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Standard">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="imagen" style:master-page-name="Landscape">
    <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties fo:background-color="transparent"/>
+   <style:text-properties officeooo:paragraph-rsid="002d0646"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
@@ -1791,6 +1791,9 @@
   </style:style>
   <style:style style:name="T17" style:family="text">
    <style:text-properties officeooo:rsid="00335e00"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="0035f7b6"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -2186,7 +2189,7 @@
     <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">9</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">26</text:page-number></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Index" style:page-layout-name="pm2">
@@ -2210,168 +2213,168 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Esquema"/>
    </text:sequence-decls>
-   <text:h text:style-name="P70" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188302_359546015"/><text:reference-mark-start text:name="organizacion"/>Organización y desarrollo del proyecto<text:bookmark-end text:name="__RefHeading__188302_359546015"/><text:reference-mark-end text:name="organizacion"/></text:h>
+   <text:h text:style-name="P85" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__188302_359546015"/><text:reference-mark-start text:name="organizacion"/><text:span text:style-name="T18">Trabajo específico</text:span><text:bookmark-end text:name="__RefHeading__188302_359546015"/><text:reference-mark-end text:name="organizacion"/></text:h>
    <text:p text:style-name="P13">Previo a comenzar el proyecto la gerencia había contratado a un técnico, el cuál hacía periódicamente mantenimientos de la máquina, para realizar el refactoring, dicha persona tomo decisiones de diseño sobre que controladora CNC adquirir, motores de los ejes con sus drivers, y cableado inicial, pero no logró terminar el proceso y no había documentado el mismo tampoco, lo cuál dificulto el inicio del proceso, incluso se comprobó que el cableado realizado era incorrecto.</text:p>
    <text:p text:style-name="P13">Dado que la tarea resultaba complicada o incluso imposible si se atacaba todo el problema en conjunto, se decidió realizar una hoja de ruta donde se dividió el sistema en subsistemas y se trató de asignar fechas límites para realizar cada una, utilizando la metodología de diseño bottom-up . Si bien dicha predicción no fue del todo acertada, permitió organizar el comienzo del proyecto.</text:p>
-   <text:h text:style-name="P49" text:outline-level="2"><text:bookmark text:name="SECTION00310000000000000000"/><text:bookmark-start text:name="__RefHeading__188304_359546015"/>Diagramación inicial<text:bookmark-end text:name="__RefHeading__188304_359546015"/></text:h>
+   <text:h text:style-name="P49" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188304_359546015"/><text:bookmark text:name="SECTION00310000000000000000"/>Diagramación inicial<text:bookmark-end text:name="__RefHeading__188304_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Inicialmente se supusieron las siguientes etapas:</text:p>
-   <text:list xml:id="list4537797307169126804" text:style-name="L1">
+   <text:list xml:id="list333824989395032199" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P90">Relevamiento de la máquina original y de componentes de reemplazo elegidos.</text:p>
+     <text:p text:style-name="P76">Relevamiento de la máquina original y de componentes de reemplazo elegidos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Investigación de la documentación disponible y consulta a operarios expertos respecto de la funcionalidad esperada, funcionalidades previas, etc.</text:p>
+     <text:p text:style-name="P76">Investigación de la documentación disponible y consulta a operarios expertos respecto de la funcionalidad esperada, funcionalidades previas, etc.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Verificación, realización e identificación del cableado interno.</text:p>
+     <text:p text:style-name="P76">Verificación, realización e identificación del cableado interno.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Análisis y selección de protecciones necesarias.</text:p>
+     <text:p text:style-name="P76">Análisis y selección de protecciones necesarias.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Actualización del diagrama eléctrico para futuros mantenimientos.</text:p>
+     <text:p text:style-name="P76">Actualización del diagrama eléctrico para futuros mantenimientos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Puesta en marcha, ajuste de los parámetros de la controladora según especificaciones, ello se realiza concurrentemente con el siguiente punto ya que ambos son interdependientes.</text:p>
+     <text:p text:style-name="P76">Puesta en marcha, ajuste de los parámetros de la controladora según especificaciones, ello se realiza concurrentemente con el siguiente punto ya que ambos son interdependientes.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Modificación del código del autómata integrado en la controladora a fin de <text:span text:style-name="T3">poder realizar</text:span> tareas específicas <text:span text:style-name="T3">de soporte al movimiento</text:span>.</text:p>
+     <text:p text:style-name="P76">Modificación del código del autómata integrado en la controladora a fin de <text:span text:style-name="T3">poder realizar</text:span> tareas específicas <text:span text:style-name="T3">de soporte al movimiento</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Ajustes <text:span text:style-name="T3">iterativos necesarios (pasos 6 a 8) para lograr que los subsistemas funcionen.</text:span></text:p>
+     <text:p text:style-name="P76">Ajustes <text:span text:style-name="T3">iterativos necesarios (pasos 6 a 8) para lograr que los subsistemas funcionen.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P91">Ajustes globales necesarios para la correcta interacción entre los distintos subsistemas.</text:p>
+     <text:p text:style-name="P77">Ajustes globales necesarios para la correcta interacción entre los distintos subsistemas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P91">Documentación y entrenamiento del personal.</text:p>
+     <text:p text:style-name="P77">Documentación y entrenamiento del personal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P90">Realización de pruebas pertinentes a fin de verificar que la máquina cumple con requerimientos.</text:p>
+     <text:p text:style-name="P76">Realización de pruebas pertinentes a fin de verificar que la máquina cumple con requerimientos.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188306_359546015"/><text:bookmark text:name="SECTION00320000000000000000"/>Desarrollo proyecto<text:bookmark-end text:name="__RefHeading__188306_359546015"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="SECTION00320000000000000000"/><text:bookmark-start text:name="__RefHeading__188306_359546015"/>Desarrollo proyecto<text:bookmark-end text:name="__RefHeading__188306_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">A continuación se enumeran algunas de las etapas realizadas para completar el proyecto:</text:p>
-   <text:list xml:id="list4549048707043464766" text:style-name="L2">
+   <text:list xml:id="list1937936321208679923" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P84">Relevamiento de la máquina original y de componentes de reemplazo disponibles, recolección de la documentación pertinente, investigación de la misma, consulta a usuarios expertos respecto de la funcionalidades esperadas.</text:p>
+     <text:p text:style-name="P70">Relevamiento de la máquina original y de componentes de reemplazo disponibles, recolección de la documentación pertinente, investigación de la misma, consulta a usuarios expertos respecto de la funcionalidades esperadas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Relevamiento e identificación del cableado realizado por técnico anterior.</text:p>
+     <text:p text:style-name="P70">Relevamiento e identificación del cableado realizado por técnico anterior.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Primer borrador de conexionado interno.</text:p>
+     <text:p text:style-name="P70">Primer borrador de conexionado interno.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Remoción del conexionado previamente realizado, y conexionado interno que permitiese prender todos los módulos de control según especificaciones del borrador.</text:p>
+     <text:p text:style-name="P70">Remoción del conexionado previamente realizado, y conexionado interno que permitiese prender todos los módulos de control según especificaciones del borrador.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado del circuito de encendido de la etapa lógica, accionado de la controladora y análisis de la misma.</text:p>
+     <text:p text:style-name="P70">Conexionado del circuito de encendido de la etapa lógica, accionado de la controladora y análisis de la misma.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado del circuito de distribución de potencia</text:p>
+     <text:p text:style-name="P70">Conexionado del circuito de distribución de potencia</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de la etapa de potencia y etapa lógica de los drivers de los ejes y cambiador de herramientas.</text:p>
+     <text:p text:style-name="P70">Conexionado de la etapa de potencia y etapa lógica de los drivers de los ejes y cambiador de herramientas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84"><text:soft-page-break/>Desacople mecánico de los motores de los ejes y cambiador de herramientas, encendido de los drivers, control de los ejes en modo manual (jog) a fin de verificar conexionado del lazo de realimentación y control entre el CNC y cada uno de los motores.</text:p>
+     <text:p text:style-name="P70"><text:soft-page-break/>Desacople mecánico de los motores de los ejes y cambiador de herramientas, encendido de los drivers, control de los ejes en modo manual (jog) a fin de verificar conexionado del lazo de realimentación y control entre el CNC y cada uno de los motores.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Ajuste del sentido de giro de los motores de los ejes y cambiador de herramientas, limitación de la cantidad de revoluciones por minuto (RPM) de cada uno de los motores de los ejes, ajuste de la desviación (offset) de las señales de control a cada uno de respectivos controladores de motor de eje (drivers), primeras modificaciones al código del PLC a fin de conexionar las distintas salidas y entradas lógicas con sus respectivas salidas y entradas físicas modificando el código del PLC integrado en la controladora.</text:p>
+     <text:p text:style-name="P70">Ajuste del sentido de giro de los motores de los ejes y cambiador de herramientas, limitación de la cantidad de revoluciones por minuto (RPM) de cada uno de los motores de los ejes, ajuste de la desviación (offset) de las señales de control a cada uno de respectivos controladores de motor de eje (drivers), primeras modificaciones al código del PLC a fin de conexionar las distintas salidas y entradas lógicas con sus respectivas salidas y entradas físicas modificando el código del PLC integrado en la controladora.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Acoplamiento de los motores a los ejes, ajuste del paso de los tornillos, ajuste de ganancia proporcional inicial a fin de eliminar errores de seguimiento estático.</text:p>
+     <text:p text:style-name="P70">Acoplamiento de los motores a los ejes, ajuste del paso de los tornillos, ajuste de ganancia proporcional inicial a fin de eliminar errores de seguimiento estático.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Acoplamiento del motor del cambiador de herramientas a la caja reductora del mismo, con el actuador de desacople del mismo en posición desacoplada.</text:p>
+     <text:p text:style-name="P70">Acoplamiento del motor del cambiador de herramientas a la caja reductora del mismo, con el actuador de desacople del mismo en posición desacoplada.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Control de los ejes vía los botones de jog en el panel de usuario, garantizando que el error de seguimiento estático sea nulo.</text:p>
+     <text:p text:style-name="P70">Control de los ejes vía los botones de jog en el panel de usuario, garantizando que el error de seguimiento estático sea nulo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Aumento de las velocidades máximas de avance, ajuste de las ganancias para que el movimiento sea fluido y sin errores de seguimiento tanto estático como dinámico.</text:p>
+     <text:p text:style-name="P70">Aumento de las velocidades máximas de avance, ajuste de las ganancias para que el movimiento sea fluido y sin errores de seguimiento tanto estático como dinámico.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Corrección del sentido de avance de los ejes respecto al sistema de referencias, accidente tornillo de eje X.</text:p>
+     <text:p text:style-name="P70">Corrección del sentido de avance de los ejes respecto al sistema de referencias, accidente tornillo de eje X.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de sensores de referencia en ejes, configuración de las zonas máximas de movimiento del eje Z.</text:p>
+     <text:p text:style-name="P70">Conexionado de sensores de referencia en ejes, configuración de las zonas máximas de movimiento del eje Z.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de la etapa de potencia, modificación del código del PLC para que pueda activar y desactivar dicha etapa en función del estado de la máquina.</text:p>
+     <text:p text:style-name="P70">Conexionado de la etapa de potencia, modificación del código del PLC para que pueda activar y desactivar dicha etapa en función del estado de la máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de los solenoides del actuador neumático, sensor de acople y sensor de desacople del cambiador de herramientas, creación de código en el PLC para coordinar el movimiento controlado provisto por la controladora CNC con el actuador, utilizando las señales provenientes de los sensores a fin de poder realizar cambio de herramientas controlado y preciso.</text:p>
+     <text:p text:style-name="P70">Conexionado de los solenoides del actuador neumático, sensor de acople y sensor de desacople del cambiador de herramientas, creación de código en el PLC para coordinar el movimiento controlado provisto por la controladora CNC con el actuador, utilizando las señales provenientes de los sensores a fin de poder realizar cambio de herramientas controlado y preciso.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Agregado del disco porta herramientas, ajuste de las velocidades, ganancias y tiempos del cambiador de herramientas, ajuste del código del PLC previamente mencionado para un correcto cambio de herramientas, minimizando tiempos muertos.</text:p>
+     <text:p text:style-name="P70">Agregado del disco porta herramientas, ajuste de las velocidades, ganancias y tiempos del cambiador de herramientas, ajuste del código del PLC previamente mencionado para un correcto cambio de herramientas, minimizando tiempos muertos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado básico del driver del husillo, circuito de control y circuito de potencia, encendido del motor del husillo, ajuste de cruce por cero, ajuste de velocidades máximas y sentido de giro, modificación del código del PLC para que fuese posible el control inicial sobre el husillo.</text:p>
+     <text:p text:style-name="P70">Conexionado básico del driver del husillo, circuito de control y circuito de potencia, encendido del motor del husillo, ajuste de cruce por cero, ajuste de velocidades máximas y sentido de giro, modificación del código del PLC para que fuese posible el control inicial sobre el husillo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de bomba hidráulica.</text:p>
+     <text:p text:style-name="P70">Conexionado de bomba hidráulica.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de la etapa de control y de la etapa de potencia de las solenoides de agarre de pieza en el husillo y de la contra punta, con las respectivas modificaciones al código del PLC.</text:p>
+     <text:p text:style-name="P70">Conexionado de la etapa de control y de la etapa de potencia de las solenoides de agarre de pieza en el husillo y de la contra punta, con las respectivas modificaciones al código del PLC.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de pedales de usuario, modificación del código del PLC a fin de lograr comando vía pedales de contra punta y agarre de pieza.</text:p>
+     <text:p text:style-name="P70">Conexionado de pedales de usuario, modificación del código del PLC a fin de lograr comando vía pedales de contra punta y agarre de pieza.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado y puesta a punto del tornillo de eje X luego de ser reparado, ajuste de ganancias del eje X.</text:p>
+     <text:p text:style-name="P70">Conexionado y puesta a punto del tornillo de eje X luego de ser reparado, ajuste de ganancias del eje X.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84"><text:soft-page-break/>Con la ayuda de un osciloscopio ajuste de ganancias de los drivers de los ejes X y Z y del cambiador de herramientas, a fin de obtener un movimiento fluido y preciso. Primero se realizo el ajuste de X y Z por separado, luego se realizo de forma continua a fin de evitar aumentos de los errores dados por la interacción, el motor del cambiador de herramientas no interactúa con otros por lo cuál su ajuste fue totalmente independiente.</text:p>
+     <text:p text:style-name="P70"><text:soft-page-break/>Con la ayuda de un osciloscopio ajuste de ganancias de los drivers de los ejes X y Z y del cambiador de herramientas, a fin de obtener un movimiento fluido y preciso. Primero se realizo el ajuste de X y Z por separado, luego se realizo de forma continua a fin de evitar aumentos de los errores dados por la interacción, el motor del cambiador de herramientas no interactúa con otros por lo cuál su ajuste fue totalmente independiente.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Primeras pruebas de torneado tanto cilindrado como refrentado con barras plásticas de grillon, luego de barras de metal. Alineación de los ejes para reducir desvíos sobre la superficie mecanizada.</text:p>
+     <text:p text:style-name="P70">Primeras pruebas de torneado tanto cilindrado como refrentado con barras plásticas de grillon, luego de barras de metal. Alineación de los ejes para reducir desvíos sobre la superficie mecanizada.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Primeros ajustes de interacción entre subsistemas en el código del PLC y de los parámetros correspondientes en el CNC.</text:p>
+     <text:p text:style-name="P70">Primeros ajustes de interacción entre subsistemas en el código del PLC y de los parámetros correspondientes en el CNC.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Pruebas de mecanizado realizando movimientos de interpolación con interacción de más de 1 eje, pruebas sencillas con ciclos de mecanizado (canned cycles) provistos por la controladora, se verificaron cotas de error y movimientos realizados.</text:p>
+     <text:p text:style-name="P70">Pruebas de mecanizado realizando movimientos de interpolación con interacción de más de 1 eje, pruebas sencillas con ciclos de mecanizado (canned cycles) provistos por la controladora, se verificaron cotas de error y movimientos realizados.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado, control y verificación del sistema automatizado de lubricación de ejes y cabezal, para ello fue necesario modificar nuevamente el código del PLC.</text:p>
+     <text:p text:style-name="P70">Conexionado, control y verificación del sistema automatizado de lubricación de ejes y cabezal, para ello fue necesario modificar nuevamente el código del PLC.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Identificación final del cableado, etiquetado completo de los terminales, conectores y relays, mejoras en la disposición física del mismo, agregado de caja de protección externa para etapa neumática.</text:p>
+     <text:p text:style-name="P70">Identificación final del cableado, etiquetado completo de los terminales, conectores y relays, mejoras en la disposición física del mismo, agregado de caja de protección externa para etapa neumática.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Colocación de las placas metálicas de soporte de la máquina con su respectiva alineación, lubricación e impermeabilización donde fuese necesario. Conexionado de lámpara interna y ventiladores de refrigeración.</text:p>
+     <text:p text:style-name="P70">Colocación de las placas metálicas de soporte de la máquina con su respectiva alineación, lubricación e impermeabilización donde fuese necesario. Conexionado de lámpara interna y ventiladores de refrigeración.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Realizado de primeros mecanizados reales sobre barras en bruto, probando distintos ciclos de mecanizado avanzados. Constatación de las medidas obtenidas.</text:p>
+     <text:p text:style-name="P70">Realizado de primeros mecanizados reales sobre barras en bruto, probando distintos ciclos de mecanizado avanzados. Constatación de las medidas obtenidas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Refactorizado del código del PLC resultante, a fin de organizarlo y documentarlo.</text:p>
+     <text:p text:style-name="P70">Refactorizado del código del PLC resultante, a fin de organizarlo y documentarlo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado y control de la bomba hidráulica de refrigerante.</text:p>
+     <text:p text:style-name="P70">Conexionado y control de la bomba hidráulica de refrigerante.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado y control del sistema de recolección de viruta.</text:p>
+     <text:p text:style-name="P70">Conexionado y control del sistema de recolección de viruta.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Conexionado de todas las señales de alarma y manejo de las mismas por el PLC.</text:p>
+     <text:p text:style-name="P70">Conexionado de todas las señales de alarma y manejo de las mismas por el PLC.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Primeras piezas reales producidas, primera ronda de devolución de los operarios. Ajustes en el código del PLC pertinentes a fin de garantizar tiempos y sincronismo entre los sistemas que conforman la máquina, ajuste de los parámetros de la interfaz de usuario pronta a la puesta a punto final.</text:p>
+     <text:p text:style-name="P70">Primeras piezas reales producidas, primera ronda de devolución de los operarios. Ajustes en el código del PLC pertinentes a fin de garantizar tiempos y sincronismo entre los sistemas que conforman la máquina, ajuste de los parámetros de la interfaz de usuario pronta a la puesta a punto final.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Entrenamiento on-site de los operarios.</text:p>
+     <text:p text:style-name="P70">Entrenamiento on-site de los operarios.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Realización de piezas de producción, segunda ronda de devolución. Cambios al código del PLC referidos al manejo y resolución de las distintas alarmas.</text:p>
+     <text:p text:style-name="P70">Realización de piezas de producción, segunda ronda de devolución. Cambios al código del PLC referidos al manejo y resolución de las distintas alarmas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Actualización y verificación del diagrama eléctrico.</text:p>
+     <text:p text:style-name="P70">Actualización y verificación del diagrama eléctrico.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Documentación del informe.</text:p>
+     <text:p text:style-name="P70">Documentación del informe.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13">Estas distintas etapas descriptas no están en exactamente expuestas en el mismo orden en que fueron realizadas, hay que tener en cuenta que muchas fueron realizadas en paralelo, el inicio de tareas fue en los primeros día del mes de Mayo de 2013 y la máquina se encuentra en producción de forma estable desde mediados del mes de Octubre del mismo año, trabajando entre 2 y 3 días por semana. En las próximas secciones se describirán las distintas mencionadas etapas.</text:p>
@@ -2583,9 +2586,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto0" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Estado inicial 1</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco21" text:anchor-type="as-char" svg:y="-5.941cm" svg:width="7.47cm" svg:height="5.602cm" style:rel-height="scale-min" draw:z-index="17">
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco21" text:anchor-type="as-char" svg:y="-5.941cm" svg:width="7.47cm" svg:height="5.602cm" style:rel-height="scale-min" draw:z-index="4">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen8" text:anchor-type="paragraph" svg:width="7.47cm" svg:height="5.602cm" style:rel-height="scale" draw:z-index="21"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen8" text:anchor-type="paragraph" svg:width="7.47cm" svg:height="5.602cm" style:rel-height="scale" draw:z-index="5"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -2803,9 +2806,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto1" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">2</text:sequence>: Estado inicial 2</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Marco22" text:anchor-type="as-char" svg:y="-7.331cm" svg:width="8.543cm" svg:height="6.406cm" style:rel-height="scale-min" draw:z-index="62">
+   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Marco22" text:anchor-type="as-char" svg:y="-7.331cm" svg:width="8.543cm" svg:height="6.406cm" style:rel-height="scale-min" draw:z-index="18">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen9" text:anchor-type="paragraph" svg:width="8.543cm" svg:height="6.406cm" style:rel-height="scale" draw:z-index="63"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen9" text:anchor-type="paragraph" svg:width="8.543cm" svg:height="6.406cm" style:rel-height="scale" draw:z-index="19"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -3025,9 +3028,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto2" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">3</text:sequence>: Estado inicial 3</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Marco23" text:anchor-type="as-char" svg:y="-7.332cm" svg:width="7.435cm" svg:height="7.107cm" style:rel-height="scale-min" draw:z-index="64">
+    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Marco23" text:anchor-type="as-char" svg:y="-7.332cm" svg:width="7.435cm" svg:height="7.107cm" style:rel-height="scale-min" draw:z-index="29">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen6" text:anchor-type="paragraph" svg:width="7.435cm" svg:height="5.57cm" style:rel-height="scale" draw:z-index="65"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen6" text:anchor-type="paragraph" svg:width="7.435cm" svg:height="5.57cm" style:rel-height="scale" draw:z-index="30"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -3256,9 +3259,9 @@
       <text:p text:style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq">Manual: <text:bibliography-mark text:identifier="FREQROL" text:bibliography-type="book" text:author="Mitsubishi" text:title="Mitsubishi Transistorized Inverter" text:year="SD">[FREQROL]</text:bibliography-mark></text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P57"><draw:frame draw:style-name="fr3" draw:name="Marco31" text:anchor-type="as-char" svg:width="4.586cm" draw:z-index="66">
+      <text:p text:style-name="P57"><draw:frame draw:style-name="fr3" draw:name="Marco31" text:anchor-type="as-char" svg:width="4.586cm" draw:z-index="59">
         <draw:text-box fo:min-height="6.438cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen31" text:anchor-type="paragraph" svg:width="4.306cm" svg:height="5.74cm" style:rel-height="scale" draw:z-index="67"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen31" text:anchor-type="paragraph" svg:width="4.306cm" svg:height="5.74cm" style:rel-height="scale" draw:z-index="60"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
              MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
              T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -3411,9 +3414,9 @@
       <text:p text:style-name="P53">Manual: Sin Datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P58"><draw:frame draw:style-name="fr4" draw:name="Marco32" text:anchor-type="as-char" svg:width="4.568cm" draw:z-index="59">
+      <text:p text:style-name="P58"><draw:frame draw:style-name="fr4" draw:name="Marco32" text:anchor-type="as-char" svg:width="4.568cm" draw:z-index="61">
         <draw:text-box fo:min-height="6.29cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen32" text:anchor-type="paragraph" svg:width="4.196cm" svg:height="5.592cm" style:rel-height="scale" draw:z-index="60"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen32" text:anchor-type="paragraph" svg:width="4.196cm" svg:height="5.592cm" style:rel-height="scale" draw:z-index="62"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
              MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
              T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -3537,9 +3540,9 @@
       <text:p text:style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq">Manual: <text:bibliography-mark text:identifier="ProNet" text:bibliography-type="book" text:author="Estun" text:title="ProNet Series AC Servo Users&apos;s Manual">[ProNet]</text:bibliography-mark></text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P54"><draw:frame draw:style-name="fr4" draw:name="Marco1" text:anchor-type="as-char" svg:width="6.112cm" draw:z-index="4">
+      <text:p text:style-name="P54"><draw:frame draw:style-name="fr4" draw:name="Marco1" text:anchor-type="as-char" svg:width="6.112cm" draw:z-index="6">
         <draw:text-box fo:min-height="6.207cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen1" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" svg:width="6.112cm" svg:height="6.207cm" style:rel-height="scale" draw:z-index="5"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen1" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" svg:width="6.112cm" svg:height="6.207cm" style:rel-height="scale" draw:z-index="7"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -3702,20 +3705,20 @@
       <text:p text:style-name="P65">Velocidad Máxima: 3000rpm</text:p>
       <text:p text:style-name="P65">Encoder: Incremental 131072P/R 17-bit</text:p>
       <text:p text:style-name="P65">Opcionales:</text:p>
-      <text:list xml:id="list7308782680576314372" text:style-name="L3">
+      <text:list xml:id="list3945049215070247157" text:style-name="L3">
        <text:list-item>
-        <text:p text:style-name="P83">Extremo de eje recto con chaveta</text:p>
+        <text:p text:style-name="P92">Extremo de eje recto con chaveta</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P83">Sello de aceite</text:p>
+        <text:p text:style-name="P92">Sello de aceite</text:p>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P65">Manual: <text:bibliography-mark text:identifier="ProNet" text:bibliography-type="book" text:author="Estun" text:title="ProNet Series AC Servo Users&apos;s Manual">[ProNet]</text:bibliography-mark></text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P15"><draw:frame draw:style-name="fr4" draw:name="Marco2" text:anchor-type="as-char" svg:width="5.664cm" draw:z-index="6">
+      <text:p text:style-name="P15"><draw:frame draw:style-name="fr4" draw:name="Marco2" text:anchor-type="as-char" svg:width="5.664cm" draw:z-index="8">
         <draw:text-box fo:min-height="5.045cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen2" text:anchor-type="paragraph" svg:width="5.664cm" svg:height="5.045cm" style:rel-height="scale" draw:z-index="7"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen2" text:anchor-type="paragraph" svg:width="5.664cm" svg:height="5.045cm" style:rel-height="scale" draw:z-index="17"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -3851,9 +3854,9 @@
       <text:p text:style-name="contenido_20_de_20_la_20_tabla_20_-_20_izq">Manual: Sin datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P55"><draw:frame draw:style-name="fr4" draw:name="Marco3" text:anchor-type="as-char" svg:width="8.493cm" draw:z-index="15">
+      <text:p text:style-name="P55"><draw:frame draw:style-name="fr4" draw:name="Marco3" text:anchor-type="as-char" svg:width="8.493cm" draw:z-index="57">
         <draw:text-box fo:min-height="4.978cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen3" text:anchor-type="paragraph" svg:width="5.703cm" svg:height="4.263cm" style:rel-height="scale" draw:z-index="61"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen3" text:anchor-type="paragraph" svg:width="5.703cm" svg:height="4.263cm" style:rel-height="scale" draw:z-index="63"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -4061,7 +4064,7 @@
      <table:table-cell office:value-type="string">
       <text:p text:style-name="P67"><draw:frame draw:style-name="fr4" draw:name="Marco4" text:anchor-type="as-char" svg:width="7.006cm" draw:z-index="1">
         <draw:text-box fo:min-height="6.865cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen4" text:anchor-type="paragraph" svg:width="4.63cm" svg:height="6.177cm" style:rel-height="scale" draw:z-index="8"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen4" text:anchor-type="paragraph" svg:width="4.63cm" svg:height="6.177cm" style:rel-height="scale" draw:z-index="9"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -4188,9 +4191,9 @@
       <text:p text:style-name="P66">Manual: Sin datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco5" text:anchor-type="as-char" svg:width="3.921cm" draw:z-index="9">
+      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco5" text:anchor-type="as-char" svg:width="3.921cm" draw:z-index="10">
         <draw:text-box fo:min-height="3.418cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen5" text:anchor-type="paragraph" svg:width="3.921cm" svg:height="3.418cm" style:rel-height="scale" draw:z-index="10"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen5" text:anchor-type="paragraph" svg:width="3.921cm" svg:height="3.418cm" style:rel-height="scale" draw:z-index="11"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -4245,9 +4248,9 @@
            </draw:image>
           </draw:frame>Foto <text:sequence text:ref-name="refFoto10" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">11</text:sequence>: Vista frontal</text:p>
         </draw:text-box>
-       </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco6" text:anchor-type="as-char" svg:y="-4.117cm" svg:width="3.958cm" draw:z-index="11">
+       </draw:frame><draw:frame draw:style-name="fr5" draw:name="Marco6" text:anchor-type="as-char" svg:y="-4.117cm" svg:width="3.958cm" draw:z-index="12">
         <draw:text-box fo:min-height="4.193cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen10" text:anchor-type="paragraph" svg:width="3.44cm" svg:height="3.44cm" style:rel-height="scale" draw:z-index="12"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen10" text:anchor-type="paragraph" svg:width="3.44cm" svg:height="3.44cm" style:rel-height="scale" draw:z-index="13"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -4325,9 +4328,9 @@
       <text:p text:style-name="P69">Manual: Sin datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco7" text:anchor-type="as-char" svg:width="5.569cm" draw:z-index="13">
+      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco7" text:anchor-type="as-char" svg:width="5.569cm" draw:z-index="14">
         <draw:text-box fo:min-height="3.69cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen11" text:anchor-type="paragraph" svg:width="4.339cm" svg:height="3.244cm" style:rel-height="scale" draw:z-index="14"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen11" text:anchor-type="paragraph" svg:width="4.339cm" svg:height="3.244cm" style:rel-height="scale" draw:z-index="15"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -4411,9 +4414,9 @@
       <text:p text:style-name="P69">Manual: Sin datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco8" text:anchor-type="as-char" svg:width="5.807cm" draw:z-index="22">
+      <text:p text:style-name="P68"><draw:frame draw:style-name="fr4" draw:name="Marco8" text:anchor-type="as-char" svg:width="5.807cm" draw:z-index="55">
         <draw:text-box fo:min-height="4.008cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen12" text:anchor-type="paragraph" svg:width="3.276cm" svg:height="3.796cm" style:rel-height="scale" draw:z-index="55"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen12" text:anchor-type="paragraph" svg:width="3.276cm" svg:height="3.796cm" style:rel-height="scale" draw:z-index="64"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
              DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
              FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -4533,9 +4536,9 @@
       <text:p text:style-name="P69">Manual: Sin datos</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string">
-      <text:p text:style-name="P57"><draw:frame draw:style-name="fr4" draw:name="Marco33" text:anchor-type="as-char" svg:width="7.475cm" draw:z-index="56">
+      <text:p text:style-name="P57"><draw:frame draw:style-name="fr4" draw:name="Marco33" text:anchor-type="as-char" svg:width="7.475cm" draw:z-index="65">
         <draw:text-box fo:min-height="5.613cm">
-         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen33" text:anchor-type="paragraph" svg:width="5.902cm" svg:height="4.427cm" style:rel-height="scale" draw:z-index="57"><draw:image>
+         <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen33" text:anchor-type="paragraph" svg:width="5.902cm" svg:height="4.427cm" style:rel-height="scale" draw:z-index="66"><draw:image>
             <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
              MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
              T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -4638,9 +4641,9 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188310_359546015"/><text:bookmark text:name="SECTION00340000000000000000"/>Conexionado inicial, primer arranque de controladora<text:bookmark-end text:name="__RefHeading__188310_359546015"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="SECTION00340000000000000000"/><text:bookmark-start text:name="__RefHeading__188310_359546015"/>Conexionado inicial, primer arranque de controladora<text:bookmark-end text:name="__RefHeading__188310_359546015"/></text:h>
    <text:p text:style-name="Text_20_body">Con la información recabada en dichos manuales se armo un diagrama de conexionado inicial, el cuál permitiese encender la controladora, dado que se desconocía si la controladora se encontraba en estado funcional o si la misma había sido bloqueada de alguna forma que impidiese la realización del proyecto.</text:p>
-   <text:p text:style-name="Text_20_body">El primer inconveniente surgió al momento de no saber de la existencia del transformador principal el cuál es externo a la máquina y se encontraba alejado de la misma. La fuente de CC (corriente continua) estaba configurada para trabajar en 220V, y la conexión a la misma era entre fases (tensión de linea), si la conexión hubiese sido directa a la red disponible en Rosario eso hubiese significado <draw:frame draw:style-name="fr13" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.81cm" svg:height="0.504cm" draw:z-index="58"><draw:object>
+   <text:p text:style-name="Text_20_body">El primer inconveniente surgió al momento de no saber de la existencia del transformador principal el cuál es externo a la máquina y se encontraba alejado de la misma. La fuente de CC (corriente continua) estaba configurada para trabajar en 220V, y la conexión a la misma era entre fases (tensión de linea), si la conexión hubiese sido directa a la red disponible en Rosario eso hubiese significado <draw:frame draw:style-name="fr13" draw:name="Objeto1" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.81cm" svg:height="0.504cm" draw:z-index="67"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -4692,7 +4695,7 @@
      </draw:image>
     </draw:frame>aplicado<text:span text:style-name="T5">s</text:span> a la entrada de la fuente, lo cuál obviamente hubiese dañado la misma.</text:p>
    <text:p text:style-name="Text_20_body">Se procedió a desconectar los cables a la salida del interruptor principal y medir la tensión de linea y fase disponible a la entrada de dicho interruptor. Se constato que la tensión de linea era de aproximadamente 200V eficaces lo cuál se corresponde con la existencia de un transformador 220V/110V <text:span text:style-name="T5">conectado como estrella-triángulo </text:span>entre la linea de distribución eléctrica de la ciudad de Rosario y dicho interruptor, a continuación se paso a identificar el transformador disponible.</text:p>
-   <text:p text:style-name="Text_20_body">Suponiendo la existencia de dicho transformador la tensión de linea resulta <draw:frame draw:style-name="fr13" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.79cm" svg:height="0.504cm" draw:z-index="18"><draw:object>
+   <text:p text:style-name="Text_20_body">Suponiendo la existencia de dicho transformador la tensión de linea resulta <draw:frame draw:style-name="fr13" draw:name="Objeto2" text:anchor-type="as-char" svg:y="-0.415cm" svg:width="2.79cm" svg:height="0.504cm" draw:z-index="20"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -4747,9 +4750,9 @@
    <text:p text:style-name="Text_20_body">Finalmente y dado que estaban dadas las condiciones se procedió a interrumpir el suministro eléctrico a la máquina, desconectar todos los cables salvo la alimentación y el conexionado de tierra en la controladora CNC, verificar continuidad, y por último alimentar la máquina y la controladora.</text:p>
    <text:p text:style-name="Text_20_body">El primer hito en el desarrollo del proyecto fue logrado y era que la controladora CNC estuviese funcional. No sólo eso, sino que también se pudo comprobar que el código del PLC y las distintas tablas se encontraban en modo editable, con lo cuál se comprobó que no existía ningún tipo de impedimento para el desarrollo del trabajo. Se procedió a investigar la interfaz de usuario con el fin de recabar la mayor cantidad de información posible.</text:p>
    <text:p text:style-name="Text_20_body">A continuación se puede observar el conexionado eléctrico descripto en está sección, habiendo comprobado que la controladora estaba funcional se procedió a desconectar el circuito armado y a esquematizar el conexionado eléctrico de distribución de potencia.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco10" text:anchor-type="as-char" svg:width="15.399cm" svg:height="4.022cm" style:rel-height="scale-min" draw:z-index="19">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco10" text:anchor-type="as-char" svg:width="15.399cm" svg:height="4.022cm" style:rel-height="scale-min" draw:z-index="21">
      <draw:text-box>
-      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr10" draw:name="Imagen13" text:anchor-type="paragraph" svg:width="15.399cm" svg:height="4.022cm" style:rel-height="scale" draw:z-index="20"><draw:image>
+      <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr10" draw:name="Imagen13" text:anchor-type="paragraph" svg:width="15.399cm" svg:height="4.022cm" style:rel-height="scale" draw:z-index="22"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wgALCACXAkUBAREA/8QAHAAB
           AQACAwEBAAAAAAAAAAAAAAEFBgMEBwII/9oACAEBAAAAAf1NUoAJQSyyiUSgAlAAACwAxeTv
@@ -5036,7 +5039,7 @@
        </draw:frame>Esquema <text:sequence text:ref-name="refEsquema0" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">1</text:sequence>: Conexionado para el <text:span text:style-name="T6">primer contacto con</text:span> la controladora</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__188312_359546015"/><text:bookmark text:name="SECTION00350000000000000000"/>Diseño del esquema de conexionado eléctrico<text:bookmark-end text:name="__RefHeading__188312_359546015"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="SECTION00350000000000000000"/><text:bookmark-start text:name="__RefHeading__188312_359546015"/>Diseño del esquema de conexionado eléctrico<text:bookmark-end text:name="__RefHeading__188312_359546015"/></text:h>
    <text:p text:style-name="P16">El conexionado eléctrico es un sistema complejo en sí mismo, que interconecta los distintos subsistemas y distribuye potencia a los mismos. Con la ayuda del manual de la máquina, en el que se encontraba el diagrama original, el esquema eléctrico de otra máquina disponible en la empresa, el manual de la controladora, de los drivers y del inversor del husillo se procedió a realizar un diagrama de conexionado eléctrico. El diagrama final se encuentra adjunto en 16 Apéndice C – Diagramas eléctricos, en esta sección se explicarán algunas partes consideradas importantes de dicho diagrama y por qué se decidió realizarlo de tal manera. Tal cual se ha mencionado anteriormente el proyecto fue realizado de forma iterativa, y si bien el diagrama mostrado es el final, no necesariamente significa que cada esquema haya estado totalmente terminado al momento de conectar, o que el mismo no haya podido mutar.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__188314_359546015"/><text:soft-page-break/>Distribución de potencia<text:bookmark-end text:name="__RefHeading__188314_359546015"/></text:h>
    <text:p text:style-name="imagen"><draw:frame draw:style-name="fr7" draw:name="Marco9" text:anchor-type="as-char" svg:width="12.409cm" draw:z-index="2">
@@ -5351,21 +5354,21 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="P16">El circuito de la figura muestra cómo se acopla y desacopla la etapa de potencia de la máquina a la red eléctrica. Su composición es sencilla:</text:p>
-   <text:list xml:id="list2834277882148032809" text:style-name="L4">
+   <text:list xml:id="list6429110905364403084" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P85">KOEMER se encuentra conectado a la salida O1 del PLC, la cuál se activa sólo después de que la controladora CNC está lista y no se han producido errores.</text:p>
+     <text:p text:style-name="P71">KOEMER se encuentra conectado a la salida O1 del PLC, la cuál se activa sólo después de que la controladora CNC está lista y no se han producido errores.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85">El operario cuenta con los pulsadores MACHINE ON y MACHINE OFF (POWERON y POWEROFF en el esquema) para prender y apagar la etapa de potencia, también se dispone del pulsador del tipo parada de emergencia EMER el cuál requiere que el operario realice una acción previo a su rearmado.</text:p>
+     <text:p text:style-name="P71">El operario cuenta con los pulsadores MACHINE ON y MACHINE OFF (POWERON y POWEROFF en el esquema) para prender y apagar la etapa de potencia, también se dispone del pulsador del tipo parada de emergencia EMER el cuál requiere que el operario realice una acción previo a su rearmado.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85">Se dota al circuito con el relay KRMACHON para retener el estado de alimentación.</text:p>
+     <text:p text:style-name="P71">Se dota al circuito con el relay KRMACHON para retener el estado de alimentación.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85">La controladora cuenta con un botón de prendido (CNC ON), el cuál no se muestra en el esquema, esté debe ser presionado cuándo se desea que la misma inicie su etapa de arranque.</text:p>
+     <text:p text:style-name="P71">La controladora cuenta con un botón de prendido (CNC ON), el cuál no se muestra en el esquema, esté debe ser presionado cuándo se desea que la misma inicie su etapa de arranque.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85">El primario del relay KMACHON es de 24VAC por lo cuál se decidió que toda la etapa de arranque de máquina funcione en 24VAC en vez de 24VCC dado el costo elevado de reemplazar al contactor principal.</text:p>
+     <text:p text:style-name="P71">El primario del relay KMACHON es de 24VAC por lo cuál se decidió que toda la etapa de arranque de máquina funcione en 24VAC en vez de 24VCC dado el costo elevado de reemplazar al contactor principal.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P16">A continuación se muestran fotos tomadas a los distintos pulsadores:</text:p>
@@ -5593,9 +5596,9 @@
    <text:p text:style-name="P18">Siempre que la controladora detecte un error interno, algunos de los módulos de potencia detecte una emergencia, como por ejemplo sobre carga en los drivers de los ejes, o se active el pulsador de emergencia el PLC desactivará la salida O1 lo cuál desenergizará el primario de KOEMER quitando la alimentación de los primarios de KRMACHON y KMACHON produciéndose el mismo efecto que cuando se presiona POWER OFF con la diferencia de que un mensaje de error se mostrará en la <text:soft-page-break/>controladora independientemente del estado de la misma.</text:p>
    <text:p text:style-name="P18">Una norma de seguridad que se utiliza en el taller de mecanizado dónde la máquina se encuentra funcionando es la de dejar el pulsador de emergencia desarmado cada vez que se termina de realizar un trabajo con el objetivo de evitar cualquier tipo de movimiento involuntario de la máquina durante el proceso de encendido, pero dado que dicho pulsador no dispone de desarmado electrónico no es posible garantizar está norma desdé el CNC o el PLC.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Alimentación panel <text:span text:style-name="T7">de operador </text:span>- encendido de controladora CNC</text:h>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco14" text:anchor-type="as-char" svg:width="16.616cm" draw:z-index="29">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco14" text:anchor-type="as-char" svg:width="16.616cm" draw:z-index="56">
      <draw:text-box fo:min-height="4.948cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen18" text:anchor-type="paragraph" svg:width="16.616cm" svg:height="4.948cm" style:rel-height="scale" draw:z-index="30"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen18" text:anchor-type="paragraph" svg:width="16.616cm" svg:height="4.948cm" style:rel-height="scale" draw:z-index="58"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wgALCAC7AnQBAREA/8QAHAAB
           AQACAwEBAAAAAAAAAAAAAAEFBgMEBwII/9oACAEBAAAAAf1SAASk6vWxn38/XY7vfCVChFIo
@@ -5873,7 +5876,7 @@
    <text:p text:style-name="P18">Por ello se decidió utilizar un pulsador y un relé de retención para encender la controladora, dado que ya se disponía de un pulsador de color verde en la misma controladora, se decidió reutilizarlo para hacer las veces de CNC ON, manteniendo su función primaria como CYCLE START, el mismo fue fotografiado y puede ser visto en <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto16">Foto 17</text:sequence-ref>.</text:p>
    <text:p text:style-name="P18">Inicialmente el contactor KCNCON se encuentra abierto lo mismo que el pulsador CNC ON. Cuando el operario presiona dicho pulsador se energiza la bobina del relé KCNCON y se cierra el contactor KCNCON reteniendo el estado encendido de la controladora e iniciando la secuencia de arranque de la controladora. Dicho estado se mantiene hasta que se abra el interruptor principal, o se pierda la energía de la red.</text:p>
    <text:p text:style-name="P18">No se dispuso al usuario de un botón para apagar la controladora en el panel de operación a fin de evitar que se pueda apagar la controladora en medio de una operación de mecanizado por accidente.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__188318_359546015"/><text:bookmark text:name="SECTION00353000000000000000"/>Conexionado <text:span text:style-name="T8">de ejes</text:span><text:bookmark-end text:name="__RefHeading__188318_359546015"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="SECTION00353000000000000000"/><text:bookmark-start text:name="__RefHeading__188318_359546015"/>Conexionado <text:span text:style-name="T8">de ejes</text:span><text:bookmark-end text:name="__RefHeading__188318_359546015"/></text:h>
    <text:p text:style-name="P20">Previo a explicar como se resolvió el conexionado eléctrico y lógico entre la controladora, los drivers, motores y sus respectivos encoders, es primero necesario presentar el siguiente diagrama a fin de explicar la interacción entre los distintos componentes del subsistema.</text:p>
    <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco15" text:anchor-type="as-char" svg:width="12.442cm" draw:z-index="31">
      <draw:text-box fo:min-height="21.32cm">
@@ -6505,36 +6508,36 @@
    <text:p text:style-name="Text_20_body">Los motores tienen acoplados a sus ejes, de fábrica, encoders digitales que entregan señales de 17 bits en paralelo, dichas señales son interpretadas, reducidas en resolución por un divisor programable y convertidas en un tren de pulso diferencial compatible con la controladora en el segundo bloque funcional disponible en los drivers. Dichos encoders permiten medir la posición relativa al tiempo inicial de medición, pero no así posición absoluta. Para ello se disponen de sensores de posición de referencia tanto en los ejes X y Z como así también en el cambiador de herramientas.</text:p>
    <text:p text:style-name="P21">Por último se cuenta con un bloque que permite identificar el estado del driver, esté permite acceder a distintas variables internas al driver como ser: sobre carga, velocidad de referencia alcanzada, estado de alarma, reinicio de alarma, etc. El driver permite configurar las salidas o entradas disponibles.</text:p>
    <text:p text:style-name="P20">Cada uno de los drivers de ejes cuentan con 7 conectores:</text:p>
-   <text:list xml:id="list5444981454259266415" text:style-name="L5">
+   <text:list xml:id="list4892072477050851402" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P86">Alimentación trifásica y conexión de reactor de corriente continua.</text:p>
+     <text:p text:style-name="P72">Alimentación trifásica y conexión de reactor de corriente continua.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86">Alimentación bifásica del circuito de control y resistencia regenerativa.</text:p>
+     <text:p text:style-name="P72">Alimentación bifásica del circuito de control y resistencia regenerativa.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86">Salida de potencia hacía el motor.</text:p>
+     <text:p text:style-name="P72">Salida de potencia hacía el motor.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86">Conectores de comunicación CAN.</text:p>
+     <text:p text:style-name="P72">Conectores de comunicación CAN.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86">Entrada/salida digital y analógica.</text:p>
+     <text:p text:style-name="P72">Entrada/salida digital y analógica.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86">Entrada del encoder proveniente del motor a 17 bits con referencia de sentido.</text:p>
+     <text:p text:style-name="P72">Entrada del encoder proveniente del motor a 17 bits con referencia de sentido.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P20">El conexionado de los drivers se dividió en 3 bloques funcionales, siguiendo los lineamientos utilizados por Estun (fabricante de los drivers y motores) en su documentación:</text:p>
-   <text:list xml:id="list6491944738363678064" text:style-name="L6">
+   <text:list xml:id="list5771951356690413652" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P87">Alimentación de potencia y control, regeneración, freno y alimentación del servo motor.</text:p>
+     <text:p text:style-name="P73">Alimentación de potencia y control, regeneración, freno y alimentación del servo motor.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P87">Señal de control de velocidad, entradas y salidas lógicas del driver.</text:p>
+     <text:p text:style-name="P73">Señal de control de velocidad, entradas y salidas lógicas del driver.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P87">Conexión entre el encoder del motor y el driver.</text:p>
+     <text:p text:style-name="P73">Conexión entre el encoder del motor y el driver.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P20">A continuación se pueden apreciar los diagramas aplicados al motor del eje X, se utiliza como referencia para el nombrado de los conectores el provisto por Estun.</text:p>
@@ -9072,7 +9075,7 @@
        </draw:frame>Esquema <text:sequence text:ref-name="refEsquema8" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">9</text:sequence>: Conexionado de selenoides</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="P60" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__188324_359546015"/><text:bookmark text:name="SECTION00356000000000000000"/>Conexionados de entradas y salidas<text:bookmark-end text:name="__RefHeading__188324_359546015"/></text:h>
+   <text:h text:style-name="P60" text:outline-level="3"><text:bookmark text:name="SECTION00356000000000000000"/><text:bookmark-start text:name="__RefHeading__188324_359546015"/>Conexionados de entradas y salidas<text:bookmark-end text:name="__RefHeading__188324_359546015"/></text:h>
    <text:p text:style-name="P28"><text:span text:style-name="T14">Los siguientes esquemas</text:span><text:span text:style-name="T11"> muestra</text:span><text:span text:style-name="T14">n</text:span><text:span text:style-name="T11"> el conexionado de entradas y salidas del PLC, el cual en función del puerto utilizado se trata de puertos de entradas y salidas exclusivamente o mixtos. Como se puede apreciar en </text:span><text:span text:style-name="T14">los</text:span><text:span text:style-name="T11"> esquema</text:span><text:span text:style-name="T14">s</text:span><text:span text:style-name="T11"> el primario de cada relé fue dotado de un diodo de señal conectado de tal manera de disipar la energía almacenada en la bobina al momento de desenergizarlo, </text:span><text:span text:style-name="T14">en el capítulo </text:span><text:span text:style-name="T14"><text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__1206_1281053670">1.5.6.1</text:bookmark-ref></text:span><text:span text:style-name="T14"> se explica en detalle dicha conexión.</text:span></text:p>
    <text:p text:style-name="P23">Cabe destacar que a determinados pines del puerto X2 se asignan funciones especiales como salida de emergencia OEMER (O1) y entrada de emergencia IEMER (I1).</text:p>
    <text:p text:style-name="P23">La salida OEMER permite activar o desactivar módulos en función del estado de funcionamiento del sistema. En caso de detectar algún tipo de estado de alerta se desenergiza la bobina del RELÉ KOEMER lo cual desenergiza el contactor principal, eliminado el suministro de energía a la etapa de potencia de la máquina.</text:p>
@@ -10493,7 +10496,7 @@
        </draw:frame>Esquema <text:sequence text:ref-name="refEsquema10" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">11</text:sequence>: Conector X2 - Parte 2</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P82"><draw:frame draw:style-name="fr9" draw:name="Marco29" text:anchor-type="as-char" svg:y="-5.241cm" svg:width="25.695cm" draw:z-index="49">
+   <text:p text:style-name="P93"><draw:frame draw:style-name="fr9" draw:name="Marco29" text:anchor-type="as-char" svg:y="-5.241cm" svg:width="25.695cm" draw:z-index="49">
      <draw:text-box fo:min-height="15.304cm">
       <text:p text:style-name="Esquema"><draw:frame draw:style-name="fr11" draw:name="Imagen29" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.127cm" svg:width="25.695cm" svg:height="13.243cm" style:rel-height="scale" draw:z-index="50"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
@@ -12017,7 +12020,7 @@
       <text:p text:style-name="Esquema">Esquema <text:sequence text:ref-name="refEsquema12" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">13</text:sequence>: Conector X9 - Entradas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P79"/>
    <text:h text:style-name="P62" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__1206_1281053670"/>Conexión de primarios de relays<text:bookmark-end text:name="__RefHeading__1206_1281053670"/></text:h>
    <text:p text:style-name="P26">El siguiente esquema muestra el conexionado utilizado en el primario de cada uno de los relays de 24VDC, la salida del PLC es a transistor por lo cuál es necesario disponer un diodo de recuperación a fin de proveer un camino de disipación de energía al momento de desactivar la salida del PLC.</text:p>
    <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco24" text:anchor-type="as-char" svg:width="10.142cm" draw:z-index="53">
@@ -12141,80 +12144,80 @@
        </draw:frame>Esquema <text:sequence text:ref-name="refEsquema13" text:name="Esquema" text:formula="ooow:Esquema+1" style:num-format="1">14</text:sequence>: Conexión genérica de primario de relay</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="P63" text:outline-level="4"><text:bookmark text:name="SECTION00356001000000000000"/><text:bookmark-start text:name="__RefHeading__188326_359546015"/>Descripción de las entradas<text:bookmark-end text:name="__RefHeading__188326_359546015"/></text:h>
-   <text:list xml:id="list3504205857946060141" text:style-name="WW8Num8">
+   <text:h text:style-name="P63" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188326_359546015"/><text:bookmark text:name="SECTION00356001000000000000"/>Descripción de las entradas<text:bookmark-end text:name="__RefHeading__188326_359546015"/></text:h>
+   <text:list xml:id="list7567289544221925514" text:style-name="WW8Num8">
     <text:list-item>
-     <text:p text:style-name="P92">IEJEXOK, IEJEZOK, IEJETOK: estas entradas coinciden con la salida de alarma de cada uno de los drivers de los ejes X, Z y T (torreta) respectivamente, permiten el PLC detener el movimiento notificando al usuario que se ha producido una situación inesperada, <text:span text:style-name="T16">no se desenergiza la máquina con lo cuál el husillo puede seguir girando.</text:span></text:p>
+     <text:p text:style-name="P78">IEJEXOK, IEJEZOK, IEJETOK: estas entradas coinciden con la salida de alarma de cada uno de los drivers de los ejes X, Z y T (torreta) respectivamente, permiten el PLC detener el movimiento notificando al usuario que se ha producido una situación inesperada, <text:span text:style-name="T16">no se desenergiza la máquina con lo cuál el husillo puede seguir girando.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ITALFIN1, ITALFIN2, ITALFIN3: Detectores de posición que permiten saber en qué región se encuentra ubicada la contra punta.</text:p>
+     <text:p text:style-name="P78">ITALFIN1, ITALFIN2, ITALFIN3: Detectores de posición que permiten saber en qué región se encuentra ubicada la contra punta.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">IREF0X, IREF0Z, IREF0T: Detectores de referencia de máquina <text:span text:style-name="T16">en cada uno de los ejes</text:span>.</text:p>
+     <text:p text:style-name="P78">IREF0X, IREF0Z, IREF0T: Detectores de referencia de máquina <text:span text:style-name="T16">en cada uno de los ejes</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ICLAMP, IUNCLAMP: Detectores de acople y desacople del intercambiador de herramienta<text:span text:style-name="T16">s.</text:span></text:p>
+     <text:p text:style-name="P78">ICLAMP, IUNCLAMP: Detectores de acople y desacople del intercambiador de herramienta<text:span text:style-name="T16">s.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ISENAIR: Permite detectar si hay presión de aire suficiente a la entrada del circuito neumático, se trata de un sensor tipo normal cerrado, el cual si la presión desciende de cierto valor prefijado, sobre el cual no hay control aparente, cambia de estado a abierto. Eso hace cambiar de estado a la entrada ISENSAIR y se muestra un alerta en la pantalla del operario para verificar qué sucede. Si la condición de baja presión se mantiene durante tiempo prolongado el sistema queda bloqueado hasta que cambie de estado, ya que no va a ser posible completar ciertas operaciones como lubricación y cambio de herramientas.</text:p>
+     <text:p text:style-name="P78">ISENAIR: Permite detectar si hay presión de aire suficiente a la entrada del circuito neumático, se trata de un sensor tipo normal cerrado, el cual si la presión desciende de cierto valor prefijado, sobre el cual no hay control aparente, cambia de estado a abierto. Eso hace cambiar de estado a la entrada ISENSAIR y se muestra un alerta en la pantalla del operario para verificar qué sucede. Si la condición de baja presión se mantiene durante tiempo prolongado el sistema queda bloqueado hasta que cambie de estado, ya que no va a ser posible completar ciertas operaciones como lubricación y cambio de herramientas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ILOWHIDR: Para el correcto funcionamiento del sistema hidráulico es necesario mantener un determinado nivel de presión hidráulica, dicha presión es configurable por el usuario de forma manual con una perilla mecánica sobre la misma bomba, la entrada ILOWHIDR tiene conectado un sensor normal cerrado el cual se abre cuando la presión desciende. Es importante notar que es aceptable que la presión descienda por unos pocos milli segundos <text:span text:style-name="T16">aproximadamente </text:span>100 ms, con lo cual se sincroniza la entrada con un timer.</text:p>
+     <text:p text:style-name="P78">ILOWHIDR: Para el correcto funcionamiento del sistema hidráulico es necesario mantener un determinado nivel de presión hidráulica, dicha presión es configurable por el usuario de forma manual con una perilla mecánica sobre la misma bomba, la entrada ILOWHIDR tiene conectado un sensor normal cerrado el cual se abre cuando la presión desciende. Es importante notar que es aceptable que la presión descienda por unos pocos milli segundos <text:span text:style-name="T16">aproximadamente </text:span>100 ms, con lo cual se sincroniza la entrada con un timer.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">IMACHON: Como se describió en <text:span text:style-name="T16">previamente</text:span> el sistema cuenta con un botón de encendido de la etapa de potencia, dado que dicho botón no es una entrada directa al PLC. <text:soft-page-break/>El hecho que podría ser posible que el contactor de potencia no cerrase el circuito fue necesario agregar una entrada extra al PLC. Para dicha entrada se utilizó un normal abierto disponible en uno de los contactores trifásicos que conecta 24V a IMACHON cuando el contactor principal se cierra.</text:p>
+     <text:p text:style-name="P78">IMACHON: Como se describió en <text:span text:style-name="T16">previamente</text:span> el sistema cuenta con un botón de encendido de la etapa de potencia, dado que dicho botón no es una entrada directa al PLC. <text:soft-page-break/>El hecho que podría ser posible que el contactor de potencia no cerrase el circuito fue necesario agregar una entrada extra al PLC. Para dicha entrada se utilizó un normal abierto disponible en uno de los contactores trifásicos que conecta 24V a IMACHON cuando el contactor principal se cierra.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ILUB190, ILUB160: <text:span text:style-name="T16">Entradas relacionadas con el nivel de lubricante del sistema de autolubricación de ejes, </text:span>se dota al sistema de un sensor normal cerrado el cual se abre cuando el nivel de aceite cae a un nivel crítico.</text:p>
+     <text:p text:style-name="P78">ILUB190, ILUB160: <text:span text:style-name="T16">Entradas relacionadas con el nivel de lubricante del sistema de autolubricación de ejes, </text:span>se dota al sistema de un sensor normal cerrado el cual se abre cuando el nivel de aceite cae a un nivel crítico.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">ISPOVLOA, ISPPOWLA, ISPSU, ISPALAR: <text:span text:style-name="T16">Señales de alarma y estado provenientes del </text:span>inversor senoidal <text:span text:style-name="T16">utiliado por </text:span>el husillo <text:span text:style-name="T16">permite al</text:span> PLC mostrar distintos estados de falla.</text:p>
+     <text:p text:style-name="P78">ISPOVLOA, ISPPOWLA, ISPSU, ISPALAR: <text:span text:style-name="T16">Señales de alarma y estado provenientes del </text:span>inversor senoidal <text:span text:style-name="T16">utiliado por </text:span>el husillo <text:span text:style-name="T16">permite al</text:span> PLC mostrar distintos estados de falla.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P88">IPDEALCLA, IPEDALTAI: El usuario cuenta además del panel del usuario con dos pedales, los cuales le permiten liberar la pieza cuando la misma se encuentra detenida, o cambiar la posición de la contra punta. Dichos pedales son normal abierto y al ser presionados cambian de estado a cerrado conectando las respectivas entradas a 24V. Es importante destacar que por pedido de los operarios el pedal de control de la contra punta ha sido anulado.</text:p>
+     <text:p text:style-name="P74">IPDEALCLA, IPEDALTAI: El usuario cuenta además del panel del usuario con dos pedales, los cuales le permiten liberar la pieza cuando la misma se encuentra detenida, o cambiar la posición de la contra punta. Dichos pedales son normal abierto y al ser presionados cambian de estado a cerrado conectando las respectivas entradas a 24V. Es importante destacar que por pedido de los operarios el pedal de control de la contra punta ha sido anulado.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P64" text:outline-level="4"><text:bookmark text:name="SECTION00356002000000000000"/><text:bookmark-start text:name="__RefHeading__188328_359546015"/>Descripción de las salidas<text:bookmark-end text:name="__RefHeading__188328_359546015"/></text:h>
+   <text:h text:style-name="P64" text:outline-level="4"><text:bookmark-start text:name="__RefHeading__188328_359546015"/><text:bookmark text:name="SECTION00356002000000000000"/>Descripción de las salidas<text:bookmark-end text:name="__RefHeading__188328_359546015"/></text:h>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T16">E</text:span>n el esquema se muestra el número de identificación del PIN en cuestión, y del relé utilizado, el nombre de dichos relé se compone del prefijo K y el nombre interno de la variable, <text:span text:style-name="T16">las salidas disponibles son:</text:span></text:p>
-   <text:list xml:id="list3713106693191866367" text:style-name="WW8Num9">
+   <text:list xml:id="list3409245569053343913" text:style-name="WW8Num9">
     <text:list-item>
-     <text:p text:style-name="P89">OEMER: permite energizar al relé KOEMER el cual permite cerrar el circuito que energiza al contactor de potencia, en caso de estado de emergencia del PLC dicha salida se pone en estado bajo, desenergizando KOEMER abriendo inmediatamente la alimentación del contactor principal.</text:p>
+     <text:p text:style-name="P75">OEMER: permite energizar al relé KOEMER el cual permite cerrar el circuito que energiza al contactor de potencia, en caso de estado de emergencia del PLC dicha salida se pone en estado bajo, desenergizando KOEMER abriendo inmediatamente la alimentación del contactor principal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OSERONX, OSERONZ: cada una de estas salidas permiten habilitar la salida del driver de servo correspondiente.</text:p>
+     <text:p text:style-name="P75">OSERONX, OSERONZ: cada una de estas salidas permiten habilitar la salida del driver de servo correspondiente.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OSERONT: permite habilitar el servo correspondiente al cambiador de herramientas.</text:p>
+     <text:p text:style-name="P75">OSERONT: permite habilitar el servo correspondiente al cambiador de herramientas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OALRESX, OALRESZ, OALREST: estas salidas permiten reiniciar el estado de alarma de los servos de los distintos ejes a fin de reiniciar el proceso.</text:p>
+     <text:p text:style-name="P75">OALRESX, OALRESZ, OALREST: estas salidas permiten reiniciar el estado de alarma de los servos de los distintos ejes a fin de reiniciar el proceso.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OCOOLANT: permite habilitar la bomba de refrigerante.</text:p>
+     <text:p text:style-name="P75">OCOOLANT: permite habilitar la bomba de refrigerante.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OTAILR, OTAILF, OTAILHS: permiten habilitar el avance desde la pieza, hacia la pieza y a alta velocidad de la contra punta.</text:p>
+     <text:p text:style-name="P75">OTAILR, OTAILF, OTAILHS: permiten habilitar el avance desde la pieza, hacia la pieza y a alta velocidad de la contra punta.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OSPCLAMP: permite liberar y retener la pieza del cabezal.</text:p>
+     <text:p text:style-name="P75">OSPCLAMP: permite liberar y retener la pieza del cabezal.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OCHIPFW, OCHIPRW: permite activar el avance directo y reverso del sistema saca virutas.</text:p>
+     <text:p text:style-name="P75">OCHIPFW, OCHIPRW: permite activar el avance directo y reverso del sistema saca virutas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OLUZVERDE, OLUZROJA: permite activar las luces verde y roja <text:span text:style-name="T16">que permiten al resto de los operarios de planta conocer el estado de funcionamiento de la máquina sin estar frente al panel de control.</text:span></text:p>
+     <text:p text:style-name="P75">OLUZVERDE, OLUZROJA: permite activar las luces verde y roja <text:span text:style-name="T16">que permiten al resto de los operarios de planta conocer el estado de funcionamiento de la máquina sin estar frente al panel de control.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OSPRW, OSPFW, OSPALRESSP, OSPSTOP: permiten activar el sentido de giro directo e inverso, reinicio de alarmas y parada del driver del husillo.</text:p>
+     <text:p text:style-name="P75">OSPRW, OSPFW, OSPALRESSP, OSPSTOP: permiten activar el sentido de giro directo e inverso, reinicio de alarmas y parada del driver del husillo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OLUBAIR: Permite activar el circuito de <text:span text:style-name="T16">auto </text:span>lubricación de ejes.</text:p>
+     <text:p text:style-name="P75">OLUBAIR: Permite activar el circuito de <text:span text:style-name="T16">auto </text:span>lubricación de ejes.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OPARTCAT: Permite activar y desactivar el actuador de movimiento del brazo del part catcher.</text:p>
+     <text:p text:style-name="P75">OPARTCAT: Permite activar y desactivar el actuador de movimiento del brazo del part catcher.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89">OUNCLAMP: Permite desacoplar y acoplar el cambiador de herramientas.</text:p>
+     <text:p text:style-name="P75">OUNCLAMP: Permite desacoplar y acoplar el cambiador de herramientas.</text:p>
     </text:list-item>
    </text:list>
   </office:text>
