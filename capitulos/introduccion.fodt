@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-03T17:48:15.809906114</dc:date><meta:editing-duration>P3DT23H52M31S</meta:editing-duration><meta:editing-cycles>281</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="26" meta:object-count="0" meta:page-count="19" meta:paragraph-count="137" meta:word-count="3448" meta:character-count="21166" meta:non-whitespace-character-count="17836"/></office:meta>
+ <office:meta><meta:initial-creator>Manuel Naranjo</meta:initial-creator><meta:creation-date>2014-10-11T09:26:37.746486623</meta:creation-date><dc:date>2015-03-11T09:20:26.192279450</dc:date><meta:editing-duration>P4DT17H27M36S</meta:editing-duration><meta:editing-cycles>282</meta:editing-cycles><meta:generator>LibreOffice/4.4.1.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:creator>Manuel Naranjo</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="26" meta:object-count="0" meta:page-count="19" meta:paragraph-count="139" meta:word-count="3442" meta:character-count="21116" meta:non-whitespace-character-count="17791"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">559276</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">559223</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22729</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23021</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">14924</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10079</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">569613</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13455</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">564589</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">559276</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22728</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">574199</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">559223</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23019</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">574146</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3233922</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3647704</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKSW5wdXRTbG90OkF1dG8ARHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sAH+/1NhbXN1bmctTUwtMTY0MC1TZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpTYW1zdW5nLU1MLTE2NDAtU2VyaWVzAAAAAAAWAAMA1gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9U2Ftc3VuZy1NTC0xNjQwLVNlcmllcwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUASW5wdXRTbG90OkF1dG8AABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -1305,82 +1305,114 @@
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="001e9024"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="contenido_20_-_20_mono">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002b773b" officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002d36dc"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002d96a8" officeooo:paragraph-rsid="002d96a8"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="contenido_20_-_20_mono">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-size-asian="10.5pt"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:paragraph-rsid="00153d10"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_6">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_5">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_7">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_7">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002b773b" officeooo:paragraph-rsid="002b773b"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="001e9024"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="002d36dc"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002d96a8" officeooo:paragraph-rsid="002d96a8"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="002b773b" officeooo:paragraph-rsid="002b773b"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="002d96a8"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_3" style:master-page-name="">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="imagen">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_3" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_6">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_7">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_7">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="002d96a8"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="imagen">
+   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="002b773b" officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="002b773b" officeooo:paragraph-rsid="002b773b"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Foto">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00335de5"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Foto">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00335de5"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-weight="normal" fo:background-color="transparent" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="002d96a8" officeooo:paragraph-rsid="002d96a8"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00335de5"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
@@ -1409,508 +1441,49 @@
   <style:style style:name="T9" style:family="text">
    <style:text-properties officeooo:rsid="002d96a8"/>
   </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="00323cc5"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="00335de5"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="0036df66"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
-  </style:style>
-  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
-  </style:style>
-  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
-  </style:style>
-  <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
-  </style:style>
-  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
   </style:style>
-  <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
   </style:style>
-  <style:style style:name="fr7" style:family="graphic" style:parent-style-name="Frame">
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
   </style:style>
+  <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+  </style:style>
+  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+  </style:style>
+  <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+  </style:style>
+  <style:style style:name="fr7" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+  </style:style>
   <style:style style:name="fr8" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr9" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr10" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr11" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <text:list-style style:name="L1">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L2">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L3">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L4">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L5">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L6">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L7">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L8">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L9">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L10">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
@@ -1998,7 +1571,7 @@
     <text:p text:style-name="P1">Reingeniería de torno CNC</text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">19</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:tab/>Naranjo Manuel Francisco N-0621/1<text:tab/>Página <text:page-number text:select-page="current">17</text:page-number></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Index" style:page-layout-name="pm2">
@@ -2020,13 +1593,13 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Foto"/>
    </text:sequence-decls>
-   <text:h text:style-name="P37" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__3583_95837665"/>Objetivos generales<text:bookmark-end text:name="__RefHeading__3583_95837665"/></text:h>
-   <text:p text:style-name="P29"><text:span text:style-name="T7">A gran escala el objetivo general del siguiente proyecto es lograr la actualización tecnológica de un torno CNC que tiempo atrás se encontraba en funcionamiento. Para ello e</text:span>l proceso abarcó la diagramación y resolución del conexionado eléctrico, la configuración de la interfaz hombre máquina, la configuración de los parámetros de control y parámetros de máquina, la programación del PLC, la resolución lógica de cada uno de los <text:span text:style-name="T7">bloques funcionales que componen el sistema con su respectiva</text:span> puesta a punto, <text:span text:style-name="T7">y finalmente realizandosé la puesta a punto </text:span>del conjunto, hasta lograr que la máquina volviese a producción.</text:p>
-   <text:h text:style-name="P34" text:outline-level="2">Estado inicial de la máquina</text:h>
-   <text:p text:style-name="P29">A continuación se muestran unas fotos que demuestran el estado inicial de la máquina.</text:p>
-   <text:p text:style-name="P41"><draw:frame draw:style-name="fr5" draw:name="Marco94" text:anchor-type="as-char" svg:y="-11.368cm" svg:width="15.245cm" svg:height="11.58cm" style:rel-height="scale-min" draw:z-index="38">
+   <text:h text:style-name="P39" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__3583_95837665"/>Objetivos generales<text:bookmark-end text:name="__RefHeading__3583_95837665"/></text:h>
+   <text:p text:style-name="P17"><text:span text:style-name="T7">A gran escala el objetivo general del siguiente proyecto es lograr la actualización tecnológica de un torno CNC que tiempo atrás se encontraba en funcionamiento. Para ello e</text:span>l proceso abarcó la diagramación y resolución del conexionado eléctrico, la configuración de la interfaz hombre máquina, la configuración de los parámetros de control y parámetros de máquina, la programación del PLC, la resolución lógica de cada uno de los <text:span text:style-name="T7">bloques funcionales que componen el sistema con su respectiva</text:span> puesta a punto, <text:span text:style-name="T7">y finalmente se realizó la puesta a punto </text:span>del conjunto, hasta lograr que la máquina volviese a producción.</text:p>
+   <text:h text:style-name="P35" text:outline-level="2">Estado inicial de la máquina</text:h>
+   <text:p text:style-name="P17">A continuación se muestran unas fotos que demuestran el estado inicial de la máquina.</text:p>
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr1" draw:name="Marco94" text:anchor-type="as-char" svg:y="-11.368cm" svg:width="15.245cm" svg:height="11.58cm" style:rel-height="scale-min" draw:z-index="2">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen14" text:anchor-type="as-char" svg:y="-10.633cm" svg:width="15.245cm" svg:height="10.421cm" style:rel-height="scale" draw:z-index="39"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen14" text:anchor-type="as-char" svg:y="-10.633cm" svg:width="15.245cm" svg:height="10.421cm" style:rel-height="scale" draw:z-index="3"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -2627,9 +2200,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto0" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">1</text:sequence>: Estado inicial de la máquina – carro porta-herramientas – vista lateral</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P41"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco70" text:anchor-type="as-char" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale-min" draw:z-index="40">
+   <text:p text:style-name="P38"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco70" text:anchor-type="as-char" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale-min" draw:z-index="37">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr11" draw:name="Imagen15" text:anchor-type="as-char" svg:y="-11.659cm" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale" draw:z-index="41"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen15" text:anchor-type="as-char" svg:y="-11.659cm" svg:width="15.258cm" svg:height="11.448cm" style:rel-height="scale" draw:z-index="38"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -3395,9 +2968,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto1" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">2</text:sequence>: Estado inicial de la máquina – carro porta-herramientas – vista trasera</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P41"><draw:frame draw:style-name="fr4" draw:name="Marco72" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale-min" draw:z-index="42">
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr2" draw:name="Marco72" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale-min" draw:z-index="39">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen85" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale" draw:z-index="43"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr9" draw:name="Imagen85" text:anchor-type="as-char" svg:width="14.076cm" svg:height="10.555cm" style:rel-height="scale" draw:z-index="40"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -3955,9 +3528,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto2" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">3</text:sequence>: Estado inicial de la máquina - husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P41"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco5" text:anchor-type="as-char" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale-min" draw:z-index="44">
+   <text:p text:style-name="P38"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco5" text:anchor-type="as-char" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale-min" draw:z-index="41">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen84" text:anchor-type="paragraph" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale" draw:z-index="45"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen84" text:anchor-type="paragraph" svg:width="16.039cm" svg:height="12.028cm" style:rel-height="scale" draw:z-index="42"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -4805,11 +4378,11 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto3" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">4</text:sequence>: Estado inicial de la máquina - panel eléctrico</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="P36" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__213871_359546015"/>Estado actual de la máquina<text:bookmark-end text:name="__RefHeading__213871_359546015"/></text:h>
-   <text:p text:style-name="P29">Las siguientes imágenes muestran el estado actual de la máquina, incluso puede verse a la misma realizando producción del mecanizado de coronas forjadas.</text:p>
-   <text:p text:style-name="P41"><draw:frame draw:style-name="fr4" draw:name="Marco74" text:anchor-type="as-char" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale-min" draw:z-index="46">
+   <text:h text:style-name="P24" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__213871_359546015"/>Estado actual de la máquina<text:bookmark-end text:name="__RefHeading__213871_359546015"/></text:h>
+   <text:p text:style-name="P17">Las siguientes imágenes muestran el estado actual de la máquina, incluso puede verse a la misma realizando producción del mecanizado de coronas forjadas.</text:p>
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr2" draw:name="Marco74" text:anchor-type="as-char" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale-min" draw:z-index="43">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen50" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale" draw:z-index="47"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen50" text:anchor-type="paragraph" svg:width="15.49cm" svg:height="11.619cm" style:rel-height="scale" draw:z-index="44"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -5306,9 +4879,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto4" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">5</text:sequence>: Estado actual de la máquina</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P41"><text:soft-page-break/><draw:frame draw:style-name="fr5" draw:name="Marco50" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="48">
+   <text:p text:style-name="P38"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco50" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="45">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen51" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="49"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen51" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="46"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -5498,9 +5071,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto5" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">6</text:sequence>: Estado actual de la máquina - saca viruta en acción</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr7" draw:name="Marco93" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="50">
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Marco93" text:anchor-type="as-char" svg:y="-11.58cm" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale-min" draw:z-index="47">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen52" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="51"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen52" text:anchor-type="paragraph" svg:width="7.629cm" svg:height="10.169cm" style:rel-height="scale" draw:z-index="48"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -5659,9 +5232,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto6" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">7</text:sequence>: Estado actual de la máquina - Porta herramientas y husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P41"><draw:frame draw:style-name="fr4" draw:name="Marco51" text:anchor-type="as-char" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale-min" draw:z-index="36">
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr2" draw:name="Marco51" text:anchor-type="as-char" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale-min" draw:z-index="49">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen53" text:anchor-type="paragraph" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale" draw:z-index="37"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen53" text:anchor-type="paragraph" svg:width="7.712cm" svg:height="10.283cm" style:rel-height="scale" draw:z-index="50"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -5875,31 +5448,31 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto7" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">8</text:sequence>: Estado actual de la máquina - panel eléctrico</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:h text:style-name="P36" text:outline-level="2"><text:span text:style-name="T7">Estructura del informe</text:span></text:h>
-   <text:p text:style-name="P29">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="capitulo-siglas">Error: no se encontró el origen de la referencia</text:reference-ref> se realiza un resumen de todas las siglas utilizadas a lo largo del presente documento, mientras que en <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__3581_95837665">1.4</text:bookmark-ref> se realizará una descripción breve de los conocimientos complementarios al tema del proyecto en sí, los cuales son fundamentales a la hora de entender las decisiones de diseño y las funcionalidades esperadas, <text:span text:style-name="T7">en el</text:span><text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="apendice-conocimientos-complementarios">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T7"> se dispone de un desarrollo más extenso al respecto</text:span>. </text:p>
-   <text:p text:style-name="P29">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__187968_359546015">1.7</text:bookmark-ref> se realizará una breve introducción a la programación de mecanizado en tornos CNC, mientras que en el <text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span> se hará un abordaje más profundo sobre la programación del Fagor 8035M en modo torno para el mecanizado.</text:p>
-   <text:p text:style-name="P29">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="capitulo-controladora-cnc">Error: no se encontró el origen de la referencia</text:reference-ref> se realizará una introducción a la controladora Fagor 8035-M utilizada para el presente trabajo, mientras que en el <text:reference-ref text:reference-format="text" text:ref-name="apendice-b">Error: no se encontró el origen de la referencia</text:reference-ref> se deja un resumen de los parámetros y configuraciones que se utilizaron para la realización de la experiencia.</text:p>
-   <text:p text:style-name="P29">Luego en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="organizacion">Error: no se encontró el origen de la referencia</text:reference-ref> se abordará la resolución del problema en sí, mostrando una diagramación inicial de la posible solución al sistema, <text:span text:style-name="T7">se aborda el desarrollo realizado, completando el capítulo con el esquema eléctrico resuelto</text:span>.</text:p>
-   <text:p text:style-name="P29">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="subsistemas">Error: no se encontró el origen de la referencia</text:reference-ref> se abordarán los distintos subsistemas involucrados con la respectiva explicación de cómo se resolvió su <text:span text:style-name="T7">lógica y control</text:span>.</text:p>
-   <text:p text:style-name="P29">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="puesta-a-punto">Error: no se encontró el origen de la referencia</text:reference-ref> <text:span text:style-name="T7">se abordará una breve explicación de </text:span>la programación del autómata, la puesta a punto y configuración de los distintos bloques funcionales y del sistema en general.</text:p>
-   <text:p text:style-name="P29">Luego en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="problemas">Error: no se encontró el origen de la referencia</text:reference-ref> se describirán algunos de los problemas encontrados durante el proceso y cómo se resolvieron. </text:p>
-   <text:p text:style-name="P29"><text:span text:style-name="T7">Finalmente </text:span>en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="conclusiones">Error: no se encontró el origen de la referencia</text:reference-ref> se realizarán las conclusiones pertinentes a todo el desarrollo realizado y se evaluará la evolución a futuro del proyecto.</text:p>
+   <text:h text:style-name="P43" text:outline-level="2">Estructura del informe</text:h>
+   <text:p text:style-name="P17">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="capitulo-siglas">Error: no se encontró el origen de la referencia</text:reference-ref> se <text:span text:style-name="T10">realizará</text:span> un resumen de todas las siglas utilizadas a lo largo del presente documento, mientras que en <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__3581_95837665">1.4</text:bookmark-ref> se <text:span text:style-name="T10">dispondrá</text:span> una descripción breve de los conocimientos complementarios al tema del proyecto en sí, los cuales son fundamentales a la hora de entender las decisiones de diseño y las funcionalidades esperadas, <text:span text:style-name="T7">en el </text:span><text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="apendice-conocimientos-complementarios">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T7"> se presenta un desarrollo más extenso al respecto</text:span>. </text:p>
+   <text:p text:style-name="P17">En el capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__187968_359546015">1.7</text:bookmark-ref> se realizará una breve introducción a la programación de mecanizado en tornos CNC, mientras que en el <text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span> se hará un abordaje más profundo sobre la programación del Fagor 8035M en modo torno para el mecanizado.</text:p>
+   <text:p text:style-name="P17">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="capitulo-controladora-cnc">Error: no se encontró el origen de la referencia</text:reference-ref> se realizará una introducción a la controladora Fagor 8035-M utilizada para el presente trabajo, mientras que en el <text:reference-ref text:reference-format="text" text:ref-name="apendice-b">Error: no se encontró el origen de la referencia</text:reference-ref> se deja un resumen de los parámetros y configuraciones que se utilizaron para la realización de la experiencia.</text:p>
+   <text:p text:style-name="P17">Luego en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="organizacion">Error: no se encontró el origen de la referencia</text:reference-ref> se abordará la resolución del problema en sí, mostrando una diagramación inicial de la posible solución al sistema, <text:span text:style-name="T7">se aborda el desarrollo realizado, completando el capítulo con el esquema eléctrico resuelto</text:span>.</text:p>
+   <text:p text:style-name="P17">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="subsistemas">Error: no se encontró el origen de la referencia</text:reference-ref> se abordarán los distintos subsistemas involucrados con la respectiva explicación de cómo se resolvió su <text:span text:style-name="T7">lógica y control</text:span>.</text:p>
+   <text:p text:style-name="P17">En el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="puesta-a-punto">Error: no se encontró el origen de la referencia</text:reference-ref> <text:span text:style-name="T7">se abordará una breve explicación de </text:span>la programación del autómata, la puesta a punto y configuración de los distintos bloques funcionales y del sistema en general.</text:p>
+   <text:p text:style-name="P17">Luego en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="problemas">Error: no se encontró el origen de la referencia</text:reference-ref> se describirán algunos de los problemas encontrados durante el proceso y cómo se resolvieron. </text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T7">Finalmente </text:span>en el capítulo <text:reference-ref text:reference-format="chapter" text:ref-name="conclusiones">Error: no se encontró el origen de la referencia</text:reference-ref> se realizarán las conclusiones pertinentes a todo el desarrollo realizado y se evaluará la evolución a futuro del proyecto.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__3581_95837665"/>Conocimientos complementarios<text:bookmark-end text:name="__RefHeading__3581_95837665"/></text:h>
-   <text:p text:style-name="P30">Dado que para la resolución del proyecto fueron necesarios la incorporación de conocimientos no relacionados con la carrera de Ingeniería Electrónica de la Facultad de Ciencias Exactas Ingeniería y Agrimensura de la Universidad Nacional de Rosario fue necesario investigar sobre temas complementarios a la carrera.</text:p>
-   <text:p text:style-name="P29"><text:span text:style-name="T7">Si bien dicha información es necesaria para comprender parte de las decisiones de diseño tomadas, funcionalidades esperadas, etc. Los mismos no hacen al alcance del proyecto, por lo cuál dicha información se encuentra disponible en el </text:span><text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="apendice-conocimientos-complementarios">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T7"> para que el lector que lo necesitase lo pueda consultar.</text:span></text:p>
-   <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187952_359546015"/>Torno de Control Numérico Computarizado - <text:span text:style-name="T7">CNC</text:span><text:bookmark-end text:name="__RefHeading__187952_359546015"/></text:h>
-   <text:p text:style-name="P29"><text:span text:style-name="T7">Un torno de control númerico computarizado o torno CNC</text:span> es un caso particular de un torno <text:span text:style-name="T7">de control númerico,</text:span> el cuál incorpora una computadora para diferentes tareas como ser interpretación de instrucciones de movimiento, control de proceso, interfaz hombre máquina, etc. Ofrece una gran capacidad de producción y precisión en el mecanizado por su estructura funcional y la capacidad de realizar un proceso repetitivo por la computadora. </text:p>
-   <text:p text:style-name="P29">Para realizar su operación la máquina requiere de un pequeño programa realizado por un operador especializado con altos conocimientos en los procesos productivo asociados, pero luego la operación de producción puede ser realizado por un operador de menores conocimientos.</text:p>
-   <text:p text:style-name="Text_20_body">Es una máquina que resulta rentable para el mecanizado de grandes series de piezas sencillas, en el caso particular de un torno, casi exclusivamente piezas de revolución, y permite mecanizar con precisión superficies curvas coordinando los movimientos axial y radial dado el avance de la herramienta.</text:p>
+   <text:p text:style-name="P18">Dado que para la resolución del proyecto fueron necesarios la incorporación de conocimientos no relacionados con la carrera <text:span text:style-name="T10">estudiada por el alumno,</text:span> fue <text:span text:style-name="T10">indispensable </text:span>investigar sobre temas complementarios a la <text:span text:style-name="T10">misma</text:span>.</text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T7">Si bien dicha información es necesaria para comprender parte de las decisiones de diseño tomadas, funcionalidades esperadas, etc. Los mismos no hacen al alcance del proyecto en sí, por lo cuál dicha información se encuentra disponible, de forma más extensa, en el </text:span><text:span text:style-name="T7"><text:reference-ref text:reference-format="text" text:ref-name="apendice-conocimientos-complementarios">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T7"> para que el lector que así lo necesitase pueda consultar.</text:span></text:p>
+   <text:h text:style-name="P23" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187952_359546015"/>Torno de Control Numérico Computarizado - <text:span text:style-name="T7">CNC</text:span><text:bookmark-end text:name="__RefHeading__187952_359546015"/></text:h>
+   <text:p text:style-name="P17"><text:span text:style-name="T7">Un torno de control númerico computarizado o torno CNC</text:span> es un caso particular de un torno <text:span text:style-name="T7">de control númerico,</text:span> el cuál incorpora una computadora para diferentes tareas como ser interpretación de instrucciones de movimiento, control de proceso, interfaz hombre máquina, etc. Ofrece una gran capacidad de producción y precisión en el mecanizado por su estructura funcional y la capacidad de realizar proceso<text:span text:style-name="T10">s</text:span> repetitivo<text:span text:style-name="T10">s</text:span> por la<text:span text:style-name="T10">s</text:span> computadora<text:span text:style-name="T10">s</text:span>. </text:p>
+   <text:p text:style-name="P17">Para realizar su operación la máquina requiere de un pequeño programa realizado por un operador especializado con altos conocimientos en los procesos productivo asociados, <text:span text:style-name="T10">y</text:span> luego la operación de producción puede ser realizado por un operador de menores conocimientos.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T10">Estás </text:span>máquina<text:span text:style-name="T10">s</text:span> resulta<text:span text:style-name="T10">n</text:span> rentable<text:span text:style-name="T10">s</text:span> para el mecanizado de grandes series de piezas sencillas, en el caso particular de un torno, casi exclusivamente piezas de revolución, y permite mecanizar con precisión superficies curvas coordinando los movimientos axial y radial dado el avance de la herramienta.</text:p>
    <text:p text:style-name="Text_20_body">La velocidad de giro de la pieza a tornear, el avance de los carros longitudinal y transversal, cotas de ejecución de la pieza, herramientas a utilizar para cada operación, control de los sistemas refrigerantes, control de la recolección de desperdicios de mecanizado, conta<text:span text:style-name="T7">dores de</text:span> cantidad de piezas realizadas, y otras funcionalidades son resueltas por la computadora, reduciendo la incidencia de errores producidos por el operario de la máquina.</text:p>
-   <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187954_359546015"/>Estructura de un torno CNC<text:bookmark-end text:name="__RefHeading__187954_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body">En la siguiente figura se puede observar la estructura básica de un torno CNC genérico. La placa metálica protectora (1) y la puerta metálica (2) conforman un sistema de seguridad que diferencian a los tornos CNC de otros tipos de tornos no automatizados, <text:span text:style-name="T7">estos tienen </text:span>la ventaja de permitir al operador supervisar la operación sin estar en contacto directo con las partes móviles de la máquina o la pieza, <text:span text:style-name="T7">reduciendo la incidencia de accidentes.</text:span></text:p>
+   <text:h text:style-name="P23" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187954_359546015"/>Estructura de un torno CNC<text:bookmark-end text:name="__RefHeading__187954_359546015"/></text:h>
+   <text:p text:style-name="Text_20_body">En la siguiente figura se puede observar la estructura básica de un torno CNC genérico. La placa metálica protectora (1) y la puerta metálica (2) conforman un sistema de seguridad que diferencian a los tornos CNC de otros tipos de tornos no automatizados, <text:span text:style-name="T7">estos tienen </text:span>la ventaja de permitir al operador supervisar la operación sin <text:span text:style-name="T10">entrar</text:span> en contacto directo con las partes móviles de la máquina o la pieza, <text:span text:style-name="T7">reduciendo la incidencia de accidentes.</text:span></text:p>
    <text:p text:style-name="Text_20_body">El husillo (3) es el encargado de sostener la pieza y de hacerla girar a la velocidad definida por la operación a realizar, suele conectarse por correas a un motor de corriente alterna, y tener un contador de vueltas para poder realimentar la velocidad de operación. <text:span text:style-name="T7">E</text:span>n algunos casos el husillo permite realizar avances lentos y posicionar la pieza en distintos ángulos para realizar distintas operaciones que no se corresponden en la simetría de revolución.</text:p>
-   <text:p text:style-name="Text_20_body">Para permitir realizar distintos tipos de operaciones y reducir el tiempo parado en los procesos los tornos CNC suelen contar con una torre porta herramientas (4) la cuál permite tener a disposición del proceso todas las herramientas a utilizar, sin que el operario requiera interceder.</text:p>
+   <text:p text:style-name="Text_20_body">Para permitir realizar distintos tipos de operaciones y reducir <text:span text:style-name="T10">los</text:span> tiempo<text:span text:style-name="T10">s</text:span> <text:span text:style-name="T10">muertos</text:span> en los procesos, los tornos CNC suelen contar con una torre porta herramientas (4) la cuál permite tener a disposición del proceso todas las herramientas a utilizar, sin que el operario requiera interceder.</text:p>
    <text:p text:style-name="Text_20_body">Por último encontramos la controladora CNC (5), el cual es una parte fundamental en las máquinas CNC, ya que permite distintas operaciones como ser control del proceso, interpretación del código de operación, control de los estados de la máquina, control de movimiento, etc.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco57" text:anchor-type="as-char" svg:width="16.503cm" draw:z-index="2">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco57" text:anchor-type="as-char" svg:width="16.503cm" draw:z-index="4">
      <draw:text-box fo:min-height="11.019cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen60" text:anchor-type="paragraph" svg:width="16.503cm" svg:height="11.019cm" style:rel-height="scale" draw:z-index="3"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen60" text:anchor-type="paragraph" svg:width="16.503cm" svg:height="11.019cm" style:rel-height="scale" draw:z-index="5"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -6218,14 +5791,14 @@
           YCMscoZellBodIdI9MAWcOkOkWiYlZwzXTC0f1ZwKaIwdICLQK6R6QaGcM4//9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Estructura básica de un torno CNC</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing0" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Estructura básica de un torno CNC</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En las próximas secciones se van a detallar con más profundidad las distintas partes de una máquina CNC en general, como así también los distintos sistemas que existen en el torno CNC utilizado en el proyecto en cuestión.</text:p>
-   <text:h text:style-name="P40" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187956_359546015"/><text:soft-page-break/>Controladora de Control Numérico Computarizado – CNC<text:bookmark-end text:name="__RefHeading__187956_359546015"/></text:h>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco58" text:anchor-type="as-char" svg:width="15.169cm" draw:z-index="4">
+   <text:h text:style-name="P28" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187956_359546015"/><text:soft-page-break/>Controladora de Control Numérico Computarizado – CNC<text:bookmark-end text:name="__RefHeading__187956_359546015"/></text:h>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr5" draw:name="Marco58" text:anchor-type="as-char" svg:width="15.169cm" draw:z-index="6">
      <draw:text-box fo:min-height="10.915cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen61" text:anchor-type="paragraph" svg:width="15.169cm" svg:height="10.915cm" style:rel-height="scale" draw:z-index="5"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen61" text:anchor-type="paragraph" svg:width="15.169cm" svg:height="10.915cm" style:rel-height="scale" draw:z-index="7"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -6702,40 +6275,40 @@
           2YYjh4g0IBsf/Jf/2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Resumen funciones de controladora CNC – Fagor 8055</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing1" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">2</text:sequence>: Resumen funciones de controladora CNC – Fagor 8055</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Como se menciono anteriormente la controladora CNC es una parte fundamental de las máquinas CNC, una controladora CNC podría pensarse como <text:span text:style-name="T7">la combinación de un dispositivo de control de movimiento complementado con</text:span> un PLC de aplicación especifica, entre sus funciones principales se encuentran:</text:p>
-   <text:list xml:id="list6118125208950490472" text:style-name="L1">
+   <text:list xml:id="list808539166346023893" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P28">Control y supervisión de movimientos de alta precisión, coordinando las acciones simultaneas en casos que sean necesarios.</text:p>
+     <text:p text:style-name="P49">Control y supervisión de movimientos de alta precisión, coordinando las acciones simultaneas en casos que sean necesarios.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Control y supervisión de herramienta para operación actual.</text:p>
+     <text:p text:style-name="P49">Control y supervisión de herramienta para operación actual.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Interpretación, supervisión y edición de los programa de pieza a ejecutar.</text:p>
+     <text:p text:style-name="P49">Interpretación, supervisión y edición de los programa de pieza a ejecutar.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Supervisión de tiempos para garantizar el tiempo real necesario para la operación.</text:p>
+     <text:p text:style-name="P49">Supervisión de tiempos para garantizar el tiempo real necesario para la operación.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Interfaz hombre máquina.</text:p>
+     <text:p text:style-name="P49">Interfaz hombre máquina.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Conectividad con periféricos.</text:p>
+     <text:p text:style-name="P49">Conectividad con periféricos.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Integración entre distintos sistemas como por ejemplo drivers de motores.</text:p>
+     <text:p text:style-name="P49">Integración entre distintos sistemas como por ejemplo drivers de motores.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Conectividad de comunicaciones digitales y analógicas.</text:p>
+     <text:p text:style-name="P49">Conectividad de comunicaciones digitales y analógicas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Simulación de programas.</text:p>
+     <text:p text:style-name="P49">Simulación de programas.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Calibración de herramientas.</text:p>
+     <text:p text:style-name="P49">Calibración de herramientas.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187958_359546015"/><text:soft-page-break/>Controlador Lógico Programable – PLC<text:bookmark-end text:name="__RefHeading__187958_359546015"/></text:h>
@@ -6744,12 +6317,12 @@
    <text:p text:style-name="Text_20_body">Generalmente las controladoras CNC implementan el PLC como un sistema de tiempo compartido (time share), al cual para garantizar las restricciones de tiempo debidas al tiempo real se suele especificar el tiempo máximo por ciclo de procesamiento que el PLC puede tomar el control del sistema, por ejemplo en el caso particular del Fagor 8035-M los ciclos del PLC pueden durar hasta 3ms y puede ejecutar hasta 1000 instrucciones por ciclo.</text:p>
    <text:p text:style-name="Text_20_body">Las controladoras CNC suelen contar con canales bidireccionales de comunicación entre el PLC <text:s/>integrado y la controladora propiamente dicha, lo cual permite no sólo que la controladora notifique de ciertos eventos o estados al PLC, sino que también esté último pueda tomar el control de distintos sistemas dedicados de la controladora, como por ejemplo programar movimientos controlados, informar al usuario de ciertos errores por la pantalla, etc.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__35133_269409862"/>Husillo<text:bookmark-end text:name="__RefHeading__35133_269409862"/></text:h>
-   <text:p text:style-name="Text_20_body">Como se menciono anteriormente, el husillo es la parte encargada de sujetar la pieza y hacerla girar. Se compone de un motor, generalmente eléctrico de corriente alterna trifásico, al cual se le regula la velocidad de giro por control de frecuencia, a su vez la velocidad suele ser medida con encoders solidarios al eje de giro, los cuales permiten medir la cantidad de vueltas por unidad de tiempo realizadas por el husillo.</text:p>
-   <text:p text:style-name="Text_20_body">Los motores utilizados para impulsar el husillo generalmente son eléctricos trifásicos, y suelen ser motores mucho más grande que todos los otros que se encuentran en la máquina, al punto de ser el motor cuya potencia nominal define la potencia de la máquina. A mayor potencia disponible en el motor del husillo mayor será la fuerza de arrastre de esté y mayor será el tamaño máximo de pieza a mecanizar. El control de frecuencia suele hacerse con inversores trifásicos con frecuencia de salida controlable a los cuales se denomina <text:span text:style-name="T2">driver</text:span>.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T10">E</text:span>l husillo es la parte encargada de sujetar la pieza y hacerla girar. Se compone de un motor, generalmente eléctrico de corriente alterna trifásico, al cual se le regula la velocidad de giro por control de frecuencia, a su vez la velocidad suele ser medida con encoders solidarios al eje de giro, los cuales permiten medir la cantidad de vueltas por unidad de tiempo realizadas por el husillo.</text:p>
+   <text:p text:style-name="Text_20_body">Los motores utilizados para impulsar el husillo generalmente son eléctricos trifásicos, y suelen ser motores mucho más grande que todos los otros que se encuentran en la máquina, al punto de ser el motor cuya potencia nominal define la potencia de la máquina. A mayor potencia disponible en el motor del husillo mayor será la fuerza de arrastre de esté y mayor será el tamaño máximo de pieza a mecanizar. El control de <text:span text:style-name="T10">velocidad del motor</text:span> suele hacerse con inversores trifásicos con frecuencia de salida controlable a los cuales se denomina <text:span text:style-name="T2">driver</text:span>.</text:p>
    <text:p text:style-name="Text_20_body">El plato del husillo suele tener unas piezas metálicas denominadas mordazas, las cuales se pueden modificar en función del material a mecanizar y el objetivo deseado. Dichas mordazas luego de modificadas permiten agarrar la pieza tanto por el diámetro exterior como así también el diámetro interior. Permitiendo trabajar las piezas tanto por fuera como por el interior. A su vez las mordazas son móviles, comandadas por solenoides de paso, utilizando la fuerza de una bomba hidráulica para lograr el agarre requerido. Es responsabilidad del conjunto controladora CNC / PLC garantizar que no se permite cambiar el estado de las mordazas cuándo la pieza se encuentra rotando.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco59" text:anchor-type="as-char" svg:width="13.381cm" draw:z-index="6">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco59" text:anchor-type="as-char" svg:width="13.381cm" draw:z-index="8">
      <draw:text-box fo:min-height="11.934cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen62" text:anchor-type="as-char" svg:width="13.381cm" svg:height="11.934cm" style:rel-height="scale" draw:z-index="7"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr9" draw:name="Imagen62" text:anchor-type="as-char" svg:width="13.381cm" svg:height="11.934cm" style:rel-height="scale" draw:z-index="9"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -7009,12 +6582,12 @@
           5Uheg5rjzg2bTmnD0qAqkLMcvvS70GCMCIg2tagpZZBEtGYnFAgEoBSORtrBP/1n/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Esquema de husillo</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing2" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3</text:sequence>: Esquema de husillo</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco56" text:anchor-type="as-char" svg:width="9.546cm" draw:z-index="8">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco56" text:anchor-type="as-char" svg:width="9.546cm" draw:z-index="10">
      <draw:text-box fo:min-height="9.29cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen104" text:anchor-type="paragraph" svg:width="9.546cm" svg:height="9.29cm" style:rel-height="scale" draw:z-index="9"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen104" text:anchor-type="paragraph" svg:width="9.546cm" svg:height="9.29cm" style:rel-height="scale" draw:z-index="11"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -7288,9 +6861,9 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto8" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">9</text:sequence>: Husillo del proyecto sosteniendo una pieza</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco60" text:anchor-type="as-char" svg:width="14.217cm" draw:z-index="10">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco60" text:anchor-type="as-char" svg:width="14.217cm" draw:z-index="12">
      <draw:text-box fo:min-height="3.339cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen63" text:anchor-type="paragraph" svg:width="14.217cm" svg:height="3.339cm" style:rel-height="scale" draw:z-index="11"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen63" text:anchor-type="paragraph" svg:width="14.217cm" svg:height="3.339cm" style:rel-height="scale" draw:z-index="13"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -7449,12 +7022,12 @@
           ID/5Gf8AIn0n/A//2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Esquema de plato con mordaza universal</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">4</text:sequence>: Esquema de plato con mordaza universal</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco61" text:anchor-type="as-char" svg:width="11.402cm" draw:z-index="12">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr5" draw:name="Marco61" text:anchor-type="as-char" svg:width="11.402cm" draw:z-index="14">
      <draw:text-box fo:min-height="8.378cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen64" text:anchor-type="paragraph" svg:width="11.402cm" svg:height="8.378cm" style:rel-height="scale" draw:z-index="13"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen64" text:anchor-type="paragraph" svg:width="11.402cm" svg:height="8.378cm" style:rel-height="scale" draw:z-index="15"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZAAAAEfCAYAAABvWZDBAAAABmJLR0QA/wD/AP+gvaeTAAAA
           CXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH3gsGDTkBxwCXTQAAABl0RVh0Q29tbWVudABD
           cmVhdGVkIHdpdGggR0lNUFeBDhcAAAmJSURBVHja7d3bdqNGEEBRw9L//zJ5yGii5UiIS1+q
@@ -7506,12 +7079,12 @@
           gg==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing8" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Esquema acople motor - husillo por correas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing4" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">5</text:sequence>: Esquema acople motor - husillo por correas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco97" text:anchor-type="as-char" svg:width="7.844cm" draw:z-index="14">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco97" text:anchor-type="as-char" svg:width="7.844cm" draw:z-index="16">
      <draw:text-box fo:min-height="8.322cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen103" text:anchor-type="paragraph" svg:width="7.844cm" svg:height="8.322cm" style:rel-height="scale" draw:z-index="15"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen103" text:anchor-type="paragraph" svg:width="7.844cm" svg:height="8.322cm" style:rel-height="scale" draw:z-index="17"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -7696,15 +7269,16 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto9" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">10</text:sequence>: Acople entre husillo y motor con encoder acoplado por correa</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="Text_20_body">El acoplamiento entre el motor y el husillo suele ser a cadenas o a correas y en algunos casos <text:soft-page-break/>suele incluso haber disponible una caja reductora la cual permite distintas relaciones de velocidad entre el husillo y el motor. En el caso particular de la máquina utilizada en el proyecto el acople es de correas con refuerzo metálico sin caja reductora con lo cual se asume que la relación de velocidades entre el husillo y el motor es la unidad, o lo que es lo mismo que la velocidad de ambos dispositivos es la misma, con el encoder acoplado al eje del husillo. En la siguiente figura se puede observar un esquema de acoplamiento motor – husillo.</text:p>
+   <text:p text:style-name="Text_20_body">El acoplamiento entre el motor y el husillo suele ser a cadenas o a correas y en algunos casos <text:soft-page-break/>suele incluso haber disponible una caja reductora la cual permite distintas relaciones de velocidad entre el husillo y el motor. En el caso particular de la máquina utilizada en el proyecto el acople es de correas con refuerzo metálico, sin caja reductora con lo cual se asume que la relación de velocidades entre el husillo y el motor es la unidad, o lo que es lo mismo que la velocidad de ambos dispositivos es la misma, con el encoder acoplado al eje del husillo. En la siguiente figura se puede observar un esquema de acoplamiento motor – husillo.</text:p>
    <text:p text:style-name="Text_20_body">La elección del plato del husillo junto al motor y la posible caja reductora definen características constructivas de la máquina, en particular <text:span text:style-name="T2">diámetro máximo</text:span> de material a mecanizar, y <text:span text:style-name="T2">velocidad máxima</text:span> de trabajo, <text:span text:style-name="T2">largo máximo</text:span> de material y <text:span text:style-name="T2">peso máximo</text:span> del mismo. Dicho largo máximo puede ser extendido con el uso de una contrapunta, lo cuál será explicado en capítulos posteriores.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187960_359546015"/>Bancada y carro desplazable<text:bookmark-end text:name="__RefHeading__187960_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body">Se entiende por bancada de la máquina a las guías y al soporte mecánico sobre la cual luego se mueve la torre con el portaherramientas. Dichas guías son construidas con un material duro con exigentes tolerancias ya que son las encargadas de que la torre se mueva paralela al eje de giro de la pieza, también conocido como eje Z. Dado que se requiere un movimiento preciso de dicho eje, en la máquina en cuestión se persiguen precisiones de 0.01mm, se acopla a un motor eléctrico, denominado en la jerga servo, un tornillo sin fin de precisión, el cual tiene un paso constante y preciso. En este caso en particular se utilizó un tornillo de paso 6mm+-0.0001mm.</text:p>
+   <text:p text:style-name="P50">Se entiende por bancada de la máquina a las guías y al soporte mecánico sobre la cual luego se mueve la torre con el portaherramientas. Dichas guías son construidas con un material duro con exigentes tolerancias ya que son las encargadas de que la torre se mueva paralela al eje de giro de la pieza, también conocido como eje Z. </text:p>
+   <text:p text:style-name="P50">Dado que se requiere un movimiento preciso de dicho eje, <text:span text:style-name="T11">por ejemplo </text:span>en la máquina en cuestión se persiguen precisiones de 0.01mm, se acopla a un motor eléctrico, denominado en la jerga servo, un tornillo sin fin de precisión, el cual tiene un paso constante y preciso. En este caso en particular se utilizó un tornillo de paso 6mm+-0.0001mm.</text:p>
    <text:p text:style-name="Text_20_body">Este último motor eléctrico nombrado se controla vía un inversor trifásico, comúnmente conocido como driver, el cual recibe señales analógicas del sistema de control, y modula su frecuencia de salida de salida a fin de lograr una conversión tensión velocidad precisa. Al eje del motor se acopla un encoder de precisión, 16 bits+bit de signo en el caso particular de esta máquina, lo cual equivale a un paso de 0.0055 grados. Sumado a esto la precisión del tornillo se logra una precisión máxima de 9.15e-05mm, la cual es muy superior a la requerida, por lo cual en el driver se reduce la resolución a valores más manejables antes de ser entregada al CNC.</text:p>
    <text:p text:style-name="Text_20_body">En la siguiente imagen se pueden apreciar tornillos similares a los utilizados en el torno en cuestión. El mismo se compone de dos partes: el tornillo propiamente dicho y una tuerca auto lubricada por la cual se mueven municiones de precisión. La tuerca esta diseñada de tal forma que las municiones recirculen y se lubriquen a través de unos dosificadores.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco98" text:anchor-type="as-char" svg:width="12.979cm" svg:height="7.518cm" style:rel-height="scale-min" draw:z-index="16">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco98" text:anchor-type="as-char" svg:width="13.926cm" svg:height="0.51cm" style:rel-height="scale-min" draw:z-index="18">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen65" text:anchor-type="paragraph" svg:x="0.968cm" svg:y="0cm" svg:width="11.044cm" svg:height="6.856cm" style:rel-height="scale" draw:z-index="17"><draw:image>
+      <text:p text:style-name="P44"><draw:frame draw:style-name="fr11" draw:name="Imagen65" text:anchor-type="as-char" svg:width="10.001cm" svg:height="6.331cm" style:rel-height="scale" draw:z-index="51"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQY
           GBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYa
           KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAAR
@@ -7994,16 +7568,17 @@
           NUJEY+2Lh5nYCkzfQPGNUcZOk9bnmbn6Ymwe3HhiOJVNHnv/AIcX/wDTHsewkJo//9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Foto <text:sequence text:ref-name="refFoto10" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">11</text:sequence>: Tornillo de precisión con tuerca anti backslash</text:p>
+       </draw:frame></text:p>
+      <text:p text:style-name="P45">Foto <text:sequence text:ref-name="refFoto10" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">11</text:sequence>: Tornillo de precisión con tuerca anti backslash</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/>El carro desplazable es un bloque de acero que se mueve sobre la bancada vía el tornillo del eje Z, pero además cuenta de otro tornillo perpendicular a este último, que conforma el eje X. Solidario al carro se mueve el porta herramientas.</text:p>
    <text:p text:style-name="Text_20_body">Las características constructivas del eje X son similares a las del eje Z, salvo que este último suele tener mucho más recorrido que el primero. En la máquina del proyecto en particular el recorrido del eje Z es cercano a los 450 mm mientras que el del X a los 110 mm.</text:p>
-   <text:p text:style-name="Text_20_body">Otra diferencia constructiva entre un eje y otro en el caso particular de esta máquina es que el tornillo del eje X es de un paso de 5+-0.001mm. Dicha diferencia se debe a que el tornillo fue cambiado previo al comienzo del proyecto, y no se encontraba en mercado uno de paso similar.</text:p>
-   <text:p text:style-name="Text_20_body">En <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto2">Foto 3</text:sequence-ref> y <text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto1">Foto 2</text:sequence-ref> se pueden apreciar la bancada y el carro desplazable previo a la colocación del plato porta herramientas, al momento de comenzar el desarrollo de la experiencia. En la siguiente foto se puede observar el carro desplazarse sobre la bancada traccionado por el motor de la izquierda (eje Z), mientras que el motor impulsor al eje X se encuentra oculto tras el resorte superior, se llega a ver la punta inferior del tornillo del eje X abajo a la derecha.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr3" draw:name="Marco62" text:anchor-type="as-char" svg:width="15.496cm" draw:z-index="18">
+   <text:p text:style-name="Text_20_body">Otra diferencia constructiva entre un eje y otro, en el caso particular de esta máquina, es que el tornillo del eje X es de un paso de 5+-0.001mm. Dicha diferencia se debe a que el tornillo fue cambiado previo al comienzo del proyecto, y no se encontraba en mercado uno de paso similar.</text:p>
+   <text:p text:style-name="P50">En <text:s/><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto1">Foto 2</text:sequence-ref> <text:span text:style-name="T11">y </text:span><text:span text:style-name="T11"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refFoto2">Foto 3</text:sequence-ref></text:span><text:span text:style-name="T11"> </text:span>se pueden apreciar la bancada y el carro desplazable previo a la colocación del plato porta herramientas, al momento de comenzar el desarrollo de la experiencia. En la siguiente foto se puede observar el carro desplazarse sobre la bancada traccionado por el motor de la izquierda (eje Z), mientras que el motor impulsor al eje X se encuentra oculto tras el resorte superior, se llega a ver <text:span text:style-name="T11">el extremo </text:span>inferior del tornillo del eje X <text:span text:style-name="T11">en la esquina inferior </text:span>derecha <text:span text:style-name="T11">de la imagen.</text:span></text:p>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr6" draw:name="Marco62" text:anchor-type="as-char" svg:width="15.496cm" draw:z-index="19">
      <draw:text-box fo:min-height="13.894cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen105" text:anchor-type="paragraph" svg:width="15.496cm" svg:height="13.894cm" style:rel-height="scale" draw:z-index="19"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen105" text:anchor-type="paragraph" svg:width="15.496cm" svg:height="13.894cm" style:rel-height="scale" draw:z-index="20"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9
           PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhC
           Y2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgAR
@@ -8437,10 +8012,10 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187962_359546015"/><text:soft-page-break/>Plato porta herramientas<text:bookmark-end text:name="__RefHeading__187962_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body">Una de las características destacadas de una máquina CNC respecto de una máquina sin control numérico es la posibilidad de intercambiar herramientas sin la intervención del operario. Para ello los tornos CNC suelen contar con un plato porta herramientas tipo revolver como el de la siguiente figura. Dichos vienen de distintos tamaños algunos pequeños de unas 6 herramientas, llegando en algunos casos a más de 40, en particular la máquina del proyecto contaba con 10.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr5" draw:name="Marco99" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale-min" draw:z-index="20">
+   <text:p text:style-name="Text_20_body">Una de las características destacadas de una máquina CNC, respecto de una máquina sin control numérico es la posibilidad de intercambiar herramientas sin la intervención del operario. Para ello los tornos CNC suelen contar con un plato porta herramientas tipo revolver como el de la siguiente figura. Dichos vienen de distintos tamaños algunos pequeños de unas 6 herramientas, llegando en algunos casos a más de 40, en particular la máquina del proyecto contaba con 10.</text:p>
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco99" text:anchor-type="as-char" svg:y="-7.551cm" svg:width="5.951cm" svg:height="6.057cm" style:rel-height="scale-min" draw:z-index="21">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen66" text:anchor-type="paragraph" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale" draw:z-index="21"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen66" text:anchor-type="paragraph" svg:width="5.951cm" svg:height="5.932cm" style:rel-height="scale" draw:z-index="22"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -8543,9 +8118,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto12" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">13</text:sequence>: Intercambiador de herramientas tipo revolver</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr6" draw:name="Marco63" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="3.956cm" draw:z-index="22">
+    </draw:frame><draw:frame draw:style-name="fr7" draw:name="Marco63" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="3.956cm" draw:z-index="23">
      <draw:text-box fo:min-height="5.935cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen106" text:anchor-type="paragraph" svg:width="3.956cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="23"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen106" text:anchor-type="paragraph" svg:width="3.956cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="24"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -8633,9 +8208,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto13" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">14</text:sequence>: Plato porta herramientas 1</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr6" draw:name="Marco100" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.145cm" draw:z-index="24">
+    </draw:frame><draw:frame draw:style-name="fr7" draw:name="Marco100" text:anchor-type="as-char" svg:y="-7.604cm" svg:width="5.145cm" draw:z-index="25">
      <draw:text-box fo:min-height="5.935cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen107" text:anchor-type="paragraph" svg:width="5.145cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="25"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen107" text:anchor-type="paragraph" svg:width="5.145cm" svg:height="5.935cm" style:rel-height="scale" draw:z-index="26"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAAR
@@ -8753,9 +8328,9 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">Se denominan cambiadores de herramientas tipo revolver porque su principio de funcionamiento recuerda al de un revolver, sobre un plato se disponen simétricamente, similar a las balas de un revolver, porta herramientas fijos sobre los cuales luego se disponen las herramientas a utilizar.</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr1" draw:name="Marco64" text:anchor-type="as-char" svg:width="10.458cm" draw:z-index="26">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco64" text:anchor-type="as-char" svg:width="10.458cm" draw:z-index="27">
      <draw:text-box fo:min-height="8.073cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen67" text:anchor-type="paragraph" svg:width="10.458cm" svg:height="8.073cm" style:rel-height="scale" draw:z-index="27"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen67" text:anchor-type="paragraph" svg:width="10.458cm" svg:height="8.073cm" style:rel-height="scale" draw:z-index="28"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -8890,12 +8465,12 @@
           UqVKlYlSpUqVKlSpUqVKlSpXCpUqVKlSpUqVKlSuFcK+x247/f8A/9k=
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing9" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Vista en perspectiva de cambiador de herramientas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing5" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">6</text:sequence>: Vista en perspectiva de cambiador de herramientas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Marco81" text:anchor-type="as-char" svg:width="10.573cm" draw:z-index="28">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco81" text:anchor-type="as-char" svg:width="10.573cm" draw:z-index="29">
      <draw:text-box fo:min-height="8.162cm">
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen68" text:anchor-type="paragraph" svg:width="10.573cm" svg:height="8.162cm" style:rel-height="scale" draw:z-index="29"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen68" text:anchor-type="paragraph" svg:width="10.573cm" svg:height="8.162cm" style:rel-height="scale" draw:z-index="30"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikx
           MC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01
           T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wgAR
@@ -9123,18 +8698,18 @@
           I5CXIQsCPAjEhLZGyP8AuY0hoNMiGRDIhkQyIZEMiGRDISZCSEl8/wD/2Q==
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing10" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Vista superior de cambiador de herramientas</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing6" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">7</text:sequence>: Vista superior de cambiador de herramientas</text:p>
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En las figuras anteriores se observa un corte de un intercambiador de herramientas muy similar al utilizado en el proyecto, con la salvedad de la ubicación del motor de tracción, el sistema se compone del plato propiamente dicho, una caja reductora, una motor de tracción, actuadores neumáticos y cuñas de sujeción de precisión dispuestas entre el plato y la caja del cambiador.</text:p>
    <text:p text:style-name="Text_20_body">El plato realiza movimientos de rotación, gracias al motor acoplado vía caja reductora, como de traslación paralelo caja del cambiador, gracias al actuador neumático el cual permite acoplar y desacoplar el plato.</text:p>
    <text:p text:style-name="Text_20_body">En la sección <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__188334_359546015">Error: no se encontró el origen de la referencia</text:bookmark-ref> <text:span text:style-name="T4">se explicará en detalle el proceso de cambio de herramientas tal cuál fue implementado.</text:span></text:p>
-   <text:h text:style-name="P38" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187966_359546015"/>Contra punta<text:bookmark-end text:name="__RefHeading__187966_359546015"/></text:h>
-   <text:p text:style-name="Text_20_body">Como se mencionó en la capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__35133_269409862">1.6.3</text:bookmark-ref> que el largo máximo de la pieza a tornear se encuentra limitado por características constructivas. Básicamente si el peso de la pieza es muy grande entonces el brazo de palanca producido por éste hace que la pieza oscile mientras gira, reduciendo la precisión, pudiendo llegar incluso a ser un riesgo de seguridad si la pieza se soltase.</text:p>
+   <text:h text:style-name="P36" text:outline-level="3"><text:bookmark-start text:name="__RefHeading__187966_359546015"/>Contra punta<text:bookmark-end text:name="__RefHeading__187966_359546015"/></text:h>
+   <text:p text:style-name="Text_20_body">Como se mencionó en la capítulo <text:bookmark-ref text:reference-format="chapter" text:ref-name="__RefHeading__35133_269409862">1.6.3</text:bookmark-ref> el largo máximo de la pieza a tornear se encuentra limitado por características constructivas. Básicamente si el peso de la pieza es muy grande entonces el brazo de palanca producido por éste hace que la pieza oscile mientras gira, reduciendo la precisión, pudiendo llegar incluso a ser un riesgo de seguridad si la pieza se soltase.</text:p>
    <text:p text:style-name="Text_20_body">Para evitar dicho inconveniente se suele dotar a los tornos de un segundo punto de apoyo móvil llamado contra punta. Llegando incluso en algunas máquinas grandes dicha contra punta a ser motorizada, permitiendo realizar operaciones simultaneas en la pieza, pero no es el caso de está máquina en particular.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco101" text:anchor-type="as-char" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale-min" draw:z-index="30">
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco101" text:anchor-type="as-char" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale-min" draw:z-index="31">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen69" text:anchor-type="paragraph" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale" draw:z-index="31"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen69" text:anchor-type="paragraph" svg:width="10.421cm" svg:height="7.816cm" style:rel-height="scale" draw:z-index="32"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9328,9 +8903,9 @@
         </draw:image>
        </draw:frame>Foto <text:sequence text:ref-name="refFoto15" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">16</text:sequence>: Contrapunta en acción</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Marco65" text:anchor-type="as-char" svg:width="10.296cm" draw:z-index="32">
+    </draw:frame><draw:frame draw:style-name="fr4" draw:name="Marco65" text:anchor-type="as-char" svg:width="10.296cm" draw:z-index="33">
      <draw:text-box fo:min-height="8.299cm">
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen108" text:anchor-type="paragraph" svg:width="10.296cm" svg:height="8.299cm" style:rel-height="scale" draw:z-index="33"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen108" text:anchor-type="paragraph" svg:width="10.296cm" svg:height="8.299cm" style:rel-height="scale" draw:z-index="34"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9543,11 +9118,10 @@
        </draw:frame>Foto <text:sequence text:ref-name="refFoto16" text:name="Foto" text:formula="ooow:Foto+1" style:num-format="1">17</text:sequence>: Contra punta del proyecto</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="P13">La contra punta se mueve sobre unas guías de precisión paralelas al eje Z y cuenta con un cono de precisión estandarizado, al cual se pueden acoplar dispositivos con formas similares a la pieza que se quiere lograr de forma de mejorar la superficie de contacto. Dicha contra punta se mueve gracias a un actuador hidráulico de dos direcciones.</text:p>
-   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr4" draw:name="Marco102" text:anchor-type="as-char" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale-min" draw:z-index="34">
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T4">La contra punta se mueve sobre unas guías de precisión paralelas al eje Z y cuenta con un cono de precisión estandarizado, al cual se pueden acoplar dispositivos, con formas similares a la pieza que se quiere lograr, de forma de mejorar la superficie de contacto. Dicha contra punta se mueve gracias a un actuador hidráulico de dos direcciones.</text:span></text:p>
+   <text:p text:style-name="imagen"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Marco102" text:anchor-type="as-char" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale-min" draw:z-index="35">
      <draw:text-box>
-      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr8" draw:name="Imagen70" text:anchor-type="paragraph" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale" draw:z-index="35"><draw:image>
+      <text:p text:style-name="Foto"><draw:frame draw:style-name="fr10" draw:name="Imagen70" text:anchor-type="paragraph" svg:width="8.149cm" svg:height="5.503cm" style:rel-height="scale" draw:z-index="36"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -9662,7 +9236,7 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body">En la máquina del proyecto la presión de trabajo de la contra punta es regulable en la bomba hidráulica. La dirección de movimiento de la contra punta se controla vía dos solenoides, y se cuenta con una tercer solenoide la que permite realizar el movimiento a una mayor velocidad.</text:p>
-   <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187968_359546015"/>Programación de mecanizado<text:bookmark-end text:name="__RefHeading__187968_359546015"/></text:h>
+   <text:h text:style-name="P23" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__187968_359546015"/>Programación de mecanizado<text:bookmark-end text:name="__RefHeading__187968_359546015"/></text:h>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T8">E</text:span>l término Control Numérico se debe a que las órdenes dadas a la máquina son indicadas mediante códigos numéricos. Por ejemplo, para indicarle a la máquina que mueva la herramienta describiendo un cuadrado de 10 mm por lado se le darían los siguientes códigos:</text:p>
    <text:p text:style-name="bloque_20_de_20_código">G90<text:tab/><text:tab/>; cotas absolutas referidas al punto 0,0</text:p>
    <text:p text:style-name="bloque_20_de_20_código">G71<text:tab/><text:tab/>; programación en mm</text:p>
@@ -9672,9 +9246,9 @@
    <text:p text:style-name="bloque_20_de_20_código">G01 X0.<text:tab/><text:tab/>; posiciona linealmente a 10mm dirección X negativa</text:p>
    <text:p text:style-name="bloque_20_de_20_código">G01 Y0.<text:tab/><text:tab/>; posiciona linealmente a 10mm dirección Y negativa</text:p>
    <text:p text:style-name="P15">Y el resultado obtenido podría ser:</text:p>
-   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr4" draw:name="Marco82" text:anchor-type="as-char" svg:width="10.485cm" svg:height="8.079cm" style:rel-height="scale-min" draw:z-index="0">
+   <text:p text:style-name="imagen"><draw:frame draw:style-name="fr2" draw:name="Marco82" text:anchor-type="as-char" svg:width="10.485cm" svg:height="8.079cm" style:rel-height="scale-min" draw:z-index="0">
      <draw:text-box>
-      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr8" draw:name="Imagen79" text:anchor-type="paragraph" svg:width="8.834cm" svg:height="7.655cm" style:rel-height="scale" draw:z-index="1"><draw:image>
+      <text:p text:style-name="Drawing"><draw:frame draw:style-name="fr10" draw:name="Imagen79" text:anchor-type="paragraph" svg:width="8.834cm" svg:height="7.655cm" style:rel-height="scale" draw:z-index="1"><draw:image>
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoM
           DAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsN
           FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgAR
@@ -10012,13 +9586,13 @@
           /MErbLOrF8y97gmcsHzFxzL8wS9sE7xfMHW5Ze2X5inVl+YpZuXvcU7y8cy/M//Z
          </office:binary-data>
         </draw:image>
-       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing11" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Ejemplo trayectoria simple</text:p>
+       </draw:frame>Dibujo <text:sequence text:ref-name="refDrawing7" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">8</text:sequence>: Ejemplo trayectoria simple</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P16">El código presentado si bien sencillo, permite ver la estructura básica de un programa. En la programación CNC cada linea de código representa un bloque, dicho bloque es una unidad atómica de instrucciones, las cuales se van a implementar paralelamente hasta completar el bloque, para luego continuar ejecutando el siguiente bloque.</text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="T8">En </text:span><text:span text:style-name="T8"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T8"> se presenta información más detallada sobre la programación de tornos CNC, en particular aquellas funcionalidades que aplican a la máquina en cuestión.</text:span></text:p>
-   <text:h text:style-name="P39" text:outline-level="3"><text:span text:style-name="T9">Ciclos fijos</text:span></text:h>
-   <text:p text:style-name="P33">Los fabricantes de controladoras CNC diferencian sus productos con la implementación de distintas funcionalidades, un grupo importante de dichas funcionalidades son los ciclos fijos, los cuales permiten con un sólo bloque realizar operaciones que llevarían muchos bloques realizar de otra forma, dejando al CNC todo el cálculo necesario para realizarlo, en <text:span text:style-name="T8"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T8"> </text:span>se puede encontrar una sección completa que describe los ciclos fijos disponibles en la controladora en cuestión.</text:p>
+   <text:p text:style-name="P16">El código presentado, si bien <text:span text:style-name="T12">es </text:span>sencillo, permite ver la estructura básica de un programa. En la programación CNC cada linea de código representa un bloque, dicho bloque es una unidad atómica de instrucciones, las cuales se van a implementar paralelamente hasta completar el bloque, para luego continuar ejecutando el siguiente bloque.</text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T8">En </text:span><text:span text:style-name="T8"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T8"> se presenta información más detallada sobre la programación de tornos CNC, en particular aquellas funcionalidades que aplican a la máquina en cuestión.</text:span></text:p>
+   <text:h text:style-name="P47" text:outline-level="3">Ciclos fijos</text:h>
+   <text:p text:style-name="P20">Los fabricantes de controladoras CNC diferencian sus productos con la implementación de distintas funcionalidades, un grupo importante de dichas funcionalidades son los ciclos fijos, los cuales permiten con un sólo bloque realizar operaciones que llevarían muchos bloques realizar de otra forma, dejando al CNC todo el cálculo necesario para realizarlo, en <text:span text:style-name="T8"><text:reference-ref text:reference-format="text" text:ref-name="programacion-torno">Error: no se encontró el origen de la referencia</text:reference-ref></text:span><text:span text:style-name="T8"> </text:span>se puede encontrar una sección completa que describe los ciclos fijos disponibles en la controladora en cuestión.</text:p>
   </office:text>
  </office:body>
 </office:document>
